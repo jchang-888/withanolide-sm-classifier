@@ -1,0 +1,25 @@
+Training proteins (set B): 2633
+train-vs-train hits (E<1e-3): 54558   test-vs-train hits: 3564
+
+[id40] clusters: 1320   singletons: 855   largest: 44   top 5 sizes: [44, 42, 29, 26, 20]
+[id40] per fold (GM / SM):
+label       GM  SM
+fold_id40         
+0          445  82
+1          445  82
+2          444  82
+3          444  82
+4          445  82
+
+[family] clusters: 764   singletons: 386   largest: 144   top 5 sizes: [144, 77, 67, 66, 55]
+[family] per fold (GM / SM):
+label         GM  SM
+fold_family         
+0            445  78
+1            454  87
+2            440  78
+3            444  77
+4            440  90
+
+Test proteins: best identity to any training protein (median by label): {'GM': 0.757, 'SM': 0.35}
+Test proteins with no hit at E<1e-3: 0

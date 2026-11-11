@@ -1,0 +1,46 @@
+protein,gene,label,name,tier,length
+g3303.t1_1,g3303,SM,CYP87G1,"cloned, enzyme reported active",482
+g3304.t1_1,g3304,SM,24ISO,"cluster, not cloned",567
+g3305.t1_1,g3305,SM,SULF,"cluster, not cloned",345
+g3306.t1_1,g3306,SM,CYP749B2,"cluster, not cloned",482
+FUN_112423.t1_1,FUN_112423,SM,CYP88C10,"cluster, not cloned",443
+g3307.t1_1,g3307,SM,SDH1,"cloned, activity not confirmed here",266
+g3308.t1_1,g3308,SM,AT,"cluster, not cloned",433
+g3310.t1_1,g3310,SM,CYP88C7,"cloned, enzyme reported active",450
+g3311.t1_1,g3311,SM,CYP88C10,"cloned, enzyme reported active",473
+g3312b.t1_1,g3312b,SM,CYP87G1,"cloned, enzyme reported active",483
+g3312.t1_1,g3312,SM,CYP87G1,"cloned, enzyme reported active",483
+g3313.t1_1,g3313,SM,24ISO,"cloned, enzyme reported active",568
+g3314.t1_1,g3314,SM,SDH2,"cloned, enzyme reported active",263
+g3315.t1_1,g3315,SM,CYP88C7,"cloned, enzyme reported active",450
+g3318.t1_1,g3318,SM,AT,"cluster, not cloned",433
+g3320.t1_1,g3320,SM,SULF1,"cloned, enzyme reported active",346
+g18181.t1_1,g18181,SM,CYP749B2,"cluster, not cloned",507
+g18182.t1_1,g18182,SM,OGD7,"cluster, not cloned",300
+g18183.t1_1,g18183,SM,CYP749B2,"cloned, enzyme reported active",511
+g18184.t1_1,g18184,SM,CYP749B2,"cluster, not cloned",511
+g18185.t1_1,g18185,SM,CYP88C8,"cluster, not cloned",478
+g18187.t1_1,g18187,SM,OGD6,"cluster, not cloned",299
+g18188.t1_1,g18188,SM,OGD5,"cluster, not cloned",299
+g18189.t1_1,g18189,SM,OGD4,"cluster, not cloned",299
+g18191.t1_1,g18191,SM,CYP88C7,"cloned, enzyme reported active",482
+g18192.t1_1,g18192,SM,CYP88C8,"cluster, not cloned",478
+g18193.t1_1,g18193,SM,OGD3,"cluster, not cloned",317
+g18194.t1_1,g18194,SM,OGD2,"cluster, not cloned",317
+g18195.t1_1,g18195,SM,OGD1,"cluster, not cloned",314
+g9417.t1_1,g9417,GM,SMT1 ortholog,reciprocal best hit,346
+g23189.t1_1,g23189,GM,SMT2 ortholog,reciprocal best hit,356
+g17977.t2_1,g17977,GM,SMO1-1 ortholog,reciprocal best hit,303
+g29221.t1_1,g29221,GM,SMO2-1 ortholog,reciprocal best hit,269
+g10833.t1_1,g10833,GM,CYP51G1 ortholog,reciprocal best hit,487
+g29106.t1_1,g29106,GM,HYD1 ortholog,reciprocal best hit,221
+g14187.t1_1,g14187,GM,DWF7 ortholog,reciprocal best hit,271
+g9305.t1_1,g9305,GM,DWF5 ortholog,reciprocal best hit,434
+g13055.t1_1,g13055,GM,DWF1 ortholog,reciprocal best hit,567
+g9126.t1_1,g9126,GM,CYP710A1 ortholog,reciprocal best hit,506
+g14244.t1_1,g14244,GM,DWF4/CYP90B1 ortholog,reciprocal best hit,498
+g34782.t1_1,g34782,GM,CPD/CYP90A1 ortholog,reciprocal best hit,483
+g17619.t1_1,g17619,GM,CYP90D1 ortholog,reciprocal best hit,491
+g8645.t1_1,g8645,GM,BR6OX1/CYP85A1 ortholog,reciprocal best hit,464
+g14303.t1_1,g14303,GM,ROT3/CYP90C1 ortholog,reciprocal best hit,494
+g34305.t1_1,g34305,GM,CAS1 ortholog,reciprocal best hit,758

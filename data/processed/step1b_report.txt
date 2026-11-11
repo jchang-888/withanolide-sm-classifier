@@ -1,0 +1,7 @@
+Withania proteins: 44100  (36057 genes)
+Cluster genes listed in authors' script: 36  found in FASTA: 36
+Cluster tiers: {'cluster, not cloned': 17, 'cloned, enzyme reported active': 11, 'pseudogene (excluded)': 5, 'not an enzyme (excluded)': 2, 'cloned, activity not confirmed here': 1}
+Primer-confirmed tested copies: {'CYP87G1': ['g3303', 'g3312', 'g3312b'], 'CYP749B2': ['g18183'], 'CYP88C7': ['g18191', 'g3310', 'g3315'], 'CYP88C10': ['g3311'], 'SDH2': ['g3314'], 'SDH1': ['g3307'], 'SULF1': ['g3320'], '24ISO': ['g3313']}
+Negative queries: 17  reciprocal best hits: 16
+Non-reciprocal (dropped): [['BR6OX2/CYP85A2', 'g8645', 'AT5G38970']]
+Final test set: {'SM': 29, 'GM': 16}

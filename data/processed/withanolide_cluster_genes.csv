@@ -1,0 +1,37 @@
+gene,script_label,enzyme,cloned_as,tier,protein_ids,in_fasta
+g3303,CYP87G1_1,CYP87G1,CYP87G1,"cloned, enzyme reported active",g3303.t1_1,True
+g3304,24ISO_1,24ISO,,"cluster, not cloned",g3304.t1_1,True
+g3305,SULF_2,SULF,,"cluster, not cloned",g3305.t1_1,True
+g3306,CYP749B2_1,CYP749B2,,"cluster, not cloned",g3306.t1_1;g3306.t2_1,True
+FUN_112423,CYP88C10_1,CYP88C10,,"cluster, not cloned",FUN_112423.t1_1,True
+g3307,SDH_1,SDH,SDH1,"cloned, activity not confirmed here",g3307.t1_1;g3307.t2_1,True
+g3308,AT_1,AT,,"cluster, not cloned",g3308.t1_1,True
+g3309,ALP1-like,ALP1-like,,not an enzyme (excluded),g3309.t1_1;g3309.t2_1,True
+g3310,CYP88C7_1,CYP88C7,CYP88C7,"cloned, enzyme reported active",g3310.t1_1;g3310.t2_1,True
+g3311,CYP88C10_2,CYP88C10,CYP88C10,"cloned, enzyme reported active",g3311.t1_1,True
+g3312b,CYP87G1_2,CYP87G1,CYP87G1,"cloned, enzyme reported active",g3312b.t1_1,True
+g3312,CYP87G1_3,CYP87G1,CYP87G1,"cloned, enzyme reported active",g3312.t1_1,True
+g3313,24ISO_2,24ISO,24ISO,"cloned, enzyme reported active",g3313.t1_1,True
+g3314,SDH_2,SDH,SDH2,"cloned, enzyme reported active",g3314.t1_1,True
+g3315,CYP88C7_2,CYP88C7,CYP88C7,"cloned, enzyme reported active",g3315.t1_1;g3315.t2_1,True
+g3316_g3317,psuedo_CYP749B2,psuedo_CYP749B2,,pseudogene (excluded),g3316_g3317.t1_1,True
+g3318,AT_2,AT,,"cluster, not cloned",g3318.t1_1,True
+g3319,zinc-finger-like,zinc-finger-like,,not an enzyme (excluded),g3319.t1_1,True
+g3320,SULF_1,SULF,SULF1,"cloned, enzyme reported active",g3320.t1_1,True
+g18181,CYP749B2_5,CYP749B2,,"cluster, not cloned",g18181.t1_1,True
+g18182,OGD7,OGD7,,"cluster, not cloned",g18182.t1_1,True
+g18183,CYP749B2_4,CYP749B2,CYP749B2,"cloned, enzyme reported active",g18183.t1_1,True
+g18184,CYP749B2_3,CYP749B2,,"cluster, not cloned",g18184.t1_1,True
+g18185,CYP88C8_2,CYP88C8,,"cluster, not cloned",g18185.t1_1,True
+g18186,pseudo_CYP749B2,pseudo_CYP749B2,,pseudogene (excluded),g18186.t1_1,True
+g18187,OGD6,OGD6,,"cluster, not cloned",g18187.t1_1,True
+g18188,OGD5,OGD5,,"cluster, not cloned",g18188.t1_1,True
+g18189,OGD4,OGD4,,"cluster, not cloned",g18189.t1_1,True
+g18190,pseudo_OGD,pseudo_OGD,,pseudogene (excluded),g18190.t1_1,True
+g18191,CYP88C7_3,CYP88C7,CYP88C7,"cloned, enzyme reported active",g18191.t1_1,True
+g18192,CYP88C8_1,CYP88C8,,"cluster, not cloned",g18192.t1_1,True
+g18193,OGD3,OGD3,,"cluster, not cloned",g18193.t1_1,True
+g18194,OGD2,OGD2,,"cluster, not cloned",g18194.t1_1,True
+g18195,OGD1,OGD1,,"cluster, not cloned",g18195.t1_1,True
+g18196,pseudo_24ISO,pseudo_24ISO,,pseudogene (excluded),g18196.t1_1,True
+g18197,psuedo_CYP87G1,psuedo_CYP87G1,,pseudogene (excluded),g18197.t1_1,True

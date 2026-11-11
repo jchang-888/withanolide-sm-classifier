@@ -1,0 +1,37 @@
+primer,name,end,peptide,matching_genes,n_matches,description
+ER0079,SDH2_fwd,N-term,MDNFNKKL,g3314,1,Amplify SDH2 for cloning into pEAQ-HT 
+ER0080,SDH2_rev,C-term,PPLFR,g3307;g3314,2,Amplify SDH2 for cloning into pEAQ-HT
+ER0095,24_iso_fwd,N-term,MSDEKE,g3313,1,Amplify 24ISO for 7RED/24ISO construct
+ER0111,24_iso_fwd,N-term,MSDEKE,g3313,1,Amplify GAL1/10 for 7RED/24ISO construct
+ER0123,CYP87G1_3_fwd,N-term,MMWDIILCI,,0,Amplify CYP87G1 for HO:: <PGAL1-CYP87G1-TENO2>
+ER0125,CYP87G1_fwd,N-term,MWDIILCI,g3312b,1,Amplify CYP87G1 for ATR1/CYP87G1 construct
+ER0177,CYP88C7_rev,C-term,RFKKIST,g3310;g3315,2,Amplify CYP88C7 for yeast integration constructs
+ER0180,CYP88C8_rev,C-term,RFKKLSA,g18185;g18192,2,Amplify CYP88C8 for yeast integration constructs
+ER0181,CYP749B2_rev,C-term,QIMLHPL,g18183;g3306,2,Amplify CYP749B2 for yeast integration constructs
+ER0211,CYP88C10_fwd,N-term,MEMDSSV,g3311,1,Amplify CYP88C10 for yeast integration construct cloning
+ER0212,CYP88C10_rev,C-term,KFKKISA,g3311,1,Amplify CYP88C10 for yeast integration construct cloning
+ER0215,SULF1_fwd,N-term,MPSSSP,g3320,1,Amplify SULF1 for yeast integration construct cloning
+ER0216,SULF1_rev,C-term,PISDKITTTN,g3320,1,Amplify SULF1 for yeast integration construct cloning
+ER0217,SDH1_fwd,N-term,MLVIFKLS,g3307,1,Amplify SDH1 for yeast integration construct cloning
+ER0218,SDH1_rev,C-term,PPLFR,g3307;g3314,2,Amplify SDH1 for yeast integration construct cloning
+ER0219,SDH2_fwd,N-term,MDNFNKKL,g3314,1,Amplify SDH2 for yeast integration construct cloning
+ER0220,SDH2_rev,C-term,PPLFR,g3307;g3314,2,Amplify SDH2 for yeast integration construct cloning
+ER0258,CYP88C7_fwd,N-term,MEYDLV,g18191;g3310;g3315,3,Amplify CYP88C7 for XII-4:: <TADH1-CYP88C7-PGAL1/10-CYP749B2-TCYC1>
+ER0262,CYP749B2_fwd,N-term,MMIAVIAF,g18181;g18183;g18184,3,Amplify CYP749B2 for XII-4:: <TADH1-CYP88C7-PGAL1/10-CYP749B2-TCYC1>
+ER0263,CYP749B2_rev,C-term,IMLHPL,g18183;g3306,2,Amplify CYP749B2 for XII-4:: <TADH1-CYP88C7-PGAL1/10-CYP749B2-TCYC1>
+ER0264,CYP88C10_fwd,N-term,MEMDSSV,g3311,1,Amplify CYP88C10 for yeast integration construct cloning
+ER0288,CYP87G1_1_fwd,N-term,MWNIILCIV,g3303,1,Amplify CYP87G1-1 for GAL1/10>ATR1_CYP87G1_1_tADH1_tPGK1::URA
+ER0289,CYP87G1_1_rev,C-term,ENNKEITG,g3303,1,Amplify CYP87G1-1 for GAL1/10>ATR1_CYP87G1_1_tADH1_tPGK1::URA
+ER0290,CYP87G1_2_fwd,N-term,MWDIILCI,g3312b,1,Amplify CYP87G1-2 for GAL1/10>ATR1_CYP87G1_2_tADH1_tPGK1::URA
+ER0291,CYP87G1_2_rev,C-term,KEISVA,g3312;g3312b,2,Amplify CYP87G1-2 for GAL1/10>ATR1_CYP87G1_2_tADH1_tPGK1::URA
+ER0292,CYP87G1_3_fwd,N-term,MRDIILC,g3312,1,Amplify CYP87G1-3 for GAL1/10>ATR1_CYP87G1_3_tADH1_tPGK1::URA
+ER0293,CYP87G1_3_rev,C-term,KEISVA,g3312;g3312b,2,Amplify CYP87G1-3 for GAL1/10>ATR1_CYP87G1_3_tADH1_tPGK1::URA
+ER0324,CYP88C7-1_fwd,N-term,MEYDLVFF,g3310;g3315,2,Amplify CYP88C7-1 for X-3:: <PGAL1-CYP88C7-1-TCYC1>
+ER0325,CYP88C7-2_fwd,N-term,MEYDLV,g18191;g3310;g3315,3,Amplify CYP88C7-2 for X-3:: <PGAL1-CYP88C7-2-TCYC1>
+ER0326,CYP88C7-2_rev,C-term,FKKIST,g3310;g3315,2,Amplify CYP88C7-2 for X-3:: <PGAL1-CYP88C7-2-TCYC1>
+ER0327,CYP88C7-3_fwd,N-term,MEYDLVFL,g18191,1,Amplify CYP88C7-3 for X-3:: <PGAL1-CYP88C7-3-TCYC1>
+ER0328,CYP88C7-3_rev,C-term,FKKFSA,g18191,1,Amplify CYP88C7-3 for X-3:: <PGAL1-CYP88C7-3-TCYC1>
+JH024,CYP749B2_rev,C-term,FTKLYSLS,,0,Amplify CYP749B2 for pTRV2 for VIGS
+JH026,Sulf1_rev,C-term,KIIYICRE,,0,Amplify SULF1 for pTRV2 for VIGS
+MT014,SDH2_fwd,N-term,MDNFNKKLE,g3314,1,Amplify SDH2 for XI-2:: <TADH1-SDH2-PGAL1/10-SDH2-TCYC1> 
+MT015,SDH2_rev,C-term,ALLSFDKSALTEK,,0,Amplify SDH2 for XI-2:: <TADH1-SDH2-PGAL1/10-SDH2-TCYC1> 

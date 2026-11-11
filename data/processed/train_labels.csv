@@ -1,0 +1,2623 @@
+gene,label,label_strict,description,family,moore_sm_score,length
+AT2G20690,GM,GM,lumazine-binding family protein,none,0.027,271
+AT5G10920,GM,GM,L-Aspartase-like family protein,none,0.029,517
+AT4G02580,GM,GM,"NADH-ubiquinone oxidoreductase 24 kDa subunit, putative",none,0.033,255
+AT5G52840,GM,GM,NADH-ubiquinone oxidoreductase-related,none,0.033,169
+AT4G02620,GM,GM,vacuolar ATPase subunit F family protein,none,0.033,128
+AT3G10700,GM,GM,galacturonic acid kinase,none,0.039,424
+AT1G19580,GM,GM,gamma carbonic anhydrase 1,none,0.044,275
+AT5G05920,GM,GM,deoxyhypusine synthase,none,0.047,368
+AT4G20960,GM,GM,Cytidine/deoxycytidylate deaminase family protein,none,0.044,426
+AT3G03100,GM,GM,"NADH:ubiquinone oxidoreductase, 17.2kDa subunit",none,0.046,159
+AT3G57220,GM,GM,Glycosyl transferase family 4 protein,none,0.047,426
+AT2G29690,GM,GM,anthranilate synthase 2,none,0.043,621
+AT5G63890,GM,GM,histidinol dehydrogenase,none,0.053,466
+AT1G78900,GM,GM,vacuolar ATP synthase subunit A,none,0.057,623
+AT1G01220,GM,GM,L-fucokinase/GDP-L-fucose pyrophosphorylase,none,0.054,1055
+AT1G63290,GM,GM,Aldolase-type TIM barrel family protein,none,0.054,227
+AT4G14910,GM,GM,HISTIDINE BIOSYNTHESIS 5B,none,0.057,308
+AT3G58180,GM,GM,ARM repeat superfamily protein,none,0.056,314
+AT1G80600,GM,GM,HOPW1-1-interacting 1,none,0.052,457
+AT5G63570,GM,GM,"glutamate-1-semialdehyde-2,1-aminomutase",none,0.056,474
+AT5G37510,GM,GM,"NADH-ubiquinone dehydrogenase, mitochondrial, putative",none,0.063,748
+AT2G31490,GM,GM,unknown,none,0.06,71
+AT2G37500,GM,GM,arginine biosynthesis protein ArgJ family,none,0.06,468
+AT3G55010,GM,GM,"phosphoribosylformylglycinamidine cyclo-ligase, chloroplast / phosphoribosyl-aminoimidazole synthetase / AIR synthase (PUR5)",none,0.064,389
+AT5G23300,GM,GM,pyrimidine d,none,0.065,460
+AT1G47260,GM,GM,gamma carbonic anhydrase 2,none,0.071,278
+AT4G32520,GM,GM,serine hydroxymethyltransferase 3,none,0.067,529
+AT5G67590,GM,GM,NADH-ubiquinone oxidoreductase-related,none,0.068,154
+AT3G55440,GM,GM,triosephosphate isomerase,none,0.066,254
+AT1G71750,GM,GM,Hypoxanthine-guanine phosphoribosyltransferase,none,0.065,198
+AT5G13450,GM,GM,delta subunit of Mt ATP synthase,none,0.071,238
+AT5G20040,GM,GM,isopentenyltransferase 9,none,0.07,469
+AT2G20860,GM,GM,lipoic acid synthase 1,none,0.068,374
+AT3G04080,GM,GM,apyrase 1,none,0.069,471
+AT2G25710,GM,GM,holocarboxylase synthase 1,none,0.071,367
+AT5G58250,GM,GM,unknown,none,0.071,211
+AT3G42050,GM,GM,vacuolar ATP synthase subunit H family protein,none,0.072,441
+AT5G08530,GM,GM,51 kDa subunit of complex I,none,0.073,486
+AT1G23820,GM,GM,spermidine synthase 1,none,0.077,378
+AT2G36530,GM,GM,Enolase,none,0.072,444
+AT5G63910,GM,GM,farnesylcysteine lyase,none,0.073,500
+AT4G36480,GM,GM,long-chain base1,none,0.075,482
+AT3G10050,GM,GM,L-O-methylthreonine resistant 1,none,0.072,592
+AT2G01140,GM,GM,Aldolase superfamily protein,none,0.072,391
+AT1G73250,GM,GM,"GDP-4-keto-6-deoxymannose-3,5-epimerase-4-reductase 1",none,0.073,323
+AT3G12260,GM,GM,LYR family of Fe/S cluster biogenesis protein,none,0.085,133
+AT3G47450,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.083,561
+AT4G04870,GM,GM,cardiolipin synthase,none,0.082,341
+AT3G53580,GM,GM,diaminopimelate epimerase family protein,none,0.086,362
+AT5G08340,GM,GM,Nucleotidylyl transferase superfamily protein,none,0.084,367
+AT3G22425,GM,GM,imidazoleglycerol-phosphate dehydratase,none,0.077,270
+AT1G29900,GM,GM,carbamoyl phosphate synthetase B,none,0.084,1187
+AT4G05450,GM,GM,mitochondrial ferredoxin 1,none,0.082,197
+AT5G48840,GM,GM,homolog of bacterial PANC,none,0.08,310
+AT2G13360,GM,GM,alanine:glyoxylate aminotransferase,none,0.089,401
+AT5G61410,GM,GM,D-ribulose-5-phosphate-3-epimerase,none,0.087,281
+AT3G09820,GM,GM,adenosine kinase 1,none,0.085,344
+AT3G14930,GM,GM,Uroporphyrinogen decarboxylase,none,0.089,418
+AT5G14850,GM,GM,Alg9-like mannosyltransferase family,none,0.085,548
+AT1G43710,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.087,482
+AT1G63660,GM,GM,"GMP synthase (glutamine-hydrolyzing), putative / glutamine amidotransferase, putative",none,0.085,534
+AT2G39930,GM,GM,isoamylase 1,none,0.083,783
+AT3G06200,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.08,282
+AT2G35020,GM,GM,N-acetylglucosamine-1-phosphate uridylyltransferase 2,none,0.092,502
+AT1G23870,GM,GM,trehalose-phosphatase/synthase 9,none,0.087,867
+AT2G04540,GM,GM,Beta-ketoacyl synthase,none,0.093,461
+AT2G29560,GM,GM,cytosolic enolase,none,0.084,475
+AT5G60540,GM,GM,pyridoxine biosynthesis 2,none,0.089,255
+AT3G58830,GM,GM,haloacid dehalogenase (HAD) superfamily protein,none,0.091,343
+AT1G27600,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.087,394
+AT2G40490,GM,GM,Uroporphyrinogen decarboxylase,none,0.091,394
+AT5G17530,GM,GM,phosphoglucosamine mutase family protein,none,0.089,614
+AT3G58730,GM,GM,vacuolar ATP synthase subunit D (VATD) / V-ATPase D subunit / vacuolar proton pump D subunit (VATPD),none,0.095,261
+AT3G23580,GM,GM,ribonucleotide reductase 2A,none,0.094,341
+AT1G09780,GM,GM,"Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent",none,0.091,557
+AT4G35260,GM,GM,isocitrate dehydrogenase 1,none,0.098,367
+AT1G60600,GM,GM,UbiA prenyltransferase family protein,none,0.095,382
+AT5G13630,GM,GM,"magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH)",none,0.094,1381
+AT1G23310,GM,GM,glutamate:glyoxylate aminotransferase,none,0.103,481
+AT4G13940,GM,GM,S-adenosyl-L-homocysteine hydrolase,none,0.097,485
+AT1G74960,GM,GM,fatty acid biosynthesis 1,none,0.094,541
+AT2G17630,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.097,422
+AT3G55360,GM,GM,3-oxo-5-alpha-steroid 4-dehydrogenase family protein,none,0.095,310
+AT3G57180,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.095,660
+AT5G18280,GM,GM,apyrase 2,none,0.094,630
+AT4G26900,GM,GM,HIS HF,none,0.101,592
+AT4G25080,GM,GM,magnesium-protoporphyrin IX methyltransferase,none,0.104,312
+AT3G02600,GM,GM,lipid phosphate phosphatase 3,none,0.099,364
+AT5G08280,GM,GM,hydroxymethylbilane synthase,none,0.11,382
+AT1G78690,GM,GM,Phospholipid/glycerol acyltransferase family protein,none,0.103,284
+AT4G31990,GM,GM,aspartate aminotransferase 5,none,0.098,462
+AT3G60620,GM,GM,cytidinediphosphate diacylglycerol synthase 5,none,0.102,399
+AT4G38370,GM,GM,Phosphoglycerate mutase family protein,none,0.103,225
+AT5G40870,GM,GM,uridine kinase/uracil phosphoribosyltransferase 1,none,0.101,486
+AT3G51520,GM,GM,diacylglycerol acyltransferase family,none,0.104,314
+AT1G72040,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.104,580
+AT5G20980,GM,GM,methionine synthase 3,none,0.111,812
+AT2G45150,GM,GM,cytidinediphosphate diacylglycerol synthase 4,none,0.109,430
+AT2G27730,GM,GM,copper ion binding,none,0.108,113
+AT1G60550,GM,GM,enoyl-CoA hydratase/isomerase D,none,0.106,337
+AT5G01650,GM,GM,Tautomerase/MIF superfamily protein,none,0.108,122
+AT5G16290,GM,GM,VALINE-TOLERANT 1,none,0.101,477
+AT1G70310,GM,GM,spermidine synthase 2,none,0.108,340
+AT4G09520,GM,GM,Cofactor-independent phosphoglycerate mutase,none,0.117,492
+AT4G31780,GM,GM,monogalactosyl diacylglycerol synthase 1,none,0.108,533
+AT4G11640,GM,GM,serine racemase,none,0.112,331
+AT1G74260,GM,GM,purine biosynthesis 4,none,0.111,1407
+AT3G60880,GM,GM,dihydrodipicolinate synthase 1,none,0.112,365
+AT1G60490,GM,GM,vacuolar protein sorting 34,none,0.11,814
+AT3G05170,GM,GM,Phosphoglycerate mutase family protein,none,0.113,316
+AT2G30200,GM,GM,catalytics;transferases;[acyl-carrier-protein] S-malonyltransferases;binding,none,0.112,393
+AT5G10160,GM,GM,Thioesterase superfamily protein,none,0.109,219
+AT1G08520,GM,GM,ALBINA 1,none,0.114,760
+AT2G30970,GM,GM,aspartate aminotransferase 1,none,0.11,430
+AT5G08380,GM,GM,alpha-galactosidase 1,none,0.109,410
+AT4G22930,GM,GM,pyrimidin 4,none,0.117,377
+AT1G66680,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.116,358
+AT1G69740,GM,GM,Aldolase superfamily protein,none,0.114,430
+AT1G04410,GM,GM,Lactate/malate dehydrogenase family protein,none,0.114,332
+AT1G13250,GM,GM,galacturonosyltransferase-like 3,none,0.119,345
+AT1G49820,GM,GM,S-methyl-5-thioribose kinase,none,0.115,420
+AT1G77670,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.119,440
+AT1G23360,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.118,261
+AT4G29130,GM,GM,hexokinase 1,none,0.126,496
+AT1G74040,GM,GM,2-isopropylmalate synthase 1,none,0.116,631
+AT2G19940,GM,GM,"oxidoreductases, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor;copper ion binding",none,0.122,401
+AT3G10940,GM,GM,dual specificity protein phosphatase (DsPTP1) family protein,none,0.121,282
+AT1G55090,GM,GM,carbon-nitrogen hydrolase family protein,none,0.121,725
+AT4G00550,GM,GM,digalactosyl diacylglycerol deficient 2,none,0.126,473
+AT5G59440,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.12,271
+AT5G57850,GM,GM,D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein,none,0.119,373
+AT2G01350,GM,GM,quinolinate phoshoribosyltransferase,none,0.122,348
+AT5G53460,GM,GM,NADH-dependent glutamate synthase 1,none,0.123,2208
+AT3G27190,GM,GM,uridine kinase-like 2,none,0.126,483
+AT1G27450,GM,GM,adenine phosphoribosyl transferase 1,none,0.127,284
+AT2G21170,GM,GM,triosephosphate isomerase,none,0.125,315
+AT2G30920,GM,GM,coenzyme Q 3,none,0.124,322
+AT2G45440,GM,GM,dihydrodipicolinate synthase,none,0.12,365
+AT2G36310,GM,GM,uridine-ribohydrolase 1,none,0.127,336
+AT1G04620,GM,GM,"coenzyme F420 hydrogenase family / dehydrogenase, beta subunit family",none,0.126,462
+AT1G61850,GM,GM,phospholipases;galactolipases,none,0.128,1311
+AT1G31220,GM,GM,Formyl transferase,none,0.133,292
+AT2G04650,GM,GM,ADP-glucose pyrophosphorylase family protein,none,0.13,406
+AT3G52930,GM,GM,Aldolase superfamily protein,none,0.134,358
+AT3G61530,GM,GM,Phosphoenolpyruvate carboxylase family protein,none,0.127,354
+AT4G32180,GM,GM,pantothenate kinase 2,none,0.132,901
+AT2G33040,GM,GM,gamma subunit of Mt ATP synthase,none,0.136,325
+AT2G31810,GM,GM,ACT domain-containing small subunit of acetolactate synthase protein,none,0.135,491
+AT3G04940,GM,GM,cysteine synthase D1,none,0.147,324
+AT5G65720,GM,GM,nitrogen fixation S (NIFS)-like 1,none,0.131,453
+AT4G30340,GM,GM,diacylglycerol kinase 7,none,0.128,492
+AT4G33680,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.143,461
+AT1G75330,GM,GM,ornithine carbamoyltransferase,none,0.143,375
+AT3G18680,GM,GM,Amino acid kinase family protein,none,0.131,339
+AT5G21060,GM,GM,Glyceraldehyde-3-phosphate dehydrogenase-like family protein,none,0.132,378
+AT3G08610,GM,GM,unknown,none,0.142,65
+AT5G64380,GM,GM,Inositol monophosphatase family protein,none,0.145,404
+AT4G33510,GM,GM,3-deoxy-d-arabino-heptulosonate 7-phosphate synthase,none,0.134,507
+AT1G79470,GM,GM,Aldolase-type TIM barrel family protein,none,0.135,503
+AT1G06570,GM,GM,phytoene desaturation 1,none,0.137,473
+AT1G03030,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.135,301
+AT3G57650,GM,GM,lysophosphatidyl acyltransferase 2,none,0.133,389
+AT1G26190,GM,GM,Phosphoribulokinase / Uridine kinase family,none,0.133,674
+AT3G23940,GM,GM,dehydratase family,none,0.149,608
+AT4G29540,GM,GM,bacterial transferase hexapeptide repeat-containing protein,none,0.137,336
+AT4G11010,GM,GM,nucleoside diphosphate kinase 3,none,0.14,238
+AT3G47390,GM,GM,cytidine/deoxycytidylate deaminase family protein,none,0.146,599
+AT5G23670,GM,GM,long chain base2,none,0.141,489
+AT3G10030,GM,GM,aspartate/glutamate/uridylate kinase family protein,none,0.143,542
+AT1G74340,GM,GM,dolichol phosphate-mannose biosynthesis regulatory protein-related,none,0.13,80
+AT4G39540,GM,GM,shikimate kinase 2,none,0.145,308
+AT4G34740,GM,GM,GLN phosphoribosyl pyrophosphate amidotransferase 2,none,0.142,561
+AT3G48560,GM,GM,chlorsulfuron/imidazolinone resistant 1,none,0.134,670
+AT5G42870,GM,GM,phosphatidic acid phosphohydrolase 2,none,0.139,930
+AT4G24830,GM,GM,arginosuccinate synthase family,none,0.138,494
+AT2G33220,GM,GM,GRIM-19 protein,none,0.14,143
+AT1G79750,GM,GM,NADP-malic enzyme 4,none,0.138,646
+AT4G05400,GM,GM,copper ion binding,none,0.145,250
+AT3G14270,GM,GM,phosphatidylinositol-4-phosphate 5-kinase family protein,none,0.137,1791
+AT5G64860,GM,GM,disproportionating enzyme,none,0.143,576
+AT4G32360,GM,GM,Pyridine nucleotide-disulphide oxidoreductase family protein,none,0.138,483
+AT5G47840,GM,GM,adenosine monophosphate kinase,none,0.153,283
+AT4G34840,GM,GM,Phosphorylase superfamily protein,none,0.144,254
+AT5G42740,GM,GM,Sugar isomerase (SIS) family protein,none,0.146,560
+AT3G57610,GM,GM,adenylosuccinate synthase,none,0.15,490
+AT3G17970,GM,GM,translocon at the outer membrane of chloroplasts 64-III,none,0.151,589
+AT5G46290,GM,GM,3-ketoacyl-acyl carrier protein synthase I,none,0.147,489
+AT4G38800,GM,GM,methylthioadenosine nucleosidase 1,none,0.151,267
+AT3G63250,GM,GM,homocysteine methyltransferase 2,none,0.143,333
+AT2G27820,GM,GM,prephenate dehydratase 1,none,0.15,424
+AT4G23660,GM,GM,polyprenyltransferase 1,none,0.151,429
+AT5G11770,GM,GM,"NADH-ubiquinone oxidoreductase 20 kDa subunit, mitochondrial",none,0.149,218
+AT1G03475,GM,GM,Coproporphyrinogen III oxidase,none,0.149,386
+AT1G18640,GM,GM,3-phosphoserine phosphatase,none,0.143,295
+AT5G03300,GM,GM,adenosine kinase 2,none,0.147,345
+AT2G02050,GM,GM,"NADH-ubiquinone oxidoreductase B18 subunit, putative",none,0.156,103
+AT2G43710,GM,GM,Plant stearoyl-acyl-carrier-protein desaturase family protein,none,0.144,401
+AT1G50460,GM,GM,hexokinase-like 1,none,0.15,498
+AT3G57050,GM,GM,cystathionine beta-lyase,none,0.145,464
+AT2G35370,GM,GM,glycine decarboxylase complex H,none,0.157,165
+AT2G44350,GM,GM,Citrate synthase family protein,none,0.152,474
+AT5G63400,GM,GM,adenylate kinase 1,none,0.163,246
+AT4G22340,GM,GM,cytidinediphosphate diacylglycerol synthase 2,none,0.148,447
+AT2G16570,GM,GM,GLN phosphoribosyl pyrophosphate amidotransferase 1,none,0.148,566
+AT1G11790,GM,GM,arogenate dehydratase 1,none,0.153,392
+AT1G16350,GM,GM,Aldolase-type TIM barrel family protein,none,0.153,502
+AT5G13050,GM,GM,5-formyltetrahydrofolate cycloligase,none,0.151,277
+AT5G10240,GM,GM,asparagine synthetase 3,none,0.156,578
+AT1G08250,GM,GM,arogenate dehydratase 6,none,0.158,413
+AT1G20575,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.152,246
+AT5G18200,GM,GM,UTP:galactose-1-phosphate uridylyltransferases;ribose-5-phosphate adenylyltransferases,none,0.153,351
+AT1G16340,GM,GM,Aldolase superfamily protein,none,0.153,293
+AT3G59890,GM,GM,"Dihydrodipicolinate reductase, bacterial/plant",none,0.199,349
+AT3G57560,GM,GM,N-acetyl-l-glutamate kinase,none,0.149,347
+AT1G68760,GM,GM,nudix hydrolase  1,none,0.148,147
+AT4G02610,GM,GM,Aldolase-type TIM barrel family protein,none,0.161,275
+AT1G51650,GM,GM,"ATP synthase epsilon chain, mitochondrial",none,0.153,70
+AT5G63510,GM,GM,gamma carbonic anhydrase like 1,none,0.155,279
+AT2G47760,GM,GM,asparagine-linked glycosylation 3,none,0.153,438
+AT3G54020,GM,GM,Arabidopsis Inositol phosphorylceramide synthase 1,none,0.196,305
+AT3G56940,GM,GM,"dicarboxylate diiron protein, putative (Crd1)",none,0.171,409
+AT2G22230,GM,GM,Thioesterase superfamily protein,none,0.156,220
+AT5G47650,GM,GM,nudix hydrolase homolog 2,none,0.159,278
+AT5G20840,GM,GM,Phosphoinositide phosphatase family protein,none,0.156,831
+AT2G44050,GM,GM,"6,7-dimethyl-8-ribityllumazine synthase / DMRL synthase / lumazine synthase / riboflavin synthase",none,0.167,227
+AT1G09830,GM,GM,Glycinamide ribonucleotide (GAR) synthetase,none,0.158,532
+AT5G64300,GM,GM,GTP cyclohydrolase II,none,0.164,543
+AT2G35040,GM,GM,AICARFT/IMPCHase bienzyme family protein,none,0.162,596
+AT1G48520,GM,GM,GLU-ADT subunit B,none,0.162,550
+AT3G15690,GM,GM,Single hybrid motif superfamily protein,none,0.158,263
+AT4G35830,GM,GM,aconitase 1,none,0.154,898
+AT1G54340,GM,GM,isocitrate dehydrogenase,none,0.162,416
+AT5G66120,GM,GM,"3-dehydroquinate synthase, putative",none,0.152,442
+AT3G11670,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.156,808
+AT5G57170,GM,GM,Tautomerase/MIF superfamily protein,none,0.162,116
+AT1G68750,GM,GM,phosphoenolpyruvate carboxylase 4,none,0.162,1032
+AT2G47240,GM,GM,AMP-dependent synthetase and ligase family protein,none,0.164,660
+AT1G53310,GM,GM,phosphoenolpyruvate carboxylase 1,none,0.153,967
+AT1G65930,GM,GM,cytosolic NADP+-dependent isocitrate dehydrogenase,none,0.159,410
+AT1G78580,GM,GM,trehalose-6-phosphate synthase,none,0.16,942
+AT3G22460,GM,GM,O-acetylserine (thiol) lyase (OAS-TL) isoform A2,none,0.16,305
+AT1G71010,GM,GM,FORMS APLOID AND BINUCLEATE CELLS 1C,none,0.164,1648
+AT5G24300,GM,GM,"Glycogen/starch synthases, ADP-glucose type",none,0.166,652
+AT3G55610,GM,GM,delta 1-pyrroline-5-carboxylate synthase 2,none,0.206,726
+AT4G16700,GM,GM,phosphatidylserine decarboxylase 1,none,0.168,453
+AT2G22780,GM,GM,peroxisomal NAD-malate dehydrogenase 1,none,0.159,354
+AT2G06925,GM,GM,Phospholipase A2 family protein,none,0.165,148
+AT2G26830,GM,GM,Protein kinase superfamily protein,none,0.169,374
+AT3G03250,GM,GM,UDP-GLUCOSE PYROPHOSPHORYLASE 1,none,0.169,469
+AT5G43940,GM,GM,GroES-like zinc-binding dehydrogenase family protein,none,0.16,391
+AT1G04010,GM,GM,phospholipid sterol acyl transferase 1,none,0.168,633
+AT3G60100,GM,GM,citrate synthase 5,none,0.17,464
+AT3G09560,GM,GM,Lipin family protein,none,0.165,904
+AT2G20360,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.158,402
+AT2G41220,GM,GM,glutamate synthase 2,none,0.164,1629
+AT1G18500,GM,GM,methylthioalkylmalate synthase-like 4,none,0.164,631
+AT5G03290,GM,GM,isocitrate dehydrogenase V,none,0.162,374
+AT5G11160,GM,GM,adenine phosphoribosyltransferase 5,none,0.166,191
+AT5G63310,GM,GM,nucleoside diphosphate kinase 2,none,0.169,231
+AT3G04520,GM,GM,threonine aldolase 2,none,0.173,355
+AT2G38050,GM,GM,3-oxo-5-alpha-steroid 4-dehydrogenase family protein,none,0.167,262
+AT1G56190,GM,GM,Phosphoglycerate kinase family protein,none,0.178,478
+AT2G38670,GM,GM,phosphorylethanolamine cytidylyltransferase 1,none,0.175,421
+AT3G61510,GM,GM,ACC synthase 1,none,0.213,488
+AT4G22570,GM,GM,adenine phosphoribosyl transferase 3,none,0.173,183
+AT3G47930,GM,GM,"L-galactono-1,4-lactone dehydrogenase",none,0.173,610
+AT3G20040,GM,GM,Hexokinase,none,0.185,502
+AT5G37830,GM,GM,oxoprolinase 1,none,0.172,1266
+AT5G66530,GM,GM,Galactose mutarotase-like superfamily protein,none,0.178,307
+AT2G04560,GM,GM,"transferases, transferring glycosyl groups",none,0.18,460
+AT2G26550,GM,GM,heme oxygenase 2,none,0.174,354
+AT4G05210,GM,GM,Trimeric LpxA-like enzymes superfamily protein,none,0.178,330
+AT1G49430,GM,GM,long-chain acyl-CoA synthetase 2,none,0.179,665
+AT3G46970,GM,GM,alpha-glucan phosphorylase 2,none,0.175,841
+AT2G21790,GM,GM,ribonucleotide reductase 1,none,0.184,816
+AT1G43670,GM,GM,Inositol monophosphatase family protein,none,0.18,341
+AT3G20480,GM,GM,tetraacyldisaccharide 4'-kinase family protein,none,0.178,395
+AT5G25880,GM,GM,NADP-malic enzyme 3,none,0.18,588
+AT5G50210,GM,GM,quinolinate synthase,none,0.18,718
+AT1G48140,GM,GM,dolichol-phosphate mannosyltransferase-related,none,0.184,89
+AT3G03630,GM,GM,cysteine synthase 26,none,0.189,404
+AT3G07330,GM,GM,Cellulose-synthase-like C6,none,0.18,682
+AT3G48190,GM,GM,ataxia-telangiectasia mutated,none,0.19,3845
+AT1G68020,GM,GM,UDP-Glycosyltransferase / trehalose-phosphatase family protein,none,0.187,860
+AT4G09320,GM,GM,Nucleoside diphosphate kinase family protein,none,0.183,169
+AT2G37090,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.179,351
+AT3G58490,GM,GM,Phosphatidic acid phosphatase (PAP2) family protein,none,0.229,416
+AT3G25660,GM,GM,Amidase family protein,none,0.195,537
+AT1G67350,GM,GM,unknown,none,0.19,98
+AT4G20150,GM,GM,unknown,none,0.197,81
+AT1G69640,GM,GM,sphingoid base hydroxylase 1,none,0.191,260
+AT2G19450,GM,GM,membrane bound O-acyl transferase (MBOAT) family protein,none,0.189,520
+AT2G35120,GM,GM,Single hybrid motif superfamily protein,none,0.183,156
+AT3G59770,GM,GM,sacI homology domain-containing protein / WW domain-containing protein,none,0.193,1646
+AT3G49700,GM,GM,1-aminocyclopropane-1-carboxylate synthase 9,none,0.191,470
+AT1G62640,GM,GM,3-ketoacyl-acyl carrier protein synthase III,none,0.19,404
+AT2G19860,GM,GM,hexokinase 2,none,0.203,502
+AT5G52560,GM,GM,UDP-sugar pyrophosphorylase,none,0.2,614
+AT1G79550,GM,GM,phosphoglycerate kinase,none,0.196,401
+AT5G48960,GM,GM,"HAD-superfamily hydrolase, subfamily IG, 5'-nucleotidase",none,0.195,642
+AT3G26780,GM,GM,Phosphoglycerate mutase family protein,none,0.216,399
+AT5G03690,GM,GM,Aldolase superfamily protein,none,0.193,393
+AT5G26570,GM,GM,"catalytics;carbohydrate kinases;phosphoglucan, water dikinases",none,0.197,1196
+AT1G06410,GM,GM,trehalose-phosphatase/synthase 7,none,0.191,851
+AT1G73980,GM,GM,Phosphoribulokinase / Uridine kinase family,none,0.193,643
+AT3G01120,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.193,563
+AT1G77590,GM,GM,long chain acyl-CoA synthetase 9,none,0.196,691
+AT4G36890,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.192,525
+AT5G57590,GM,GM,adenosylmethionine-8-amino-7-oxononanoate transaminases,none,0.206,833
+AT5G23070,GM,GM,Thymidine kinase,none,0.201,282
+AT5G13280,GM,GM,aspartate kinase 1,none,0.216,569
+AT1G51260,GM,GM,lysophosphatidyl acyltransferase 3,none,0.2,376
+AT1G70560,GM,GM,tryptophan aminotransferase of Arabidopsis 1,none,0.198,391
+AT5G16390,GM,GM,chloroplastic acetylcoenzyme A carboxylase 1,none,0.199,280
+AT4G23710,GM,GM,vacuolar ATP synthase subunit G2,none,0.2,106
+AT2G01290,GM,GM,ribose-5-phosphate isomerase 2,none,0.202,265
+AT3G02020,GM,GM,aspartate kinase 3,none,0.227,559
+AT5G45940,GM,GM,nudix hydrolase homolog 11,none,0.199,222
+AT2G41680,GM,GM,NADPH-dependent thioredoxin reductase C,none,0.202,529
+AT3G03650,GM,GM,Exostosin family protein,none,0.248,499
+AT5G20500,GM,GM,Glutaredoxin family protein,none,0.207,135
+AT3G62790,GM,GM,NADH-ubiquinone oxidoreductase-related,none,0.191,83
+AT1G70570,GM,GM,"anthranilate phosphoribosyltransferase, putative",none,0.196,632
+AT4G37840,GM,GM,hexokinase-like 3,none,0.209,493
+AT2G38040,GM,GM,acetyl Co-enzyme a carboxylase carboxyltransferase alpha subunit,none,0.193,769
+AT1G62960,GM,GM,ACC synthase 10,none,0.193,557
+AT3G12290,GM,GM,Amino acid dehydrogenase family protein,none,0.201,299
+AT2G22450,GM,GM,"riboflavin biosynthesis protein, putative",none,0.192,476
+AT1G53240,GM,GM,Lactate/malate dehydrogenase family protein,none,0.197,341
+AT1G19710,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.202,479
+AT3G11950,GM,GM,TRAF-like superfamily protein,none,0.236,572
+AT2G28880,GM,GM,para-aminobenzoate (PABA) synthase family protein,none,0.204,919
+AT5G20410,GM,GM,monogalactosyldiacylglycerol synthase 2,none,0.2,468
+AT3G07630,GM,GM,arogenate dehydratase 2,none,0.213,381
+AT4G33240,GM,GM,1-phosphatidylinositol-4-phosphate 5-kinases;zinc ion binding;1-phosphatidylinositol-3-phosphate 5-kinases,none,0.209,1757
+AT3G02570,GM,GM,"Mannose-6-phosphate isomerase, type I",none,0.207,432
+AT2G27760,GM,GM,tRNAisopentenyltransferase 2,none,0.202,466
+AT4G29840,GM,GM,Pyridoxal-5'-phosphate-dependent enzyme family protein,none,0.212,526
+AT5G66510,GM,GM,gamma carbonic anhydrase 3,none,0.203,269
+AT5G42890,GM,GM,sterol carrier protein 2,none,0.206,123
+AT2G42600,GM,GM,phosphoenolpyruvate carboxylase 2,none,0.206,963
+AT5G05980,GM,GM,DHFS-FPGS homolog B,none,0.214,571
+AT5G64370,GM,GM,beta-ureidopropionase,none,0.212,408
+AT5G37850,GM,GM,pfkB-like carbohydrate kinase family protein,none,0.218,343
+AT3G47520,GM,GM,malate dehydrogenase,none,0.223,403
+AT1G16540,GM,GM,molybdenum cofactor sulfurase (LOS5) (ABA3),none,0.21,819
+AT1G69720,GM,GM,heme oxygenase 3,none,0.213,285
+AT4G33670,GM,GM,NAD(P)-linked oxidoreductase superfamily protein,none,0.211,319
+AT3G19480,GM,GM,D-3-phosphoglycerate dehydrogenase,none,0.221,588
+AT4G29210,GM,GM,gamma-glutamyl transpeptidase 4,none,0.209,637
+AT4G18240,GM,GM,starch synthase 4,none,0.214,1040
+AT1G04640,GM,GM,lipoyltransferase 2,none,0.215,235
+AT2G31360,GM,GM,16:0delta9 desaturase 2,none,0.222,307
+AT1G74380,GM,GM,xyloglucan xylosyltransferase 5,none,0.21,457
+AT5G06090,GM,GM,glycerol-3-phosphate acyltransferase 7,none,0.252,500
+AT3G05970,GM,GM,long-chain acyl-CoA synthetase 6,none,0.212,701
+AT4G35190,GM,GM,Putative lysine decarboxylase family protein,none,0.222,228
+AT2G40840,GM,GM,disproportionating enzyme 2,none,0.215,955
+AT2G22250,GM,GM,aspartate aminotransferase,none,0.218,475
+AT2G37250,GM,GM,adenosine kinase,none,0.206,284
+AT5G20070,GM,GM,nudix hydrolase homolog 19,none,0.221,438
+AT2G41490,GM,GM,UDP-glcnac-adolichol phosphate glcnac-1-p-transferase,none,0.213,431
+AT5G18930,GM,GM,Adenosylmethionine decarboxylase family protein,none,0.221,347
+AT1G74030,GM,GM,enolase 1,none,0.229,477
+AT5G57800,GM,GM,Fatty acid hydroxylase superfamily,none,0.221,632
+AT3G07800,GM,GM,Thymidine kinase,none,0.221,238
+AT5G45900,GM,GM,ThiF family protein,none,0.228,697
+AT4G37930,GM,GM,serine transhydroxymethyltransferase 1,none,0.222,517
+AT3G07270,GM,GM,GTP cyclohydrolase I,none,0.236,466
+AT2G20810,GM,GM,galacturonosyltransferase 10,none,0.23,536
+AT3G24090,GM,GM,glutamine-fructose-6-phosphate transaminase (isomerizing)s;sugar binding;transaminases,none,0.224,677
+AT1G31860,GM,GM,histidine biosynthesis bifunctional protein (HISIE),none,0.234,281
+AT4G39660,GM,GM,alanine:glyoxylate aminotransferase 2,none,0.221,476
+AT1G13560,GM,GM,aminoalcoholphosphotransferase 1,none,0.212,389
+AT5G20280,GM,GM,sucrose phosphate synthase 1F,none,0.227,1043
+AT4G12440,GM,GM,adenine phosphoribosyl transferase 4,none,0.226,182
+AT1G15080,GM,GM,lipid phosphate phosphatase 2,none,0.223,290
+AT5G09420,GM,GM,translocon at the outer membrane of chloroplasts 64-V,none,0.224,603
+AT4G04640,GM,GM,"ATPase, F1 complex, gamma subunit protein",none,0.219,373
+AT5G17310,GM,GM,UDP-glucose pyrophosphorylase 2,none,0.225,470
+AT5G50370,GM,GM,Adenylate kinase family protein,none,0.223,248
+AT2G11810,GM,GM,monogalactosyldiacylglycerol synthase type C,none,0.236,465
+AT5G14060,GM,GM,Aspartate kinase family protein,none,0.261,544
+AT5G51690,GM,GM,1-amino-cyclopropane-1-carboxylate synthase 12,none,0.234,495
+AT3G51160,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.231,373
+AT3G54470,GM,GM,uridine 5'-monophosphate synthase / UMP synthase (PYRE-F) (UMPS),none,0.266,476
+AT5G56760,GM,GM,serine acetyltransferase 1;1,none,0.226,312
+AT5G26780,GM,GM,serine hydroxymethyltransferase 2,none,0.231,533
+AT3G53450,GM,GM,Putative lysine decarboxylase family protein,none,0.235,215
+AT3G06060,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.251,326
+AT1G14810,GM,GM,semialdehyde dehydrogenase family protein,none,0.24,375
+AT5G28840,GM,GM,"GDP-D-mannose 3',5'-epimerase",none,0.227,377
+AT3G09810,GM,GM,isocitrate dehydrogenase VI,none,0.249,374
+AT1G21480,GM,GM,Exostosin family protein,none,0.238,462
+AT3G08590,GM,GM,"Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent",none,0.224,560
+AT3G11945,GM,GM,homogentisate prenyltransferase,none,0.253,393
+AT3G08560,GM,GM,vacuolar H+-ATPase subunit E isoform 2,none,0.252,235
+AT1G64670,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.242,469
+ATCG01100,GM,GM,NADH dehydrogenase family protein,none,0.266,360
+AT4G24620,GM,GM,phosphoglucose isomerase 1,none,0.239,613
+AT3G14390,GM,GM,Pyridoxal-dependent decarboxylase family protein,none,0.281,484
+AT5G04140,GM,GM,glutamate synthase 1,none,0.24,1648
+AT5G54810,GM,GM,tryptophan synthase beta-subunit 1,none,0.263,470
+AT1G10760,GM,GM,"Pyruvate phosphate dikinase, PEP/pyruvate binding domain",none,0.24,1399
+AT2G21940,GM,GM,shikimate kinase 1,none,0.235,304
+AT5G14590,GM,GM,Isocitrate/isopropylmalate dehydrogenase family protein,none,0.232,485
+AT3G25900,GM,GM,Homocysteine S-methyltransferase family protein,none,0.25,326
+AT4G37690,GM,GM,Galactosyl transferase GMA12/MNN10 family protein,none,0.265,432
+AT1G18580,GM,GM,galacturonosyltransferase 11,none,0.245,537
+AT5G51290,GM,GM,Diacylglycerol kinase family protein,none,0.24,608
+AT1G15700,GM,GM,"ATPase, F1 complex, gamma subunit protein",none,0.25,386
+AT4G26970,GM,GM,aconitase 2,none,0.237,995
+AT1G62430,GM,GM,CDP-diacylglycerol synthase 1,none,0.237,421
+AT4G03205,GM,GM,Coproporphyrinogen III oxidase,none,0.247,240
+AT3G46940,GM,GM,DUTP-PYROPHOSPHATASE-LIKE 1,none,0.246,166
+AT3G06260,GM,GM,galacturonosyltransferase-like 4,none,0.243,351
+AT5G10870,GM,GM,chorismate mutase 2,none,0.245,265
+AT1G12640,GM,GM,MBOAT (membrane bound O-acyl transferase) family protein,none,0.239,462
+AT3G62660,GM,GM,galacturonosyltransferase-like 7,none,0.249,361
+AT3G52340,GM,GM,sucrose-6F-phosphate phosphohydrolase 2,none,0.245,423
+AT5G56720,GM,GM,Lactate/malate dehydrogenase family protein,none,0.26,339
+AT5G63770,GM,GM,diacylglycerol kinase 2,none,0.24,712
+ATCG00420,GM,GM,NADH dehydrogenase subunit J,none,0.26,158
+ATCG00430,GM,GM,photosystem II reaction center protein G,none,0.268,225
+AT3G53180,GM,GM,glutamate-ammonia ligases;catalytics;glutamate-ammonia ligases,none,0.255,852
+ATCG00150,GM,GM,"ATPase, F0 complex, subunit A protein",none,0.258,249
+AT1G09940,GM,GM,Glutamyl-tRNA reductase family protein,none,0.261,530
+AT3G62830,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.264,445
+AT1G67070,GM,GM,"Mannose-6-phosphate isomerase, type I",none,0.257,441
+AT5G36160,GM,GM,Tyrosine transaminase family protein,none,0.246,420
+AT2G36850,GM,GM,glucan synthase-like 8,none,0.275,1904
+AT4G38270,GM,GM,galacturonosyltransferase 3,none,0.264,680
+AT1G15110,GM,GM,phosphatidyl serine synthase family protein,none,0.256,453
+AT4G09020,GM,GM,isoamylase 3,none,0.255,764
+AT2G47690,GM,GM,NADH-ubiquinone oxidoreductase-related,none,0.254,118
+AT3G17810,GM,GM,pyrimidine 1,none,0.25,426
+AT3G61200,GM,GM,Thioesterase superfamily protein,none,0.25,188
+AT5G15470,GM,GM,galacturonosyltransferase 14,none,0.279,532
+AT2G22810,GM,GM,1-aminocyclopropane-1-carboxylate synthase 4,none,0.271,474
+AT2G35100,GM,GM,Exostosin family protein,none,0.264,447
+AT3G60180,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.258,204
+AT2G39770,GM,GM,Glucose-1-phosphate adenylyltransferase family protein,none,0.25,361
+AT5G11540,GM,GM,"D-arabinono-1,4-lactone oxidase family protein",none,0.257,585
+AT3G10160,GM,GM,DHFS-FPGS homolog C,none,0.268,625
+AT4G01850,GM,GM,S-adenosylmethionine synthetase 2,none,0.253,393
+AT5G65800,GM,GM,ACC synthase 5,none,0.255,470
+ATMG00070,GM,GM,NADH dehydrogenase subunit 9,none,0.272,190
+AT3G06350,GM,GM,"dehydroquinate dehydratase, putative / shikimate dehydrogenase, putative",none,0.257,603
+AT5G09660,GM,GM,peroxisomal NAD-malate dehydrogenase 2,none,0.253,363
+AT1G37150,GM,GM,holocarboxylase synthetase 2,none,0.253,329
+AT5G19530,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.261,339
+AT2G38400,GM,GM,alanine:glyoxylate aminotransferase 3,none,0.259,493
+AT4G13260,GM,GM,Flavin-binding monooxygenase family protein,none,0.27,415
+AT5G43330,GM,GM,Lactate/malate dehydrogenase family protein,none,0.247,332
+AT2G22900,GM,GM,Galactosyl transferase GMA12/MNN10 family protein,none,0.254,449
+AT1G15710,GM,GM,prephenate dehydrogenase family protein,none,0.274,358
+AT5G11320,GM,GM,Flavin-binding monooxygenase family protein,none,0.27,411
+AT2G01180,GM,GM,phosphatidic acid phosphatase 1,none,0.276,327
+AT1G27440,GM,GM,Exostosin family protein,none,0.271,412
+AT3G25140,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.276,559
+AT2G26540,GM,GM,uroporphyrinogen-III synthase family protein,none,0.277,321
+AT1G32060,GM,GM,phosphoribulokinase,none,0.268,395
+AT3G06810,GM,GM,acyl-CoA dehydrogenase-related,none,0.271,824
+AT3G57520,GM,GM,seed imbibition 2,none,0.259,773
+AT5G64250,GM,GM,Aldolase-type TIM barrel family protein,none,0.266,333
+AT5G13640,GM,GM,phospholipid:diacylglycerol acyltransferase,none,0.272,671
+AT5G14220,GM,GM,Flavin containing amine oxidoreductase family,none,0.271,508
+AT4G28130,GM,GM,diacylglycerol kinase 6,none,0.27,466
+AT3G10870,GM,GM,methyl esterase 17,none,0.282,276
+AT4G33030,GM,GM,sulfoquinovosyldiacylglycerol 1,none,0.272,477
+AT4G00400,GM,GM,glycerol-3-phosphate acyltransferase 8,none,0.288,500
+AT2G01460,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.264,955
+AT1G04430,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.269,623
+AT4G26260,GM,GM,myo-inositol oxygenase 4,none,0.268,318
+AT2G19880,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.269,520
+AT3G54950,GM,GM,patatin-like protein 6,none,0.272,488
+AT4G00570,GM,GM,NAD-dependent malic enzyme 2,none,0.276,607
+AT1G74910,GM,GM,ADP-glucose pyrophosphorylase family protein,none,0.278,415
+AT2G37210,GM,GM,lysine decarboxylase family protein,none,0.267,239
+AT1G05570,GM,GM,callose synthase 1,none,0.294,1950
+AT4G21220,GM,GM,Trimeric LpxA-like enzymes superfamily protein,none,0.317,304
+AT4G19860,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.288,535
+AT3G62720,GM,GM,xylosyltransferase 1,none,0.278,460
+AT5G26667,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.308,208
+AT4G21470,GM,GM,riboflavin kinase/FMN hydrolase,none,0.292,379
+AT4G15130,GM,GM,phosphorylcholine cytidylyltransferase2,none,0.285,304
+AT4G11570,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.292,373
+AT3G53900,GM,GM,uracil phosphoribosyltransferase,none,0.289,296
+AT5G15530,GM,GM,biotin carboxyl carrier protein 2,none,0.289,255
+AT3G48730,GM,GM,"glutamate-1-semialdehyde 2,1-aminomutase 2",none,0.284,472
+AT1G01610,GM,GM,glycerol-3-phosphate acyltransferase 4,none,0.281,503
+AT1G63000,GM,GM,nucleotide-rhamnose synthase/epimerase-reductase,none,0.293,301
+AT1G02720,GM,GM,galacturonosyltransferase 5,none,0.295,361
+AT3G25585,GM,GM,aminoalcoholphosphotransferase,none,0.29,389
+AT3G54050,GM,GM,high cyclic electron flow 1,none,0.294,417
+AT1G08510,GM,GM,fatty acyl-ACP thioesterases B,none,0.28,412
+AT3G18000,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.29,491
+AT2G38740,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.294,244
+AT1G09350,GM,GM,galactinol synthase 3,none,0.276,334
+AT2G27450,GM,GM,nitrilase-like protein 1,none,0.285,326
+AT4G37870,GM,GM,phosphoenolpyruvate carboxykinase 1,none,0.28,671
+AT5G34850,GM,GM,purple acid phosphatase 26,none,0.298,475
+ATMG00510,GM,GM,NADH dehydrogenase subunit 7,none,0.305,394
+AT4G20870,GM,GM,fatty acid hydroxylase 2,none,0.294,237
+AT4G25434,GM,GM,nudix hydrolase homolog 10,none,0.304,304
+AT4G14930,GM,GM,Survival protein SurE-like phosphatase/nucleotidase,none,0.306,315
+AT3G27060,GM,GM,Ferritin/ribonucleotide reductase-like family protein,none,0.297,332
+AT4G36830,GM,GM,GNS1/SUR4 membrane protein family,none,0.305,289
+AT2G44040,GM,GM,"Dihydrodipicolinate reductase, bacterial/plant",none,0.326,347
+AT2G27860,GM,GM,UDP-D-apiose/UDP-D-xylose synthase 1,none,0.319,389
+AT5G26030,GM,GM,ferrochelatase 1,none,0.305,466
+AT1G04610,GM,GM,YUCCA 3,none,0.292,437
+AT5G27600,GM,GM,long-chain acyl-CoA synthetase 7,none,0.304,700
+AT4G27070,GM,GM,tryptophan synthase beta-subunit 2,none,0.33,475
+AT2G04350,GM,GM,AMP-dependent synthetase and ligase family protein,none,0.32,720
+AT3G48680,GM,GM,gamma carbonic anhydrase-like 2,none,0.306,256
+AT1G17650,GM,GM,glyoxylate reductase 2,none,0.308,358
+AT2G31960,GM,GM,glucan synthase-like 3,none,0.311,1950
+AT1G68460,GM,GM,isopentenyltransferase 1,none,0.309,357
+AT1G70760,GM,GM,inorganic carbon transport protein-related,none,0.31,191
+AT5G14760,GM,GM,L-aspartate oxidase,none,0.309,651
+AT4G25970,GM,GM,phosphatidylserine decarboxylase 3,none,0.299,635
+AT2G41880,GM,GM,guanylate kinase 1,none,0.309,387
+AT1G21065,GM,GM,unknown,none,0.327,217
+AT2G39800,GM,GM,delta1-pyrroline-5-carboxylate synthase 1,none,0.31,717
+AT4G33070,GM,GM,Thiamine pyrophosphate dependent pyruvate decarboxylase family protein,none,0.314,607
+AT1G18690,GM,GM,Galactosyl transferase GMA12/MNN10 family protein,none,0.311,513
+AT5G43890,GM,GM,Flavin-binding monooxygenase family protein,none,0.31,424
+AT5G06300,GM,GM,Putative lysine decarboxylase family protein,none,0.321,217
+AT3G50660,GM,GM,Cytochrome P450 superfamily protein,p450,0.318,513
+AT5G40850,GM,GM,urophorphyrin methylase 1,none,0.32,369
+AT2G16370,GM,GM,thymidylate synthase 1,none,0.338,519
+AT2G36460,GM,GM,Aldolase superfamily protein,none,0.317,358
+AT3G23810,GM,GM,S-adenosyl-l-homocysteine (SAH) hydrolase 2,none,0.324,485
+AT5G57190,GM,GM,phosphatidylserine decarboxylase 2,none,0.316,635
+AT5G49810,GM,GM,methionine S-methyltransferase,none,0.324,1071
+AT1G32900,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.322,610
+AT1G51440,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.31,527
+AT2G26250,GM,GM,3-ketoacyl-CoA synthase 10,none,0.337,550
+AT5G11950,GM,GM,Putative lysine decarboxylase family protein,none,0.324,216
+AT4G39980,GM,GM,3-deoxy-D-arabino-heptulosonate 7-phosphate synthase 1,none,0.329,525
+AT4G38040,GM,GM,Exostosin family protein,none,0.316,425
+AT1G04290,GM,GM,Thioesterase superfamily protein,none,0.328,155
+AT2G16280,GM,GM,3-ketoacyl-CoA synthase 9,none,0.337,512
+AT2G43090,GM,GM,Aconitase/3-isopropylmalate dehydratase protein,none,0.327,251
+AT4G24670,GM,GM,tryptophan aminotransferase related 2,none,0.341,440
+AT2G33230,GM,GM,YUCCA 7,none,0.328,431
+AT5G15490,GM,GM,UDP-glucose 6-dehydrogenase family protein,none,0.324,480
+AT4G37770,GM,GM,1-amino-cyclopropane-1-carboxylate synthase 8,none,0.321,469
+AT5G22300,GM,GM,nitrilase 4,none,0.329,355
+AT3G17820,GM,GM,glutamine synthetase 1.3,none,0.328,354
+AT5G25370,GM,GM,phospholipase D alpha 3,none,0.325,820
+AT1G51420,GM,GM,sucrose-phosphatase 1,none,0.34,423
+AT5G14430,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.326,612
+AT3G23630,GM,GM,isopentenyltransferase 7,none,0.338,329
+AT1G36370,GM,GM,serine hydroxymethyltransferase 7,none,0.339,598
+AT1G63180,GM,GM,UDP-D-glucose/UDP-D-galactose 4-epimerase 3,none,0.352,351
+AT3G51660,GM,GM,Tautomerase/MIF superfamily protein,none,0.343,112
+AT1G28960,GM,GM,nudix hydrolase homolog 15,none,0.337,293
+AT4G04970,GM,GM,glucan synthase-like 1,none,0.33,1768
+AT2G38650,GM,GM,galacturonosyltransferase 7,none,0.338,619
+AT5G47240,GM,GM,nudix hydrolase homolog 8,none,0.344,369
+AT2G18700,GM,GM,trehalose phosphatase/synthase 11,none,0.349,862
+AT2G26640,GM,GM,3-ketoacyl-CoA synthase 11,none,0.344,509
+AT5G37600,GM,GM,glutamine synthase clone R1,none,0.345,356
+AT5G47780,GM,GM,galacturonosyltransferase 4,none,0.336,616
+AT1G30370,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.353,529
+AT1G48470,GM,GM,glutamine synthetase 1;5,none,0.342,353
+AT3G14940,GM,GM,phosphoenolpyruvate carboxylase 3,none,0.348,968
+AT4G08040,GM,GM,1-aminocyclopropane-1-carboxylate synthase 11,none,0.352,460
+AT2G26670,GM,GM,Plant haem oxygenase (decyclizing) family protein,none,0.34,282
+AT4G13050,GM,GM,Acyl-ACP thioesterase,none,0.348,367
+AT4G35630,GM,GM,phosphoserine aminotransferase,none,0.35,430
+AT3G29200,GM,GM,chorismate mutase 1,none,0.346,340
+AT5G59290,GM,GM,UDP-glucuronic acid decarboxylase 3,none,0.351,357
+AT2G19570,GM,GM,cytidine deaminase 1,none,0.348,301
+AT3G61580,GM,GM,Fatty acid/sphingolipid desaturase,none,0.346,449
+AT4G19180,GM,GM,GDA1/CD39 nucleoside phosphatase family protein,none,0.376,740
+AT5G11670,GM,GM,NADP-malic enzyme 2,none,0.345,588
+AT2G05710,GM,GM,aconitase 3,none,0.346,990
+AT5G20250,GM,GM,Raffinose synthase family protein,none,0.342,844
+AT3G44720,GM,GM,arogenate dehydratase 4,none,0.351,424
+AT5G19550,GM,GM,aspartate aminotransferase 2,none,0.348,405
+AT4G39770,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.364,349
+AT2G18730,GM,GM,diacylglycerol kinase 3,none,0.348,488
+AT1G78050,GM,GM,phosphoglycerate/bisphosphoglycerate mutase,none,0.356,332
+AT2G45290,GM,GM,Transketolase,none,0.354,741
+AT4G17090,GM,GM,chloroplast beta-amylase,none,0.35,548
+AT4G32810,GM,GM,carotenoid cleavage dioxygenase 8,none,0.381,570
+AT2G46370,GM,GM,Auxin-responsive GH3 family protein,none,0.358,586
+AT4G34200,GM,GM,D-3-phosphoglycerate dehydrogenase,none,0.357,603
+AT3G25110,GM,GM,fatA acyl-ACP thioesterase,none,0.363,362
+AT3G47340,GM,GM,glutamine-dependent asparagine synthase 1,none,0.369,584
+AT5G05690,GM,GM,Cytochrome P450 superfamily protein,p450,0.35,472
+AT2G22190,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.364,354
+AT2G13810,GM,GM,AGD2-like defense response protein 1,none,0.361,456
+AT4G34710,GM,GM,arginine decarboxylase 2,none,0.361,711
+AT5G43760,GM,GM,3-ketoacyl-CoA synthase 20,none,0.372,529
+AT2G29525,GM,GM,Arabidopsis Inositol phosphorylceramide synthase 3,none,0.381,289
+AT4G28730,GM,GM,Glutaredoxin family protein,none,0.381,174
+AT2G02970,GM,GM,GDA1/CD39 nucleoside phosphatase family protein,none,0.364,555
+AT3G53520,GM,GM,UDP-glucuronic acid decarboxylase 1,none,0.374,458
+AT5G56640,GM,GM,myo-inositol oxygenase 5,none,0.372,314
+AT2G16500,GM,GM,arginine decarboxylase 1,none,0.359,702
+AT1G14290,GM,GM,sphingoid base hydroxylase 2,none,0.364,259
+AT3G30180,GM,GM,brassinosteroid-6-oxidase 2,p450,0.371,465
+AT5G16910,GM,GM,cellulose-synthase like D2,none,0.361,1145
+AT3G03050,GM,GM,cellulose synthase-like D3,none,0.364,1145
+AT3G63110,GM,GM,isopentenyltransferase 3,none,0.372,336
+AT5G18170,GM,GM,glutamate dehydrogenase 1,none,0.366,411
+AT1G71100,GM,GM,"Ribose 5-phosphate isomerase, type A protein",none,0.377,267
+AT2G20270,GM,GM,Thioredoxin superfamily protein,none,0.393,206
+AT5G53970,GM,GM,Tyrosine transaminase family protein,none,0.398,414
+AT1G21430,GM,GM,Flavin-binding monooxygenase family protein,none,0.382,391
+AT5G53120,GM,GM,spermidine synthase 3,none,0.4,386
+AT1G71697,GM,GM,choline kinase 1,none,0.379,346
+AT2G19900,GM,GM,NADP-malic enzyme 1,none,0.384,581
+AT4G28720,GM,GM,Flavin-binding monooxygenase family protein,none,0.392,426
+AT1G56600,GM,GM,galactinol synthase 2,none,0.378,335
+AT1G78090,GM,GM,trehalose-6-phosphate phosphatase,none,0.392,374
+AT1G68540,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.391,321
+AT4G24650,GM,GM,isopentenyltransferase 4,none,0.384,318
+AT1G23320,GM,GM,tryptophan aminotransferase related 1,none,0.389,388
+AT3G08860,GM,GM,PYRIMIDINE 4,none,0.397,481
+AT1G70290,GM,GM,trehalose-6-phosphatase synthase S8,none,0.38,856
+AT1G25410,GM,GM,isopentenyltransferase 6,none,0.393,342
+AT3G48420,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.399,319
+AT2G47180,GM,GM,galactinol synthase 1,none,0.398,344
+AT4G07960,GM,GM,Cellulose-synthase-like C12,none,0.414,699
+AT4G35650,GM,GM,isocitrate dehydrogenase III,none,0.402,368
+AT2G18950,GM,GM,homogentisate phytyltransferase 1,none,0.4,393
+AT4G16820,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.403,517
+AT3G02910,GM,GM,AIG2-like (avirulence induced gene) family protein,none,0.413,187
+AT5G58310,GM,GM,methyl esterase 18,none,0.413,263
+AT4G26200,GM,GM,1-amino-cyclopropane-1-carboxylate synthase 7,none,0.416,447
+AT3G30775,GM,GM,Methylenetetrahydrofolate reductase family protein,none,0.414,499
+AT1G64440,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.429,348
+AT3G50760,GM,GM,galacturonosyltransferase-like 2,none,0.416,341
+AT4G27440,GM,GM,protochlorophyllide oxidoreductase B,none,0.411,401
+AT4G35420,GM,GM,dihydroflavonol 4-reductase-like1,none,0.41,326
+AT1G07720,GM,GM,3-ketoacyl-CoA synthase 3,none,0.423,478
+AT3G16150,GM,GM,N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein,none,0.425,325
+AT2G17130,GM,GM,isocitrate dehydrogenase subunit 2,none,0.432,367
+AT2G40190,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.445,463
+AT1G78570,GM,GM,rhamnose biosynthesis 1,none,0.429,669
+AT1G08630,GM,GM,threonine aldolase 1,none,0.418,358
+AT2G29590,GM,GM,Thioesterase superfamily protein,none,0.426,158
+AT4G39640,GM,GM,gamma-glutamyl transpeptidase 1,none,0.44,572
+AT2G39020,GM,GM,Acyl-CoA N-acyltransferases (NAT) superfamily protein,none,0.433,236
+AT4G12250,GM,GM,UDP-D-glucuronate 4-epimerase 5,none,0.448,436
+AT5G51460,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.436,385
+AT3G21070,GM,GM,NAD kinase 1,none,0.443,530
+AT4G12720,GM,GM,MutT/nudix family protein,none,0.426,322
+AT2G04400,GM,GM,Aldolase-type TIM barrel family protein,none,0.433,402
+AT5G13000,GM,GM,glucan synthase-like 12,none,0.441,1955
+AT1G68530,GM,GM,3-ketoacyl-CoA synthase 6,none,0.435,497
+AT1G06520,GM,GM,glycerol-3-phosphate acyltransferase 1,none,0.444,585
+AT1G01480,GM,GM,1-amino-cyclopropane-1-carboxylate synthase 2,none,0.448,496
+AT2G28110,GM,GM,Exostosin family protein,none,0.453,448
+AT4G10960,GM,GM,UDP-D-glucose/UDP-D-galactose 4-epimerase 5,none,0.457,351
+AT1G05800,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.452,471
+AT5G14070,GM,GM,Thioredoxin superfamily protein,none,0.459,140
+AT4G23920,GM,GM,UDP-D-glucose/UDP-D-galactose 4-epimerase 2,none,0.455,350
+AT1G12780,GM,GM,UDP-D-glucose/UDP-D-galactose 4-epimerase 1,none,0.461,351
+AT3G57550,GM,GM,guanylate kinase,none,0.445,390
+AT1G77370,GM,GM,Glutaredoxin family protein,none,0.46,130
+AT4G23900,GM,GM,Nucleoside diphosphate kinase family protein,none,0.452,237
+AT1G80050,GM,GM,adenine phosphoribosyl transferase 2,none,0.451,192
+AT1G55920,GM,GM,serine acetyltransferase 2;1,none,0.468,314
+AT1G19300,GM,GM,Nucleotide-diphospho-sugar transferases superfamily protein,none,0.462,351
+AT3G28340,GM,GM,galacturonosyltransferase-like 10,none,0.458,365
+AT2G26560,GM,GM,phospholipase A 2A,none,0.464,407
+AT4G13560,GM,GM,Late embryogenesis abundant protein (LEA) family protein,none,0.456,109
+AT1G35250,GM,GM,Thioesterase superfamily protein,none,0.487,188
+AT5G65140,GM,GM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.48,370
+AT2G30550,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.484,529
+AT3G45770,GM,GM,"Polyketide synthase, enoylreductase family protein",none,0.489,375
+AT1G55850,GM,GM,cellulose synthase like E1,none,0.476,729
+AT1G17745,GM,GM,D-3-phosphoglycerate dehydrogenase,none,0.48,651
+AT1G68260,GM,GM,Thioesterase superfamily protein,none,0.473,190
+AT4G03400,GM,GM,Auxin-responsive GH3 family protein,none,0.478,591
+AT3G46440,GM,GM,UDP-XYL synthase 5,none,0.477,341
+AT5G55250,GM,GM,IAA carboxylmethyltransferase 1,none,0.477,386
+AT3G28180,GM,GM,Cellulose-synthase-like C4,none,0.491,673
+AT3G54640,GM,GM,tryptophan synthase alpha chain,none,0.48,312
+AT1G36160,GM,GM,acetyl-CoA carboxylase 1,none,0.498,2254
+AT1G06800,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.489,515
+AT1G77120,GM,GM,alcohol dehydrogenase 1,none,0.486,379
+AT3G48780,GM,GM,serine palmitoyltransferase 1,none,0.49,489
+AT5G55120,GM,GM,galactose-1-phosphate guanylyltransferase (GDP)s;GDP-D-glucose phosphorylases;quercetin 4'-O-glucosyltransferases,none,0.496,431
+AT1G06490,GM,GM,glucan synthase-like 7,none,0.505,1958
+AT3G23820,GM,GM,UDP-D-glucuronate 4-epimerase 6,none,0.533,460
+AT4G25900,GM,GM,Galactose mutarotase-like superfamily protein,none,0.523,318
+AT1G78660,GM,GM,gamma-glutamyl hydrolase 1,none,0.533,348
+AT2G46750,GM,GM,"D-arabinono-1,4-lactone oxidase family protein",none,0.533,591
+AT2G38110,GM,GM,glycerol-3-phosphate acyltransferase 6,none,0.535,501
+AT2G21770,GM,GM,cellulose synthase A9,none,0.55,1088
+AT4G33790,GM,GM,Jojoba acyl CoA reductase-related male sterility protein,none,0.541,493
+AT5G04950,GM,GM,nicotianamine synthase 1,none,0.554,320
+AT5G58770,GM,GM,Undecaprenyl pyrophosphate synthetase family protein,none,0.549,310
+AT4G11830,GM,GM,phospholipase D gamma 2,none,0.553,856
+AT4G26530,GM,GM,Aldolase superfamily protein,none,0.542,358
+AT1G60470,GM,GM,galactinol synthase 4,none,0.563,334
+AT2G39030,GM,GM,Acyl-CoA N-acyltransferases (NAT) superfamily protein,none,0.575,228
+AT1G25450,GM,GM,3-ketoacyl-CoA synthase 5,none,0.568,492
+AT4G26520,GM,GM,Aldolase superfamily protein,none,0.546,358
+AT2G19800,GM,GM,myo-inositol oxygenase 2,none,0.575,317
+AT4G11280,GM,GM,1-aminocyclopropane-1-carboxylic acid (acc) synthase 6,none,0.578,495
+AT4G30440,GM,GM,UDP-D-glucuronate 4-epimerase 1,none,0.598,429
+AT3G03310,GM,GM,lecithin:cholesterol acyltransferase 3,none,0.581,447
+AT1G35290,GM,GM,Thioesterase superfamily protein,none,0.603,189
+AT5G63980,GM,GM,Inositol monophosphatase family protein,none,0.6,407
+AT2G04450,GM,GM,nudix hydrolase homolog 6,none,0.613,283
+AT5G54190,GM,GM,protochlorophyllide oxidoreductase A,none,0.638,405
+AT1G30620,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.639,419
+AT2G28630,GM,GM,3-ketoacyl-CoA synthase 12,none,0.669,476
+AT4G37050,GM,GM,PATATIN-like protein 4,none,0.678,428
+AT1G06080,GM,GM,delta 9 desaturase 1,none,0.736,305
+AT5G55130,GM,unknown,"co-factor for nitrate, reductase and xanthine dehydrogenase 5",none,0.055,464
+AT5G08415,GM,unknown,Radical SAM superfamily protein,none,0.058,394
+AT4G32915,GM,unknown,unknown,none,0.061,155
+AT1G12850,GM,unknown,Phosphoglycerate mutase family protein,none,0.079,405
+AT2G44520,GM,unknown,cytochrome c oxidase 10,none,0.092,431
+AT3G54690,GM,unknown,Sugar isomerase (SIS) family protein,none,0.091,350
+AT4G13720,GM,unknown,Inosine triphosphate pyrophosphatase family protein,none,0.099,206
+AT3G27740,GM,unknown,carbamoyl phosphate synthetase A,none,0.095,430
+AT4G36940,GM,unknown,nicotinate phosphoribosyltransferase 1,none,0.095,559
+AT1G51310,GM,unknown,transferases;tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferases,none,0.1,497
+AT1G55880,GM,unknown,Pyridoxal-5'-phosphate-dependent enzyme family protein,none,0.094,421
+AT3G47630,GM,unknown,unknown,none,0.095,332
+AT1G22020,GM,unknown,serine hydroxymethyltransferase 6,none,0.102,599
+AT1G51720,GM,unknown,Amino acid dehydrogenase family protein,none,0.107,637
+AT5G60620,GM,unknown,glycerol-3-phosphate acyltransferase 9,none,0.103,376
+AT5G56610,GM,unknown,Phosphotyrosine protein phosphatases superfamily protein,none,0.113,228
+AT4G26510,GM,unknown,uridine kinase-like 4,none,0.114,469
+AT4G02120,GM,unknown,CTP synthase family protein,none,0.116,556
+AT1G75210,GM,unknown,"HAD-superfamily hydrolase, subfamily IG, 5'-nucleotidase",none,0.12,642
+AT5G07360,GM,unknown,Amidase family protein,none,0.125,659
+AT2G38660,GM,unknown,Amino acid dehydrogenase family protein,none,0.12,352
+AT1G17410,GM,unknown,Nucleoside diphosphate kinase family protein,none,0.136,181
+AT3G10970,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.133,365
+AT5G38460,GM,unknown,"ALG6, ALG8 glycosyltransferase family",none,0.137,533
+AT3G43220,GM,unknown,Phosphoinositide phosphatase family protein,none,0.135,818
+AT1G72810,GM,unknown,Pyridoxal-5'-phosphate-dependent enzyme family protein,none,0.139,516
+AT1G74320,GM,unknown,Protein kinase superfamily protein,none,0.143,350
+AT3G01850,GM,unknown,Aldolase-type TIM barrel family protein,none,0.147,225
+AT2G05990,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.153,390
+AT3G12670,GM,unknown,CTP synthase family protein,none,0.148,591
+AT5G14500,GM,unknown,aldose 1-epimerase family protein,none,0.15,306
+AT3G05510,GM,unknown,Phospholipid/glycerol acyltransferase family protein,none,0.148,448
+AT3G42180,GM,unknown,Exostosin family protein,none,0.212,470
+AT5G53850,GM,unknown,haloacid dehalogenase-like hydrolase family protein,none,0.166,507
+AT3G61610,GM,unknown,Galactose mutarotase-like superfamily protein,none,0.164,317
+AT1G55810,GM,unknown,uridine kinase-like 3,none,0.174,466
+AT3G55590,GM,unknown,Glucose-1-phosphate adenylyltransferase family protein,none,0.172,364
+AT5G65685,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.169,460
+AT4G02130,GM,unknown,galacturonosyltransferase 6,none,0.167,346
+AT2G23890,GM,unknown,"HAD-superfamily hydrolase, subfamily IG, 5'-nucleotidase",none,0.166,553
+AT2G23420,GM,unknown,nicotinate phosphoribosyltransferase 2,none,0.179,557
+AT3G53140,GM,unknown,O-methyltransferase family protein,methyltransf_2,0.214,359
+AT4G30000,GM,unknown,Dihydropterin pyrophosphokinase / Dihydropteroate synthase,none,0.182,561
+AT2G22910,GM,unknown,N-acetyl-l-glutamate synthase 1,none,0.187,609
+AT3G07620,GM,unknown,Exostosin family protein,none,0.231,470
+AT4G25280,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.189,249
+AT2G35680,GM,unknown,Phosphotyrosine protein phosphatases superfamily protein,none,0.182,337
+AT2G21550,GM,unknown,Bifunctional dihydrofolate reductase/thymidylate synthase,none,0.203,492
+AT5G03770,GM,unknown,KDO transferase A,none,0.2,447
+AT3G18850,GM,unknown,lysophosphatidyl acyltransferase 5,none,0.196,375
+AT3G21730,GM,unknown,Dihydroneopterin aldolase,none,0.254,160
+AT2G34890,GM,unknown,CTP synthase family protein,none,0.213,597
+AT3G42850,GM,unknown,Mevalonate/galactokinase family protein,none,0.206,964
+AT1G60660,GM,unknown,cytochrome B5-like protein,none,0.212,121
+AT3G18220,GM,unknown,Phosphatidic acid phosphatase (PAP2) family protein,none,0.223,308
+AT4G34570,GM,unknown,thymidylate synthase 2,none,0.216,565
+AT1G34260,GM,unknown,FORMS APLOID AND BINUCLEATE CELLS 1A,none,0.212,1456
+AT3G23300,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.228,611
+AT1G17890,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.236,328
+AT4G21090,GM,unknown,MITOCHONDRIAL  FERREDOXIN 2,none,0.229,197
+AT5G07920,GM,unknown,diacylglycerol kinase1,none,0.238,728
+AT5G57690,GM,unknown,diacylglycerol kinase 4,none,0.238,487
+AT4G30570,GM,unknown,Glucose-1-phosphate adenylyltransferase family protein,none,0.244,331
+AT3G05190,GM,unknown,D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein,none,0.231,555
+AT3G63200,GM,unknown,PATATIN-like protein 9,none,0.229,384
+AT1G30910,GM,unknown,Molybdenum cofactor sulfurase family protein,none,0.234,318
+AT3G14205,GM,unknown,Phosphoinositide phosphatase family protein,none,0.253,808
+AT5G27410,GM,unknown,D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein,none,0.243,559
+AT4G16710,GM,unknown,glycosyltransferase family protein 28,none,0.248,176
+AT3G54270,GM,unknown,sucrose-6F-phosphate phosphohydrolase family protein,none,0.248,425
+AT4G37670,GM,unknown,N-acetyl-l-glutamate synthase 2,none,0.264,613
+AT2G32760,GM,unknown,unknown,none,0.251,352
+AT5G11130,GM,unknown,Exostosin family protein,none,0.29,480
+AT5G20260,GM,unknown,Exostosin family protein,none,0.292,458
+AT1G75020,GM,unknown,lysophosphatidyl acyltransferase 4,none,0.25,378
+AT1G62800,GM,unknown,aspartate aminotransferase 4,none,0.259,405
+AT5G25310,GM,unknown,Exostosin family protein,none,0.293,480
+AT2G20900,GM,unknown,diacylglycerol kinase 5,none,0.262,509
+AT4G32790,GM,unknown,Exostosin family protein,none,0.314,593
+AT3G56060,GM,unknown,Glucose-methanol-choline (GMC) oxidoreductase family protein,none,0.274,577
+AT3G01820,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.27,263
+AT3G25570,GM,unknown,Adenosylmethionine decarboxylase family protein,none,0.284,349
+AT4G24050,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.286,332
+AT5G54770,GM,unknown,"thiazole biosynthetic enzyme, chloroplast (ARA6) (THI1) (THI4)",none,0.278,349
+AT4G29890,GM,unknown,"choline monooxygenase, putative (CMO-like)",none,0.283,422
+AT5G19670,GM,unknown,Exostosin family protein,none,0.287,610
+AT1G75000,GM,unknown,GNS1/SUR4 membrane protein family,none,0.324,281
+AT3G44830,GM,unknown,Lecithin:cholesterol acyltransferase family protein,none,0.274,665
+AT4G31590,GM,unknown,Cellulose-synthase-like C5,none,0.279,692
+AT3G55870,GM,unknown,ADC synthase superfamily protein,none,0.283,492
+AT5G14470,GM,unknown,GHMP kinase family protein,none,0.29,366
+AT5G52490,GM,unknown,Fibrillarin family protein,none,0.299,292
+AT2G30575,GM,unknown,los glycosyltransferase 5,none,0.323,610
+AT3G01590,GM,unknown,Galactose mutarotase-like superfamily protein,none,0.295,306
+AT1G23330,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.286,471
+AT2G24630,GM,unknown,Glycosyl transferase family 2 protein,none,0.297,690
+AT4G32540,GM,unknown,Flavin-binding monooxygenase family protein,none,0.288,414
+AT3G14570,GM,unknown,glucan synthase-like 4,none,0.302,1976
+AT5G54140,GM,unknown,IAA-leucine-resistant (ILR1)-like 3,none,0.309,428
+AT3G59100,GM,unknown,glucan synthase-like 11,none,0.307,1921
+AT5G43850,GM,unknown,RmlC-like cupins superfamily protein,none,0.322,187
+AT4G01950,GM,unknown,glycerol-3-phosphate acyltransferase 3,none,0.299,520
+AT2G22905,GM,unknown,Expressed protein,none,0.333,141
+AT4G26965,GM,unknown,"NADH:ubiquinone oxidoreductase, 17.2kDa subunit",none,0.34,184
+AT1G30820,GM,unknown,CTP synthase family protein,none,0.304,600
+AT1G55740,GM,unknown,seed imbibition 1,none,0.307,754
+AT2G39220,GM,unknown,PATATIN-like protein 6,none,0.325,499
+AT3G27440,GM,unknown,uridine kinase-like 5,none,0.339,465
+AT4G00590,GM,unknown,N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein,none,0.338,408
+AT4G00110,GM,unknown,UDP-D-glucuronate 4-epimerase 3,none,0.33,430
+AT5G25620,GM,unknown,Flavin-binding monooxygenase family protein,none,0.339,426
+AT2G37700,GM,unknown,Fatty acid hydroxylase superfamily,none,0.371,613
+AT1G17340,GM,unknown,Phosphoinositide phosphatase family protein,none,0.344,785
+AT1G73540,GM,unknown,nudix hydrolase homolog 21,none,0.342,198
+AT2G33980,GM,unknown,nudix hydrolase homolog 22,none,0.349,302
+AT4G01995,GM,unknown,unknown,none,0.372,258
+AT4G11410,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.358,317
+AT1G04180,GM,unknown,YUCCA 9,none,0.351,421
+AT5G10100,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.365,369
+AT2G30720,GM,unknown,Thioesterase/thiol ester dehydrase-isomerase superfamily protein,none,0.39,455
+AT2G39270,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.385,295
+AT5G15950,GM,unknown,Adenosylmethionine decarboxylase family protein,none,0.373,362
+AT1G67790,GM,unknown,unknown,none,0.366,576
+AT2G15090,GM,unknown,3-ketoacyl-CoA synthase 8,none,0.384,481
+AT2G26400,GM,unknown,acireductone dioxygenase 3,none,0.374,199
+AT3G06470,GM,unknown,GNS1/SUR4 membrane protein family,none,0.391,278
+AT1G02000,GM,unknown,UDP-D-glucuronate 4-epimerase 2,none,0.383,434
+AT4G20320,GM,unknown,CTP synthase family protein,none,0.387,597
+AT3G58740,GM,unknown,citrate synthase 1,none,0.389,480
+AT5G03270,GM,unknown,lysine decarboxylase family protein,none,0.391,229
+AT1G32480,GM,unknown,isocitrate dehydrogenase IV,none,0.396,214
+AT5G50130,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.408,339
+AT4G12430,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.411,368
+AT4G23730,GM,unknown,Galactose mutarotase-like superfamily protein,none,0.407,306
+AT1G02190,GM,unknown,Fatty acid hydroxylase superfamily,none,0.42,627
+AT1G34270,GM,unknown,Exostosin family protein,none,0.408,477
+AT1G73600,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.412,504
+AT1G06780,GM,unknown,galacturonosyltransferase 6,none,0.425,602
+AT4G26250,GM,unknown,galactinol synthase 6,none,0.418,336
+AT2G01670,GM,unknown,nudix hydrolase homolog 17,none,0.431,182
+AT1G64710,GM,unknown,GroES-like zinc-binding dehydrogenase family protein,none,0.443,396
+AT2G32150,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.452,263
+AT3G06460,GM,unknown,GNS1/SUR4 membrane protein family,none,0.459,298
+AT3G16175,GM,unknown,Thioesterase superfamily protein,none,0.463,157
+AT4G09760,GM,unknown,Protein kinase superfamily protein,none,0.469,346
+AT4G22590,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.464,377
+AT1G69523,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.473,300
+AT1G02390,GM,unknown,glycerol-3-phosphate acyltransferase 2,none,0.49,530
+AT2G46760,GM,unknown,"D-arabinono-1,4-lactone oxidase family protein",none,0.496,603
+AT1G69526,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.503,307
+AT4G11840,GM,unknown,phospholipase D gamma 3,none,0.505,866
+AT5G59490,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.528,266
+AT5G59480,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.522,282
+AT2G45310,GM,unknown,UDP-D-glucuronate 4-epimerase 4,none,0.525,437
+AT1G68490,GM,unknown,unknown,none,0.522,183
+AT1G19440,GM,unknown,3-ketoacyl-CoA synthase 4,none,0.579,516
+AT5G51930,GM,unknown,Glucose-methanol-choline (GMC) oxidoreductase family protein,none,0.556,582
+AT1G67410,GM,unknown,Exostosin family protein,none,0.574,430
+AT1G03020,GM,unknown,Thioredoxin superfamily protein,none,0.596,102
+AT2G04430,GM,unknown,nudix hydrolase homolog 5,none,0.607,302
+AT4G29610,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.605,293
+AT2G30540,GM,unknown,Thioredoxin superfamily protein,none,0.619,102
+AT3G62960,GM,unknown,Thioredoxin superfamily protein,none,0.643,102
+AT3G58790,GM,unknown,galacturonosyltransferase 15,none,0.635,540
+AT1G06100,GM,unknown,Fatty acid desaturase family protein,none,0.654,299
+AT3G62930,GM,unknown,Thioredoxin superfamily protein,none,0.651,102
+AT3G51820,GM,GM,UbiA prenyltransferase family protein,none,0.097,387
+AT4G01690,GM,GM,Flavin containing amine oxidoreductase family,none,0.107,537
+AT1G70580,GM,GM,alanine-2-oxoglutarate aminotransferase 2,none,0.117,481
+AT1G26220,GM,GM,Acyl-CoA N-acyltransferases (NAT) superfamily protein,none,0.19,197
+AT3G11470,GM,GM,4'-phosphopantetheinyl transferase superfamily,none,0.246,300
+AT3G56040,GM,GM,UDP-glucose pyrophosphorylase 3,none,0.209,883
+AT1G64680,GM,GM,unknown,none,0.224,250
+AT1G58290,GM,GM,Glutamyl-tRNA reductase family protein,none,0.234,543
+AT1G44446,GM,GM,Pheophorbide a oxygenase family protein with Rieske [2Fe-2S] domain,none,0.229,536
+AT5G55190,GM,GM,RAN GTPase 3,none,0.271,221
+AT5G44520,GM,GM,NagB/RpiA/CoA transferase-like superfamily protein,none,0.242,296
+AT1G68890,GM,GM,magnesium ion binding;thiamin pyrophosphate binding;hydro-lyases;catalytics;2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthases,none,0.257,1715
+AT1G30520,GM,GM,acyl-activating enzyme 14,none,0.283,560
+AT1G06515,GM,GM,Protein of unknownown function (DUF3317),none,0.304,56
+AT1G36280,GM,GM,L-Aspartase-like family protein,none,0.315,527
+AT5G11880,GM,GM,Pyridoxal-dependent decarboxylase family protein,none,0.326,489
+AT5G19040,GM,GM,isopentenyltransferase 5,none,0.309,330
+AT3G42628,GM,GM,phosphoenolpyruvate carboxylase-related / PEP carboxylase-related,none,0.327,45
+AT5G62530,GM,GM,aldehyde dehydrogenase 12A1,none,0.298,556
+AT5G04900,GM,GM,NYC1-like,none,0.315,348
+AT5G57890,GM,GM,Glutamine amidotransferase type 1 family protein,none,0.339,273
+AT5G16890,GM,GM,Exostosin family protein,none,0.352,511
+AT5G66280,GM,GM,"GDP-D-mannose 4,6-dehydratase 1",none,0.333,361
+AT5G56650,GM,GM,IAA-leucine resistant (ILR)-like 1,none,0.346,438
+AT1G79010,GM,GM,Alpha-helical ferredoxin,none,0.329,222
+AT1G48910,GM,GM,Flavin-containing monooxygenase family protein,none,0.339,383
+AT4G18440,GM,GM,L-Aspartase-like family protein,none,0.354,536
+AT2G45970,GM,GM,"cytochrome P450, family 86, subfamily A, polypeptide 8",p450,0.347,537
+AT1G50480,GM,GM,10-formyltetrahydrofolate synthetase,none,0.384,634
+AT1G74920,GM,GM,aldehyde dehydrogenase 10A8,none,0.359,501
+AT1G24360,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.352,319
+AT3G13730,GM,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1",p450,0.377,491
+AT1G06690,GM,GM,NAD(P)-linked oxidoreductase superfamily protein,none,0.382,377
+AT4G05530,GM,GM,indole-3-butyric acid response 1,none,0.378,254
+AT1G01600,GM,GM,"cytochrome P450, family 86, subfamily A, polypeptide 4",p450,0.361,554
+AT4G00360,GM,GM,"cytochrome P450, family 86, subfamily A, polypeptide 2",p450,0.38,553
+AT1G08200,GM,GM,UDP-D-apiose/UDP-D-xylose synthase 2,none,0.386,389
+AT4G24510,GM,GM,HXXXD-type acyl-transferase family protein,none,0.39,421
+AT1G64970,GM,GM,gamma-tocopherol methyltransferase,none,0.392,348
+AT3G16170,GM,GM,AMP-dependent synthetase and ligase family protein,none,0.39,544
+AT3G48170,GM,GM,aldehyde dehydrogenase 10A9,none,0.394,503
+AT3G48720,GM,GM,HXXXD-type acyl-transferase family protein,none,0.398,430
+AT1G58300,GM,GM,heme oxygenase 4,none,0.401,283
+AT2G37690,GM,GM,"phosphoribosylaminoimidazole carboxylase, putative / AIR carboxylase, putative",none,0.4,642
+AT1G14520,GM,GM,myo-inositol oxygenase 1,none,0.434,311
+AT1G10310,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.411,242
+AT1G03055,GM,GM,unknown,none,0.415,264
+AT1G02880,GM,GM,thiamin pyrophosphokinase1,none,0.448,267
+AT4G01970,GM,GM,stachyose synthase,none,0.407,876
+AT1G67730,GM,GM,beta-ketoacyl reductase 1,none,0.413,318
+AT1G20560,GM,GM,acyl activating enzyme 1,none,0.409,556
+AT3G16910,GM,GM,acyl-activating enzyme 7,none,0.409,569
+AT2G47650,GM,GM,UDP-xylose synthase 4,none,0.441,449
+AT4G32770,GM,GM,"tocopherol cyclase, chloroplast / vitamin E deficient 1 (VTE1) / sucrose export defective 1 (SXD1)",none,0.431,488
+AT1G78590,GM,GM,NAD(H) kinase 3,none,0.443,317
+AT3G10280,GM,GM,3-ketoacyl-CoA synthase 14,none,0.442,459
+AT3G55630,GM,GM,DHFS-FPGS homolog D,none,0.447,492
+AT1G17710,GM,GM,Pyridoxal phosphate phosphatase-related protein,none,0.436,279
+AT1G02145,GM,GM,homolog of asparagine-linked glycosylation 12,none,0.443,497
+AT5G10330,GM,GM,histidinol phosphate aminotransferase 1,none,0.451,417
+AT1G51780,GM,GM,IAA-leucine resistant (ILR)-like gene 5,none,0.452,435
+AT4G39650,GM,GM,gamma-glutamyl transpeptidase 2,none,0.468,578
+ATMG01275,GM,GM,NADH dehydrogenase 1A,none,0.458,325
+AT1G57750,GM,GM,"cytochrome P450, family 96, subfamily A, polypeptide 15",p450,0.453,497
+AT1G36180,GM,GM,acetyl-CoA carboxylase 2,none,0.486,2355
+AT4G15530,GM,GM,pyruvate orthophosphate dikinase,none,0.491,963
+AT5G05590,GM,GM,phosphoribosylanthranilate isomerase 2,none,0.486,275
+AT5G23220,GM,GM,nicotinamidase 3,none,0.5,198
+AT4G26850,GM,GM,mannose-1-phosphate guanylyltransferase (GDP)s;GDP-galactose:mannose-1-phosphate guanylyltransferases;GDP-galactose:glucose-1-phosphate guanylyltransferases;GDP-galactose:myoinositol-1-phosphate guanylyltransferases;glucose-1-phosphate guanylyltransferase,none,0.482,442
+AT2G07707,GM,GM,"Plant mitochondrial ATPase, F0 complex, subunit 8 protein",none,0.511,158
+AT3G45130,GM,GM,lanosterol synthase 1,none,0.515,756
+AT3G02000,GM,GM,Thioredoxin superfamily protein,none,0.496,136
+AT2G46720,GM,GM,3-ketoacyl-CoA synthase 13,none,0.515,466
+AT3G15820,GM,GM,phosphatidic acid phosphatase-related / PAP2-related,none,0.53,301
+AT2G07785,GM,GM,NADH dehydrogenase family protein,none,0.539,99
+AT2G07698,GM,GM,"ATPase, F1 complex, alpha subunit protein",none,0.491,777
+AT2G46740,GM,GM,"D-arabinono-1,4-lactone oxidase family protein",none,0.541,590
+AT2G07689,GM,GM,NADH-Ubiquinone/plastoquinone (complex I) protein,none,0.542,214
+AT2G44750,GM,GM,thiamin pyrophosphokinase 2,none,0.542,267
+AT1G72970,GM,GM,Glucose-methanol-choline (GMC) oxidoreductase family protein,none,0.56,594
+AT1G71920,GM,GM,HISTIDINE BIOSYNTHESIS 6B,none,0.573,417
+AT1G65450,GM,GM,HXXXD-type acyl-transferase family protein,none,0.571,450
+AT1G02205,GM,GM,Fatty acid hydroxylase superfamily,none,0.589,630
+AT4G23430,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.584,322
+AT1G02730,GM,GM,cellulose synthase-like D5,none,0.604,1181
+AT4G38190,GM,GM,cellulose synthase like D4,none,0.595,1111
+AT5G09870,GM,GM,cellulose synthase 5,none,0.613,1069
+AT4G37070,GM,GM,Acyl transferase/acyl hydrolase/lysophospholipase superfamily protein,none,0.597,414
+AT5G19200,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.606,331
+AT4G34520,GM,GM,3-ketoacyl-CoA synthase 18,none,0.611,506
+AT5G36870,GM,GM,glucan synthase-like 9,none,0.62,1871
+AT2G33100,GM,GM,cellulose synthase-like D1,none,0.623,1036
+AT1G62940,GM,GM,acyl-CoA synthetase 5,none,0.621,542
+AT5G58780,GM,GM,Undecaprenyl pyrophosphate synthetase family protein,none,0.622,302
+AT5G28030,GM,GM,L-cysteine desulfhydrase 1,none,0.613,323
+AT5G18860,GM,GM,inosine-uridine preferring nucleoside hydrolase family protein,none,0.626,890
+AT1G11600,GM,GM,"cytochrome P450, family 77, subfamily B, polypeptide 1",p450,0.643,510
+AT5G20020,GM,GM,RAS-related GTP-binding nuclear protein 2,none,0.636,221
+AT5G20010,GM,GM,RAS-related nuclear protein-1,none,0.649,221
+AT4G29460,GM,GM,Phospholipase A2 family protein,none,0.641,187
+AT1G22440,GM,GM,Zinc-binding alcohol dehydrogenase family protein,none,0.649,386
+AT4G14710,GM,GM,RmlC-like cupins superfamily protein,none,0.64,201
+AT1G07780,GM,GM,phosphoribosylanthranilate isomerase 1,none,0.643,275
+AT1G69500,GM,GM,"cytochrome P450, family 704, subfamily B, polypeptide 1",p450,0.67,524
+AT3G10570,GM,GM,"cytochrome P450, family 77, subfamily A, polypeptide 6",p450,0.666,513
+AT4G31910,GM,GM,HXXXD-type acyl-transferase family protein,none,0.684,458
+AT4G13930,GM,GM,serine hydroxymethyltransferase 4,none,0.657,471
+AT5G28020,GM,GM,cysteine synthase D2,none,0.68,323
+AT5G38970,GM,GM,brassinosteroid-6-oxidase 1,p450,0.681,465
+AT4G34250,GM,GM,3-ketoacyl-CoA synthase 16,none,0.677,493
+AT4G08870,GM,GM,Arginase/deacetylase superfamily protein,none,0.706,344
+AT5G14400,GM,GM,"cytochrome P450, family 724, subfamily A, polypeptide 1",p450,0.714,367
+AT2G34850,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.712,236
+AT5G23230,GM,GM,nicotinamidase 2,none,0.709,198
+AT4G00620,GM,GM,Amino acid dehydrogenase family protein,none,0.723,360
+AT3G29670,GM,GM,HXXXD-type acyl-transferase family protein,none,0.725,451
+AT2G37540,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.737,321
+AT3G46170,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.723,288
+AT2G38230,GM,GM,pyridoxine biosynthesis 1.1,none,0.717,309
+AT1G24470,GM,GM,beta-ketoacyl reductase 2,none,0.741,312
+AT2G43920,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.729,227
+AT4G13250,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.742,496
+AT3G55290,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.703,280
+AT5G19460,GM,GM,nudix hydrolase homolog 20,none,0.726,374
+AT4G37140,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.735,136
+AT2G28760,GM,GM,UDP-XYL synthase 6,none,0.763,343
+AT1G71160,GM,GM,3-ketoacyl-CoA synthase 7,none,0.748,460
+AT1G66120,GM,GM,AMP-dependent synthetase and ligase family protein,none,0.755,572
+AT4G16770,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.776,325
+AT5G08670,GM,GM,ATP synthase alpha/beta family protein,none,0.721,556
+AT4G08900,GM,GM,arginase,none,0.759,342
+AT2G43940,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.728,226
+AT2G19590,GM,GM,ACC oxidase 1,none,0.776,310
+AT3G44310,GM,GM,nitrilase 1,none,0.734,346
+AT2G23600,GM,GM,acetone-cyanohydrin lyase,none,0.764,263
+AT2G23560,GM,GM,methyl esterase 7,none,0.777,260
+AT4G16690,GM,GM,methyl esterase 16,none,0.782,262
+AT4G29470,GM,GM,Phospholipase A2 family protein,none,0.779,191
+AT3G44300,GM,GM,nitrilase 2,none,0.738,339
+AT1G01280,GM,GM,"cytochrome P450, family 703, subfamily A, polypeptide 2",p450,0.788,510
+AT3G10560,GM,GM,Cytochrome P450 superfamily protein,p450,0.783,514
+AT2G23610,GM,GM,methyl esterase 3,none,0.783,263
+AT1G67110,GM,GM,"cytochrome P450, family 735, subfamily A, polypeptide 2",p450,0.792,512
+AT5G38450,GM,GM,"cytochrome P450, family 735, subfamily A, polypeptide 1",p450,0.79,518
+AT2G27690,GM,GM,"cytochrome P450, family 94, subfamily C, polypeptide 1",p450,0.797,495
+AT3G55310,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.773,279
+AT4G21534,GM,GM,Diacylglycerol kinase family protein,none,0.742,481
+AT5G04530,GM,GM,3-ketoacyl-CoA synthase 19,none,0.808,464
+AT4G37060,GM,GM,PATATIN-like protein 5,none,0.793,435
+AT5G53390,GM,GM,O-acyltransferase (WSD1-like) family protein,none,0.781,486
+AT1G05010,GM,GM,ethylene-forming enzyme,none,0.827,323
+AT4G15290,GM,GM,Cellulose synthase family protein,none,0.809,757
+AT4G21540,GM,GM,sphingosine kinase 1,none,0.763,485
+AT2G29350,GM,GM,senescence-associated gene 13,none,0.845,269
+AT1G48860,GM,GM,"RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta",none,0.835,521
+AT2G38210,GM,GM,putative PDX1-like protein 4,none,0.821,79
+AT4G13890,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.833,470
+AT2G23590,GM,GM,methyl esterase 8,none,0.832,272
+AT4G34510,GM,GM,3-ketoacyl-CoA synthase 17,none,0.84,487
+AT5G07010,GM,GM,sulfotransferase 2A,none,0.853,359
+AT5G08680,GM,GM,ATP synthase alpha/beta family protein,none,0.785,559
+AT5G08690,GM,GM,ATP synthase alpha/beta family protein,none,0.792,556
+AT2G23620,GM,GM,methyl esterase 1,none,0.868,263
+AT1G25220,GM,GM,anthranilate synthase beta subunit 1,none,0.854,289
+AT1G24793,GM,GM,UDP-3-O-acyl N-acetylglycosamine deacetylase family protein,none,0.815,326
+AT1G14250,GM,GM,GDA1/CD39 nucleoside phosphatase family protein,none,0.861,488
+AT4G37150,GM,GM,methyl esterase 9,none,0.87,256
+AT1G25210,GM,GM,UDP-3-O-acyl N-acetylglycosamine deacetylase family protein,none,0.863,371
+AT1G64950,GM,GM,"cytochrome P450, family 89, subfamily A, polypeptide 5",p450,0.867,510
+AT5G39050,GM,GM,HXXXD-type acyl-transferase family protein,none,0.899,469
+AT1G68280,GM,GM,Thioesterase superfamily protein,none,0.888,188
+AT5G05870,GM,GM,UDP-glucosyl transferase 76C1,none,0.884,464
+AT3G11340,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.915,447
+AT3G53160,GM,GM,UDP-glucosyl transferase 73C7,none,0.905,490
+AT5G04660,GM,GM,"cytochrome P450, family 77, subfamily A, polypeptide 4",p450,0.922,512
+AT5G05890,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.933,455
+AT5G05860,GM,GM,UDP-glucosyl transferase 76C2,none,0.941,450
+AT1G22400,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.948,489
+AT5G05880,GM,GM,UDP-Glycosyltransferase superfamily protein,none,0.963,451
+AT4G34880,GM,unknown,Amidase family protein,none,0.224,466
+AT5G28237,GM,unknown,Pyridoxal-5'-phosphate-dependent enzyme family protein,none,0.253,465
+AT1G44318,GM,unknown,Aldolase superfamily protein,none,0.275,406
+AT5G65690,GM,unknown,phosphoenolpyruvate carboxykinase 2,none,0.309,670
+AT4G29070,GM,unknown,Phospholipase A2 family protein,none,0.283,259
+AT3G43260,GM,unknown,unknown,none,0.317,269
+AT1G18300,GM,unknown,nudix hydrolase homolog 4,none,0.327,207
+AT1G14860,GM,unknown,nudix hydrolase homolog 18,none,0.334,176
+AT3G26820,GM,unknown,Esterase/lipase/thioesterase family protein,none,0.346,634
+AT4G35295,GM,unknown,"homoserine kinase, putative / HSK, putative",none,0.356,111
+AT4G27550,GM,unknown,trehalose-6-phosphatase synthase S4,none,0.342,795
+AT4G22110,GM,unknown,GroES-like zinc-binding dehydrogenase family protein,none,0.341,389
+AT1G12570,GM,unknown,Glucose-methanol-choline (GMC) oxidoreductase family protein,none,0.362,572
+AT4G29800,GM,unknown,PATATIN-like protein 8,none,0.375,526
+AT5G01260,GM,unknown,Carbohydrate-binding-like fold,none,0.365,385
+AT4G38310,GM,unknown,Galactosyl transferase GMA12/MNN10 family protein,none,0.399,120
+AT5G43590,GM,unknown,Acyl transferase/acyl hydrolase/lysophospholipase superfamily protein,none,0.374,401
+AT1G14185,GM,unknown,Glucose-methanol-choline (GMC) oxidoreductase family protein,none,0.415,503
+AT1G06250,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.404,423
+AT5G67430,GM,unknown,Acyl-CoA N-acyltransferases (NAT) superfamily protein,none,0.414,386
+AT3G62040,GM,unknown,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.415,249
+AT1G33320,GM,unknown,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.424,412
+AT1G52680,GM,unknown,late embryogenesis abundant protein-related / LEA protein-related,none,0.431,114
+AT3G15870,GM,unknown,Fatty acid desaturase family protein,none,0.426,361
+AT5G51950,GM,unknown,Glucose-methanol-choline (GMC) oxidoreductase family protein,none,0.46,586
+AT1G17300,GM,unknown,unknown,none,0.464,116
+AT1G72110,GM,unknown,O-acyltransferase (WSD1-like) family protein,none,0.461,479
+AT5G51420,GM,unknown,long-chain-alcohol O-fatty-acyltransferase family protein / wax synthase family protein,none,0.473,435
+AT5G34780,GM,unknown,Thiamin diphosphate-binding fold (THDP-binding) superfamily protein,none,0.461,365
+AT5G04610,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.468,434
+AT4G24340,GM,unknown,Phosphorylase superfamily protein,none,0.478,338
+AT1G62610,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.504,282
+AT1G66550,GM,unknown,WRKY DNA-binding protein 67,none,0.497,254
+AT4G22980,GM,unknown,unknown,none,0.526,559
+AT5G18600,GM,unknown,Thioredoxin superfamily protein,none,0.552,102
+AT3G03370,GM,unknown,unknown,none,0.544,244
+AT4G29640,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.543,346
+AT1G14240,GM,unknown,GDA1/CD39 nucleoside phosphatase family protein,none,0.553,483
+AT3G48790,GM,unknown,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.536,350
+AT1G60450,GM,unknown,galactinol synthase 7,none,0.535,332
+AT5G18870,GM,unknown,Inosine-uridine preferring nucleoside hydrolase family protein,none,0.548,258
+AT5G58784,GM,unknown,Undecaprenyl pyrophosphate synthetase family protein,none,0.56,302
+AT1G17000,GM,unknown,trehalose-phosphatase/synthase 3,none,0.57,783
+AT5G22420,GM,unknown,fatty acid reductase 7,none,0.576,409
+AT3G23530,GM,unknown,Cyclopropane-fatty-acyl-phospholipid synthase,none,0.58,867
+AT1G63380,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.582,282
+AT2G04440,GM,unknown,MutT/nudix family protein,none,0.581,215
+AT4G23590,GM,unknown,Tyrosine transaminase family protein,none,0.59,424
+AT1G16980,GM,unknown,trehalose-phosphatase/synthase 2,none,0.593,821
+AT5G02540,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.61,331
+AT2G28080,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.612,482
+AT4G16745,GM,unknown,Exostosin family protein,none,0.617,589
+AT4G20460,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.628,411
+AT2G46480,GM,unknown,galacturonosyltransferase 2,none,0.61,528
+AT4G29600,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.616,307
+AT5G08250,GM,unknown,Cytochrome P450 superfamily protein,p450,0.639,488
+AT3G14780,GM,unknown,unknown,none,0.646,347
+AT4G29620,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.622,337
+AT4G29580,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.626,445
+AT1G32180,GM,unknown,cellulose synthase-like D6,none,0.637,979
+AT4G29630,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.648,223
+AT3G50210,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.635,332
+AT4G29650,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.639,251
+AT5G39080,GM,unknown,HXXXD-type acyl-transferase family protein,none,0.645,463
+AT1G03390,GM,unknown,HXXXD-type acyl-transferase family protein,none,0.652,461
+AT5G58782,GM,unknown,Undecaprenyl pyrophosphate synthetase family protein,none,0.645,289
+AT1G06830,GM,unknown,Glutaredoxin family protein,none,0.657,99
+AT2G12280,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.653,90
+AT1G78270,GM,unknown,UDP-glucosyl transferase 85A4,none,0.664,489
+AT4G39480,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 9",p450,0.658,516
+AT3G23470,GM,unknown,Cyclopropane-fatty-acyl-phospholipid synthase,none,0.658,461
+AT1G35190,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.684,329
+AT1G64590,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.686,334
+AT4G29570,GM,unknown,Cytidine/deoxycytidylate deaminase family protein,none,0.687,293
+AT1G69240,GM,unknown,methyl esterase 15,none,0.694,444
+AT3G52160,GM,unknown,3-ketoacyl-CoA synthase 15,none,0.687,451
+AT1G27620,GM,unknown,HXXXD-type acyl-transferase family protein,none,0.685,442
+AT2G32540,GM,unknown,cellulose synthase-like B4,none,0.678,755
+AT2G25540,GM,unknown,cellulose synthase 10,none,0.689,1065
+AT2G16520,GM,unknown,unknown,none,0.692,99
+AT5G11610,GM,unknown,Exostosin family protein,none,0.705,546
+AT5G25820,GM,unknown,Exostosin family protein,none,0.693,654
+AT1G25460,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.699,320
+AT5G01320,GM,unknown,Thiamine pyrophosphate dependent pyruvate decarboxylase family protein,none,0.692,603
+AT5G44480,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.712,436
+AT5G52320,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 4",p450,0.707,502
+AT1G06120,GM,unknown,Fatty acid desaturase family protein,none,0.723,299
+AT1G14230,GM,unknown,GDA1/CD39 nucleoside phosphatase family protein,none,0.722,503
+AT2G28755,GM,unknown,UDP-D-glucuronate carboxy-lyase-related,none,0.725,56
+AT1G65340,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 3",p450,0.732,503
+AT5G18890,GM,unknown,Inosine-uridine preferring nucleoside hydrolase family protein,none,0.707,550
+AT1G06360,GM,unknown,Fatty acid desaturase family protein,none,0.703,299
+AT1G06350,GM,unknown,Fatty acid desaturase family protein,none,0.712,300
+AT5G49070,GM,unknown,3-ketoacyl-CoA synthase 21,none,0.734,464
+AT4G23990,GM,unknown,cellulose synthase like G3,none,0.731,751
+AT3G26125,GM,unknown,"cytochrome P450, family 86, subfamily C, polypeptide 2",p450,0.716,541
+AT1G47620,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 8",p450,0.75,520
+AT1G34500,GM,unknown,MBOAT (membrane bound O-acyl transferase) family protein,none,0.72,341
+AT5G41130,GM,unknown,Esterase/lipase/thioesterase family protein,none,0.741,711
+AT5G02900,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 13",p450,0.747,480
+AT2G12200,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.722,63
+AT3G15830,GM,unknown,phosphatidic acid phosphatase-related / PAP2-related,none,0.721,296
+AT2G21910,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 5",p450,0.744,510
+AT2G30680,GM,unknown,unknown,none,0.757,274
+AT2G32620,GM,unknown,cellulose synthase-like B,none,0.76,757
+AT5G51900,GM,unknown,Cytochrome P450 family protein,p450,0.758,242
+AT4G24010,GM,unknown,cellulose synthase like G1,none,0.755,760
+AT2G32610,GM,unknown,cellulose synthase-like B1,none,0.746,757
+AT2G17845,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.766,312
+AT3G49630,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.768,332
+AT4G32170,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 2",p450,0.771,506
+AT4G23420,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.745,333
+AT5G07000,GM,unknown,sulfotransferase 2B,none,0.794,347
+AT4G39500,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 11",p450,0.794,469
+AT3G23510,GM,unknown,Cyclopropane-fatty-acyl-phospholipid synthase,none,0.78,867
+AT5G41120,GM,unknown,Esterase/lipase/thioesterase family protein,none,0.78,684
+AT4G24000,GM,unknown,cellulose synthase like G2,none,0.806,722
+AT2G23180,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 1",p450,0.797,516
+AT1G24540,GM,unknown,"cytochrome P450, family 86, subfamily C, polypeptide 1",p450,0.803,522
+AT4G15320,GM,unknown,cellulose synthase-like B6,none,0.806,828
+AT3G03470,GM,unknown,"cytochrome P450, family 87, subfamily A, polypeptide 9",p450,0.814,511
+AT2G12190,GM,unknown,Cytochrome P450 superfamily protein,p450,0.835,512
+AT2G32530,GM,unknown,cellulose synthase-like B3,none,0.811,755
+AT2G37820,GM,unknown,Cysteine/Histidine-rich C1 domain family protein,none,0.818,290
+AT5G52400,GM,unknown,"cytochrome P450, family 715, subfamily A, polypeptide 1",p450,0.84,519
+AT4G39510,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 12",p450,0.847,508
+AT5G19470,GM,unknown,nudix hydrolase homolog 24,none,0.779,365
+AT3G21080,GM,unknown,ABC transporter-related,none,0.833,255
+AT5G01330,GM,unknown,pyruvate decarboxylase-3,none,0.822,592
+AT3G22250,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.853,461
+AT3G49620,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.851,357
+AT3G46490,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.852,330
+AT1G77330,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.848,307
+AT1G64940,GM,unknown,"cytochrome P450, family 87, subfamily A, polypeptide 6",p450,0.859,511
+AT4G00600,GM,unknown,Amino acid dehydrogenase family protein,none,0.861,310
+AT1G34520,GM,unknown,MBOAT (membrane bound O-acyl transferase) family protein,none,0.853,336
+AT1G25054,GM,unknown,UDP-3-O-acyl N-acetylglycosamine deacetylase family protein,none,0.815,369
+AT1G22340,GM,unknown,UDP-glucosyl transferase 85A7,none,0.882,487
+AT3G55700,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.873,460
+AT1G06090,GM,unknown,Fatty acid desaturase family protein,none,0.866,299
+AT1G34490,GM,unknown,MBOAT (membrane bound O-acyl transferase) family protein,none,0.866,337
+AT5G39090,GM,unknown,HXXXD-type acyl-transferase family protein,none,0.875,448
+AT1G13140,GM,unknown,"cytochrome P450, family 86, subfamily C, polypeptide 3",p450,0.875,534
+AT1G74110,GM,unknown,"cytochrome P450, family 78, subfamily A, polypeptide 10",p450,0.885,537
+AT1G13150,GM,unknown,"cytochrome P450, family 86, subfamily C, polypeptide 4",p450,0.883,529
+AT1G64930,GM,unknown,"cytochrome P450, family 87, subfamily A, polypeptide 7",p450,0.892,511
+AT5G61320,GM,unknown,"cytochrome P450, family 89, subfamily A, polypeptide 3",p450,0.882,497
+AT4G16765,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.882,247
+AT3G55710,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.884,464
+AT1G22370,GM,unknown,UDP-glucosyl transferase 85A5,none,0.904,479
+AT2G36970,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.902,490
+AT3G52970,GM,unknown,"cytochrome P450, family 76, subfamily G, polypeptide 1",none,0.901,530
+AT5G04630,GM,unknown,"cytochrome P450, family 77, subfamily A, polypeptide 9",p450,0.922,509
+AT1G22380,GM,unknown,UDP-glucosyl transferase 85A3,none,0.927,488
+AT1G64900,GM,unknown,"cytochrome P450, family 89, subfamily A, polypeptide 2",p450,0.935,506
+AT1G22360,GM,unknown,UDP-glucosyl transferase 85A2,none,0.945,481
+AT5G05900,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.959,450
+AT1G43620,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.204,615
+AT4G08170,SM,SM,"Inositol 1,3,4-trisphosphate 5/6-kinase family protein",none,0.147,353
+AT3G01310,SM,SM,Phosphoglycerate mutase-like family protein,none,0.151,1056
+AT5G58730,SM,SM,pfkB-like carbohydrate kinase family protein,none,0.173,353
+AT2G43980,SM,SM,"inositol 1,3,4-trisphosphate 5/6-kinase 4",none,0.211,488
+AT5G42810,SM,SM,inositol-pentakisphosphate 2-kinase 1,none,0.223,451
+AT3G48000,SM,SM,aldehyde dehydrogenase 2B4,none,0.238,538
+AT2G26310,SM,SM,Chalcone-flavanone isomerase family protein,none,0.274,398
+AT1G72640,SM,SM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.286,312
+AT2G37790,SM,SM,NAD(P)-linked oxidoreductase superfamily protein,none,0.326,314
+AT5G07830,SM,SM,glucuronidase 2,none,0.352,543
+AT4G39230,SM,SM,NmrA-like negative transcriptional regulator family protein,none,0.392,308
+AT5G66220,SM,SM,Chalcone-flavanone isomerase family protein,none,0.44,174
+AT3G61220,SM,SM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.485,303
+AT4G13660,SM,SM,pinoresinol reductase 2,none,0.5,317
+AT2G37770,SM,SM,NAD(P)-linked oxidoreductase superfamily protein,none,0.55,315
+AT3G24503,SM,SM,aldehyde dehydrogenase 2C4,none,0.589,501
+AT1G44170,SM,SM,aldehyde dehydrogenase 3H1,none,0.762,484
+AT3G50790,SM,unknown,esterase/lipase/thioesterase family protein,none,0.104,408
+AT5G48020,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.112,355
+AT3G32030,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.166,604
+AT5G49950,SM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.21,537
+AT5G16410,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.263,480
+AT4G23340,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.311,324
+AT4G29250,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.365,460
+AT5G02890,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.372,353
+AT4G28420,SM,unknown,Tyrosine transaminase family protein,none,0.474,449
+AT5G66230,SM,unknown,Chalcone-flavanone isomerase family protein,none,0.516,329
+AT4G30550,SM,unknown,Class I glutamine amidotransferase-like superfamily protein,none,0.541,249
+AT5G07800,SM,unknown,Flavin-binding monooxygenase family protein,none,0.634,460
+AT4G14940,SM,SM,amine oxidase 1,none,0.331,650
+AT4G36250,SM,SM,aldehyde dehydrogenase 3F1,none,0.365,484
+AT5G13930,SM,SM,Chalcone and stilbene synthase family protein,none,0.399,395
+AT2G19070,SM,SM,spermidine hydroxycinnamoyl transferase,none,0.414,451
+AT4G16330,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.437,364
+AT1G75280,SM,SM,NmrA-like negative transcriptional regulator family protein,none,0.439,310
+AT5G05270,SM,SM,Chalcone-flavanone isomerase family protein,none,0.458,209
+AT1G54100,SM,SM,aldehyde dehydrogenase 7B4,none,0.481,508
+AT4G36470,SM,SM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.496,371
+AT2G24190,SM,SM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.552,301
+AT3G55120,SM,SM,Chalcone-flavanone isomerase family protein,none,0.549,246
+AT3G16520,SM,SM,UDP-glucosyl transferase 88A1,none,0.573,462
+AT1G78955,SM,SM,camelliol C synthase 1,none,0.576,769
+AT4G03070,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.591,322
+AT3G60290,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.587,357
+AT4G30530,SM,SM,Class I glutamine amidotransferase-like superfamily protein,none,0.611,250
+AT3G62750,SM,SM,beta glucosidase 8,none,0.619,497
+AT5G25980,SM,SM,glucoside glucohydrolase 2,none,0.632,547
+AT1G16400,SM,SM,"cytochrome P450, family 79, subfamily F, polypeptide 2",p450,0.651,537
+AT3G45070,SM,SM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.65,323
+AT1G61720,SM,SM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.662,340
+AT4G34240,SM,SM,aldehyde dehydrogenase 3I1,none,0.69,550
+AT1G07240,SM,SM,UDP-glucosyl transferase 71C5,none,0.71,480
+AT1G61820,SM,SM,beta glucosidase 46,none,0.704,516
+AT1G54870,SM,SM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.713,335
+AT3G29590,SM,SM,HXXXD-type acyl-transferase family protein,none,0.724,449
+AT4G15393,SM,SM,"cytochrome P450, family 702, subfamily A, polypeptide 5",none,0.676,467
+AT4G34135,SM,SM,UDP-glucosyltransferase 73B2,none,0.704,483
+AT2G29730,SM,SM,UDP-glucosyl transferase 71D1,none,0.71,467
+AT5G42800,SM,SM,dihydroflavonol 4-reductase,none,0.731,382
+AT3G30290,SM,SM,"cytochrome P450, family 702, subfamily A, polypeptide 8",p450,0.735,408
+AT1G65880,SM,SM,benzoyloxyglucosinolate 1,none,0.762,580
+AT3G12900,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.784,357
+AT5G07480,SM,SM,KAR-UP oxidoreductase 1,none,0.775,340
+AT1G74100,SM,SM,sulfotransferase 16,none,0.791,338
+AT1G12140,SM,SM,flavin-monooxygenase glucosinolate S-oxygenase 5,none,0.788,459
+AT5G07990,SM,SM,Cytochrome P450 superfamily protein,p450,0.801,513
+AT1G61810,SM,SM,beta-glucosidase 45,none,0.805,543
+AT5G10600,SM,SM,"cytochrome P450, family 81, subfamily K, polypeptide 2",p450,0.792,516
+AT1G62560,SM,SM,flavin-monooxygenase glucosinolate S-oxygenase 3,none,0.816,462
+AT1G74090,SM,SM,desulfo-glucosinolate sulfotransferase 18,none,0.811,350
+AT4G22880,SM,SM,leucoanthocyanidin dioxygenase,none,0.797,356
+AT1G18590,SM,SM,sulfotransferase 17,none,0.819,346
+AT4G33110,SM,SM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.812,355
+AT5G26000,SM,SM,thioglucoside glucohydrolase 1,none,0.807,541
+AT5G10610,SM,SM,"cytochrome P450, family 81, subfamily K, polypeptide 1",p450,0.809,500
+AT2G25450,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.831,359
+AT4G10500,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.831,349
+AT3G51240,SM,SM,flavanone 3-hydroxylase,none,0.843,358
+AT5G05600,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.837,371
+AT5G04380,SM,SM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.846,385
+AT4G33120,SM,SM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.832,355
+AT3G61880,SM,SM,cytochrome p450 78a9,none,0.863,555
+AT2G44800,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.842,357
+AT2G46660,SM,SM,"cytochrome P450, family 78, subfamily A, polypeptide 6",p450,0.848,530
+AT1G74550,SM,SM,"cytochrome P450, family 98, subfamily A, polypeptide 9",p450,0.869,487
+AT5G04370,SM,SM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.874,415
+AT4G37430,SM,SM,"cytochrome P450, family 91, subfamily A, polypeptide 2",p450,0.861,500
+AT4G34131,SM,SM,UDP-glucosyl transferase 73B3,none,0.875,481
+AT5G54010,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.862,453
+AT1G62570,SM,SM,flavin-monooxygenase glucosinolate S-oxygenase 4,none,0.876,461
+AT1G21130,SM,SM,O-methyltransferase family protein,methyltransf_2,0.868,373
+AT1G62540,SM,SM,flavin-monooxygenase glucosinolate S-oxygenase 2,none,0.887,457
+AT5G05260,SM,SM,cytochrome p450 79a2,p450,0.88,523
+AT1G21120,SM,SM,O-methyltransferase family protein,methyltransf_2,0.88,373
+AT5G59580,SM,SM,UDP-glucosyl transferase 76E1,none,0.871,453
+AT1G01420,SM,SM,UDP-glucosyl transferase 72B3,none,0.883,481
+AT4G37400,SM,SM,"cytochrome P450, family 81, subfamily F, polypeptide 3",p450,0.886,501
+AT1G66270,SM,SM,Glycosyl hydrolase superfamily protein,none,0.88,524
+AT5G49690,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.884,460
+AT5G66690,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.89,481
+AT1G21100,SM,SM,O-methyltransferase family protein,methyltransf_2,0.896,373
+AT5G57220,SM,SM,"cytochrome P450, family 81, subfamily F, polypeptide 2",p450,0.902,491
+AT3G46670,SM,SM,UDP-glucosyl transferase 76E11,none,0.898,451
+AT5G63600,SM,SM,flavonol synthase 5,none,0.898,326
+AT1G07250,SM,SM,UDP-glucosyl transferase 71C4,none,0.908,479
+AT3G53280,SM,SM,cytochrome p450 71b5,p450,0.903,498
+AT1G01390,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.902,480
+AT1G12200,SM,SM,Flavin-binding monooxygenase family protein,none,0.898,465
+AT2G26480,SM,SM,UDP-glucosyl transferase 76D1,none,0.904,452
+AT3G13610,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.907,361
+AT1G66280,SM,SM,Glycosyl hydrolase superfamily protein,none,0.894,524
+AT4G03050,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.915,361
+AT1G24100,SM,SM,UDP-glucosyl transferase 74B1,none,0.914,460
+AT1G50520,SM,SM,"cytochrome P450, family 705, subfamily A, polypeptide 27",p450,0.909,533
+AT5G63590,SM,SM,flavonol synthase 3,none,0.919,308
+AT5G08640,SM,SM,flavonol synthase 1,none,0.91,336
+AT1G07260,SM,SM,UDP-glucosyl transferase 71C3,none,0.921,476
+AT4G15280,SM,SM,UDP-glucosyl transferase 71B5,none,0.922,478
+AT2G29750,SM,SM,UDP-glucosyl transferase 71C1,none,0.912,481
+AT4G10490,SM,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.922,348
+AT3G46650,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.923,435
+AT3G28740,SM,SM,Cytochrome P450 superfamily protein,p450,0.929,509
+AT3G53300,SM,SM,"cytochrome P450, family 71, subfamily B, polypeptide 31",p450,0.928,498
+AT5G59590,SM,SM,UDP-glucosyl transferase 76E2,none,0.936,449
+AT5G26310,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.935,481
+AT3G20140,SM,SM,"cytochrome P450, family 705, subfamily A, polypeptide 23",p450,0.935,510
+AT2G24180,SM,SM,cytochrome p450 71b6,p450,0.94,503
+AT4G14090,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.944,456
+AT1G30530,SM,SM,UDP-glucosyl transferase 78D1,none,0.942,453
+AT5G17050,SM,SM,UDP-glucosyl transferase 78D2,none,0.937,460
+AT5G17030,SM,SM,UDP-glucosyl transferase 78D3,none,0.941,459
+AT1G13080,SM,SM,"cytochrome P450, family 71, subfamily B, polypeptide 2",p450,0.949,502
+AT1G74540,SM,SM,"cytochrome P450, family 98, subfamily A, polypeptide 8",p450,0.945,497
+AT5G42580,SM,SM,"cytochrome P450, family 705, subfamily A, polypeptide 12",p450,0.945,499
+AT4G37410,SM,SM,"cytochrome P450, family 81, subfamily F, polypeptide 4",p450,0.948,501
+AT2G15480,SM,SM,UDP-glucosyl transferase 73B5,none,0.954,484
+AT1G13100,SM,SM,"cytochrome P450, family 71, subfamily B, polypeptide 29",p450,0.952,490
+AT3G21800,SM,SM,UDP-glucosyl transferase 71B8,none,0.963,480
+AT2G29740,SM,SM,UDP-glucosyl transferase 71C2,none,0.97,474
+AT2G15490,SM,SM,UDP-glycosyltransferase 73B4,none,0.966,484
+AT3G53305,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 32",p450,0.281,338
+AT1G58260,SM,unknown,cytochrome p450 79c2,p450,0.352,530
+AT5G43935,SM,unknown,flavonol synthase 6,none,0.364,293
+AT1G77530,SM,unknown,O-methyltransferase family protein,methyltransf_2,0.404,381
+AT4G35150,SM,unknown,O-methyltransferase family protein,methyltransf_2,0.411,325
+AT3G32047,SM,unknown,Cytochrome P450 superfamily protein,p450,0.41,502
+AT4G12334,SM,unknown,Cytochrome P450 superfamily protein,none,0.45,113
+AT5G48175,SM,unknown,unknown,none,0.449,115
+AT1G02590,SM,unknown,"Aldehyde oxidase/xanthine dehydrogenase, molybdopterin binding protein",none,0.477,89
+AT5G35715,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 8",p450,0.467,442
+AT1G79760,SM,unknown,downstream target of AGL15-4,none,0.468,299
+AT1G32910,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.544,464
+AT4G21760,SM,unknown,beta-glucosidase 47,none,0.537,535
+AT2G23960,SM,unknown,Class I glutamine amidotransferase-like superfamily protein,none,0.56,251
+AT5G67310,SM,unknown,"cytochrome P450, family 81, subfamily G, polypeptide 1",p450,0.56,507
+AT2G23970,SM,unknown,Class I glutamine amidotransferase-like superfamily protein,none,0.559,251
+AT4G30540,SM,unknown,Class I glutamine amidotransferase-like superfamily protein,none,0.599,248
+AT1G03495,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.601,465
+AT1G31490,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.624,444
+AT1G70080,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.634,611
+AT1G55940,SM,unknown,"cytochrome P450, family 708, subfamily A, polypeptide 1",p450,0.639,655
+AT1G33750,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.638,603
+AT3G29110,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.656,569
+AT4G26280,SM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.665,314
+AT2G23190,SM,unknown,"cytochrome P450, family 81, subfamily D, polypeptide 7",p450,0.655,543
+AT1G03940,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.655,469
+AT5G43690,SM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.671,331
+AT1G78990,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.687,455
+AT1G12740,SM,unknown,"cytochrome P450, family 87, subfamily A, polypeptide 2",none,0.691,478
+AT3G20940,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 30",p450,0.684,523
+AT3G29410,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.695,603
+AT3G20935,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 28",p450,0.688,348
+AT5G63595,SM,unknown,flavonol synthase 4,none,0.697,279
+AT1G75290,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.709,318
+AT2G27570,SM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.711,273
+AT4G09500,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.707,442
+AT1G31950,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.704,606
+AT3G44970,SM,unknown,Cytochrome P450 superfamily protein,p450,0.728,479
+AT1G06650,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.729,369
+AT3G14540,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.719,602
+AT3G26180,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 20",p450,0.706,502
+AT1G28170,SM,unknown,sulphotransferase 7,none,0.73,326
+AT1G75300,SM,unknown,NmrA-like negative transcriptional regulator family protein,none,0.745,322
+AT5G37170,SM,unknown,O-methyltransferase family protein,methyltransf_2,0.736,334
+AT3G14490,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.746,601
+AT3G20120,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 21",p450,0.752,378
+AT2G37140,SM,unknown,Terpenoid synthases superfamily protein,Terpene_synth_C,0.749,107
+AT3G05260,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.751,289
+AT1G66020,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.761,598
+AT5G47980,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.766,443
+AT1G04350,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.769,360
+AT5G53810,SM,unknown,O-methyltransferase family protein,methyltransf_2,0.774,378
+AT1G65670,SM,unknown,"cytochrome P450, family 702, subfamily A, polypeptide 1",p450,0.764,482
+AT5G36110,SM,unknown,"cytochrome P450, family 716, subfamily A, polypeptide 1",p450,0.75,477
+AT2G18570,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.761,470
+AT1G78490,SM,unknown,"cytochrome P450, family 708, subfamily A, polypeptide 3",p450,0.788,479
+AT1G13090,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 28",p450,0.798,490
+AT4G20230,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.796,609
+AT1G63340,SM,unknown,Flavin-containing monooxygenase family protein,none,0.785,424
+AT3G26170,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 19",p450,0.774,502
+AT1G48800,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.804,603
+AT1G48820,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.812,561
+AT3G26290,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 26",p450,0.809,500
+AT3G45080,SM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.791,329
+AT3G20100,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 19",p450,0.806,513
+AT1G62580,SM,unknown,Flavin-binding monooxygenase family protein,none,0.782,497
+AT2G30830,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.815,358
+AT5G12270,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.814,360
+AT1G76790,SM,unknown,O-methyltransferase family protein,methyltransf_2,0.82,367
+AT3G14520,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.825,605
+AT4G36770,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.823,457
+AT4G15270,SM,unknown,glucosyltransferase-related,none,0.836,311
+AT5G35917,SM,unknown,"cytochrome P450, family 79, subfamily A, polypeptide 3 pseudogene",p450,0.802,490
+AT2G25160,SM,unknown,"cytochrome P450, family 82, subfamily F, polypeptide 1",p450,0.827,527
+AT3G61400,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.825,370
+AT1G01190,SM,unknown,"cytochrome P450, family 78, subfamily A, polypeptide 8",p450,0.826,535
+AT4G20210,SM,unknown,Terpenoid cyclases/Protein prenyltransferases superfamily protein,Terpene_synth,0.83,600
+AT5G36130,SM,unknown,Cytochrome P450 superfamily protein,p450,0.801,140
+AT1G62600,SM,unknown,Flavin-binding monooxygenase family protein,none,0.84,452
+AT1G28660,SM,unknown,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.837,383
+AT4G15300,SM,unknown,"cytochrome P450, family 702, subfamily A, polypeptide 2",p450,0.846,487
+AT1G79370,SM,unknown,"cytochrome P450, family 79, subfamily C, polypeptide 1",p450,0.848,546
+AT1G12160,SM,unknown,Flavin-binding monooxygenase family protein,none,0.851,468
+AT1G28670,SM,unknown,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.84,384
+AT3G20080,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 15",p450,0.857,523
+AT5G38040,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.866,449
+AT2G36690,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.861,366
+AT2G06960,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.868,148
+AT2G18560,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.856,380
+AT2G23220,SM,unknown,"cytochrome P450, family 81, subfamily D, polypeptide 6",p450,0.853,515
+AT4G27560,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.851,455
+AT1G63370,SM,unknown,Flavin-binding monooxygenase family protein,none,0.844,450
+AT4G15310,SM,unknown,"cytochrome P450, family 702, subfamily A, polypeptide 3",p450,0.873,475
+AT2G38240,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.872,353
+AT5G38010,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.864,453
+AT3G55970,SM,unknown,jasmonate-regulated gene 21,none,0.872,363
+AT2G22930,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.879,442
+AT5G63580,SM,unknown,flavonol synthase 2,none,0.879,250
+AT4G15396,SM,unknown,"cytochrome P450, family 702, subfamily A, polypeptide 6",p450,0.877,475
+AT1G63390,SM,unknown,FAD/NAD(P)-binding oxidoreductase family protein,none,0.878,125
+AT1G50560,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 25",p450,0.891,519
+AT2G05180,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 6",p450,0.893,442
+AT1G62620,SM,unknown,Flavin-binding monooxygenase family protein,none,0.862,450
+AT4G27570,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.877,453
+AT2G29710,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.88,467
+AT1G21110,SM,unknown,O-methyltransferase family protein,methyltransf_2,0.88,373
+AT3G20090,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 18",p450,0.9,386
+AT3G26200,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 22",p450,0.883,500
+AT3G26190,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 21",p450,0.906,499
+AT5G65550,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.9,466
+AT5G25140,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 13",p450,0.901,496
+AT2G27010,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 9",p450,0.911,498
+AT1G28430,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 24",p450,0.901,521
+AT1G03400,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.905,351
+AT2G30840,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.912,362
+AT3G26310,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 35",p450,0.887,500
+AT5G36140,SM,unknown,"cytochrome P450, family 716, subfamily A, polypeptide 2",p450,0.905,318
+AT2G02580,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 9",p450,0.912,500
+AT5G14860,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.912,492
+AT4G15350,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 2",p450,0.913,509
+AT1G55290,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.893,361
+AT1G50580,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.908,448
+AT3G44250,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 38",p450,0.91,499
+AT1G28640,SM,unknown,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.914,389
+AT1G04380,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.918,345
+AT3G26320,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 36",p450,0.918,500
+AT5G43440,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.92,365
+AT5G17040,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.921,442
+AT2G30150,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.914,440
+AT2G16890,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.916,478
+AT5G35920,SM,unknown,"cytochrome P450, family 79, subfamily A, polypeptide 4 pseudogene",p450,0.924,155
+AT3G26330,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 37",p450,0.92,500
+AT3G26160,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 17",p450,0.926,502
+AT3G29630,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.928,448
+AT4G37320,SM,unknown,"cytochrome P450, family 81, subfamily D, polypeptide 5",p450,0.934,495
+AT3G26300,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 34",p450,0.93,500
+AT4G15360,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 3",p450,0.922,527
+AT1G66540,SM,unknown,Cytochrome P450 superfamily protein,p450,0.926,386
+AT3G20110,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 20",p450,0.929,510
+AT1G64910,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.933,447
+AT4G15380,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 4",p450,0.934,517
+AT3G26270,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 25",p450,0.933,501
+AT5G36220,SM,unknown,cytochrome p450 81d1,p450,0.935,502
+AT1G06620,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.938,365
+AT2G22590,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.934,470
+AT3G46700,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.941,447
+AT3G20960,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 33",p450,0.937,418
+AT3G46720,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.937,447
+AT3G46680,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.939,449
+AT5G59530,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.949,364
+AT5G59540,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.951,366
+AT3G53290,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 30 pseudogene",p450,0.935,407
+AT3G20950,SM,unknown,"cytochrome P450, family 705, subfamily A, polypeptide 32",p450,0.952,526
+AT3G26210,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 23",p450,0.95,501
+AT5G43450,SM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.949,362
+AT1G13110,SM,unknown,"cytochrome P450, family 71 subfamily B, polypeptide 7",p450,0.95,504
+AT5G53990,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.948,447
+AT3G26220,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 3",p450,0.96,501
+AT3G26280,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 4",p450,0.963,504
+AT1G64920,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.96,452
+AT3G46690,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.965,452
+AT3G26150,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 16",p450,0.975,502
+AT3G26230,SM,unknown,"cytochrome P450, family 71, subfamily B, polypeptide 24",p450,0.972,498
+AT1G64550,GM,GM,general control non-repressible 3,none,0.022,715
+AT3G62120,GM,GM,Class II aaRS and biotin synthetases superfamily protein,none,0.029,530
+AT2G20420,GM,GM,ATP citrate lyase (ACL) family protein,none,0.029,421
+AT1G50200,GM,GM,Alanyl-tRNA synthetase,none,0.033,1003
+AT4G26870,GM,GM,Class II aminoacyl-tRNA and biotin synthetases superfamily protein,none,0.04,532
+AT3G18030,GM,GM,HAL3-like protein A,none,0.045,209
+AT2G18040,GM,GM,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",none,0.05,119
+AT1G63680,GM,GM,acid-amino acid ligases;ligases;ATP binding;ATP binding;ligases,none,0.05,772
+AT3G48110,GM,GM,glycine-tRNA ligases,none,0.05,1067
+AT2G45270,GM,GM,glycoprotease 1,none,0.056,480
+AT3G16630,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.061,794
+AT3G59990,GM,GM,methionine aminopeptidase 2B,none,0.057,439
+AT2G38280,GM,GM,"AMP deaminase, putative / myoadenylate deaminase, putative",none,0.057,839
+AT5G58240,GM,GM,FRAGILE HISTIDINE TRIAD,none,0.062,180
+AT5G20990,GM,GM,molybdopterin biosynthesis CNX1 protein / molybdenum cofactor biosynthesis enzyme CNX1 (CNX1),none,0.062,670
+AT3G10920,GM,GM,manganese superoxide dismutase 1,none,0.063,231
+AT4G04350,GM,GM,"tRNA synthetase class I (I, L, M and V) family protein",none,0.061,973
+AT1G51980,GM,GM,Insulinase (Peptidase family M16) protein,none,0.067,503
+AT4G17510,GM,GM,ubiquitin C-terminal hydrolase 3,none,0.069,234
+AT1G29880,GM,GM,glycyl-tRNA synthetase / glycine--tRNA ligase,none,0.061,729
+AT5G47820,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.065,1035
+AT3G22110,GM,GM,20S proteasome alpha subunit C1,none,0.072,250
+AT5G27470,GM,GM,seryl-tRNA synthetase / serine--tRNA ligase,none,0.065,451
+AT2G04630,GM,GM,RNA polymerase Rpb6,none,0.07,144
+AT3G02660,GM,GM,"Tyrosyl-tRNA synthetase, class Ib, bacterial/mitochondrial",none,0.066,511
+AT5G51940,GM,GM,RNA polymerase Rpb6,none,0.068,144
+AT2G40690,GM,GM,NAD-dependent glycerol-3-phosphate dehydrogenase family protein,none,0.067,420
+AT1G12410,GM,GM,CLP protease proteolytic subunit 2,none,0.062,279
+AT1G27680,GM,GM,ADPGLC-PPase large subunit,none,0.067,518
+AT1G67280,GM,GM,Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily protein,none,0.068,350
+AT3G51800,GM,GM,metallopeptidase M24 family protein,none,0.07,401
+AT1G72550,GM,GM,tRNA synthetase beta subunit family protein,none,0.069,598
+AT5G11720,GM,GM,Glycosyl hydrolases family 31  protein,none,0.073,902
+AT1G25350,GM,GM,"glutamine-tRNA ligase, putative / glutaminyl-tRNA synthetase, putative / GlnRS, putative",none,0.076,800
+AT2G34590,GM,GM,Transketolase family protein,none,0.074,406
+AT2G32000,GM,GM,"DNA topoisomerase, type IA, core",none,0.074,865
+AT4G39280,GM,GM,"phenylalanyl-tRNA synthetase, putative / phenylalanine--tRNA ligase, putative",none,0.075,485
+AT1G18440,GM,GM,Peptidyl-tRNA hydrolase family protein,none,0.071,288
+AT4G16566,GM,GM,histidine triad nucleotide-binding 4,none,0.075,146
+AT3G56490,GM,GM,HIS triad family protein 3,none,0.077,147
+AT3G10140,GM,GM,RECA homolog 3,none,0.076,389
+AT1G03160,GM,GM,FZO-like,none,0.082,912
+AT2G39290,GM,GM,phosphatidylglycerolphosphate synthase 1,none,0.081,296
+AT1G44575,GM,GM,Chlorophyll A-B binding family protein,none,0.085,265
+AT3G27300,GM,GM,glucose-6-phosphate dehydrogenase 5,none,0.087,516
+AT3G15640,GM,GM,Rubredoxin-like superfamily protein,none,0.087,176
+AT5G51140,GM,GM,Pseudouridine synthase family protein,none,0.089,410
+AT2G27020,GM,GM,20S proteasome alpha subunit G1,none,0.095,249
+AT2G45240,GM,GM,methionine aminopeptidase 1A,none,0.085,398
+AT4G33760,GM,GM,"tRNA synthetase class II (D, K and N) family protein",none,0.092,664
+AT1G30000,GM,GM,alpha-mannosidase 3,none,0.091,624
+AT2G45280,GM,GM,RAS associated with diabetes protein 51C,none,0.088,387
+AT1G08110,GM,GM,lactoylglutathione lyase family protein / glyoxalase I family protein,none,0.083,235
+AT1G02560,GM,GM,nuclear encoded CLP protease 5,none,0.095,298
+AT1G11870,GM,GM,Seryl-tRNA synthetase,none,0.087,514
+AT3G03300,GM,GM,dicer-like 2,none,0.09,1388
+AT1G14610,GM,GM,valyl-tRNA synthetase / valine--tRNA ligase (VALRS),none,0.084,1108
+AT5G23250,GM,GM,"Succinyl-CoA ligase, alpha subunit",none,0.09,341
+AT1G79210,GM,GM,N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein,none,0.097,235
+AT3G27240,GM,GM,Cytochrome C1 family,none,0.088,307
+AT4G13780,GM,GM,"methionine--tRNA ligase, putative / methionyl-tRNA synthetase, putative / MetRS, putative",none,0.091,797
+AT3G22630,GM,GM,20S proteasome beta subunit D1,none,0.097,204
+AT2G24120,GM,GM,DNA/RNA polymerases superfamily protein,none,0.093,993
+AT2G22530,GM,GM,Alkaline-phosphatase-like family protein,none,0.097,958
+AT2G44530,GM,GM,Phosphoribosyltransferase family protein,none,0.091,394
+AT5G27540,GM,GM,MIRO-related GTP-ase 1,none,0.088,648
+AT5G42390,GM,GM,Insulinase (Peptidase family M16) family protein,none,0.093,1265
+AT5G19660,GM,GM,SITE-1 protease,none,0.092,1038
+AT3G57150,GM,GM,homologue of NAP57,none,0.087,565
+AT1G32200,GM,GM,phospholipid/glycerol acyltransferase family protein,none,0.098,459
+AT1G79050,GM,GM,recA DNA recombination family protein,none,0.098,439
+AT5G14800,GM,GM,pyrroline-5- carboxylate (P5C) reductase,none,0.093,276
+AT2G32010,GM,GM,CVP2 like 1,none,0.096,594
+AT5G52520,GM,GM,Class II aaRS and biotin synthetases superfamily protein,none,0.09,543
+AT1G73370,GM,GM,sucrose synthase 6,none,0.098,942
+AT1G08130,GM,GM,DNA ligase 1,none,0.095,790
+AT2G41460,GM,GM,apurinic endonuclease-redox protein,none,0.103,536
+AT5G43600,GM,GM,ureidoglycolate amidohydrolase,none,0.101,476
+AT3G62130,GM,GM,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.093,454
+AT1G10670,GM,GM,ATP-citrate lyase A-1,none,0.103,443
+AT4G13550,GM,GM,triglyceride lipases;triglyceride lipases,none,0.098,715
+AT5G63840,GM,GM,Glycosyl hydrolases family 31  protein,none,0.105,921
+AT4G31180,GM,GM,Class II aminoacyl-tRNA and biotin synthetases superfamily protein,none,0.108,558
+AT5G61760,GM,GM,inositol polyphosphate kinase 2 beta,none,0.104,300
+AT3G02760,GM,GM,Class II aaRS and biotin synthetases superfamily protein,none,0.105,883
+AT4G21060,GM,GM,Galactosyltransferase family protein,none,0.098,741
+AT4G20910,GM,GM,double-stranded RNA binding protein-related / DsRBD protein-related,none,0.111,942
+AT2G14120,GM,GM,dynamin related protein,none,0.106,809
+AT5G15050,GM,GM,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.105,434
+AT2G31450,GM,GM,DNA glycosylase superfamily protein,none,0.11,379
+AT3G21160,GM,GM,alpha-mannosidase 2,none,0.107,572
+AT3G54720,GM,GM,Peptidase M28 family protein,none,0.108,705
+AT2G28800,GM,GM,63 kDa inner membrane family protein,none,0.108,462
+AT5G14950,GM,GM,golgi alpha-mannosidase II,none,0.113,1173
+AT5G56730,GM,GM,Insulinase (Peptidase family M16) protein,none,0.11,956
+AT4G38240,GM,GM,"alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase, putative",none,0.106,444
+AT5G63920,GM,GM,topoisomerase 3alpha,none,0.107,926
+AT1G77130,GM,GM,plant glycogenin-like starch initiation protein 2,none,0.114,618
+AT3G10850,GM,GM,Metallo-hydrolase/oxidoreductase superfamily protein,none,0.113,258
+AT5G64050,GM,GM,glutamate tRNA synthetase,none,0.112,570
+AT4G01220,GM,GM,Nucleotide-diphospho-sugar transferase family protein,none,0.111,360
+AT5G58220,GM,GM,transthyretin-like protein,none,0.113,324
+AT2G31320,GM,GM,poly(ADP-ribose) polymerase 2,none,0.113,983
+AT2G45670,GM,GM,calcineurin B subunit-related,none,0.111,539
+AT3G02090,GM,GM,Insulinase (Peptidase family M16) protein,none,0.114,535
+AT3G06580,GM,GM,Mevalonate/galactokinase family protein,none,0.114,496
+AT3G01640,GM,GM,glucuronokinase G,none,0.113,362
+AT2G34970,GM,GM,Trimeric LpxA-like enzyme,none,0.111,730
+AT1G74210,GM,GM,PLC-like phosphodiesterases superfamily protein,none,0.115,392
+AT1G01040,GM,GM,dicer-like 1,none,0.111,1910
+AT5G37710,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.122,436
+AT5G36880,GM,GM,acetyl-CoA synthetase,none,0.113,743
+AT5G42790,GM,GM,proteasome alpha subunit F1,none,0.124,278
+AT2G47420,GM,GM,Ribosomal RNA adenine dimethylase family protein,none,0.118,353
+AT3G52990,GM,GM,Pyruvate kinase family protein,none,0.148,527
+AT1G01290,GM,GM,cofactor of nitrate reductase and xanthine dehydrogenase 3,none,0.118,270
+AT1G01050,GM,GM,pyrophosphorylase 1,none,0.112,212
+AT3G63150,GM,GM,MIRO-related GTP-ase 2,none,0.122,643
+AT1G77440,GM,GM,20S proteasome beta subunit C2,none,0.12,204
+AT4G38510,GM,GM,"ATPase, V1 complex, subunit B protein",none,0.118,494
+AT2G43400,GM,GM,electron-transfer flavoprotein:ubiquinone oxidoreductase,none,0.119,633
+AT3G14290,GM,GM,20S proteasome alpha subunit E2,none,0.125,237
+AT3G05350,GM,GM,Metallopeptidase M24 family protein,none,0.118,710
+AT5G40280,GM,GM,Prenyltransferase family protein,none,0.123,482
+AT5G03080,GM,GM,Phosphatidic acid phosphatase (PAP2) family protein,none,0.129,226
+AT5G16310,GM,GM,"Peptidase C12, ubiquitin carboxyl-terminal hydrolase 1",none,0.121,334
+AT1G13270,GM,GM,methionine aminopeptidase 1B,none,0.121,369
+AT1G17980,GM,GM,poly(A) polymerase 1,none,0.124,713
+AT1G51590,GM,GM,alpha-mannosidase 1,none,0.127,560
+AT4G11820,GM,GM,hydroxymethylglutaryl-CoA synthase / HMG-CoA synthase / 3-hydroxy-3-methylglutaryl coenzyme A synthase,none,0.131,461
+AT5G49650,GM,GM,xylulose kinase-2,none,0.132,558
+AT4G37000,GM,GM,accelerated cell death 2 (ACD2),none,0.127,319
+AT3G51460,GM,GM,Phosphoinositide phosphatase family protein,none,0.126,597
+AT4G22720,GM,GM,Actin-like ATPase superfamily protein,none,0.12,353
+AT4G17040,GM,GM,CLP protease R subunit 4,none,0.129,305
+AT2G43360,GM,GM,Radical SAM superfamily protein,none,0.123,378
+AT1G53140,GM,GM,Dynamin related protein 5A,none,0.13,817
+AT1G05630,GM,GM,Endonuclease/exonuclease/phosphatase family protein,none,0.121,1170
+AT5G43430,GM,GM,electron transfer flavoprotein beta,none,0.137,251
+AT5G17770,GM,GM,NADH:cytochrome B5 reductase 1,none,0.127,281
+AT4G16265,GM,GM,RNA polymerases M/15 Kd subunit,none,0.131,114
+AT4G31810,GM,GM,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,none,0.132,409
+AT4G33650,GM,GM,dynamin-related protein 3A,none,0.134,809
+AT4G25720,GM,GM,glutaminyl cyclase,none,0.127,320
+AT4G14800,GM,GM,20S proteasome beta subunit D2,none,0.138,215
+AT3G11710,GM,GM,lysyl-tRNA synthetase 1,none,0.146,626
+AT3G20440,GM,GM,Alpha amylase family protein,none,0.132,899
+AT3G22400,GM,GM,PLAT/LH2 domain-containing lipoxygenase family protein,none,0.143,886
+AT5G56630,GM,GM,phosphofructokinase 7,none,0.134,485
+AT4G14150,GM,GM,phragmoplast-associated kinesin-related protein 1,none,0.139,1292
+AT1G50840,GM,GM,polymerase gamma 2,none,0.129,1050
+AT5G20850,GM,GM,RAS associated with diabetes protein 51,none,0.134,342
+AT4G32840,GM,GM,phosphofructokinase 6,none,0.142,462
+AT5G45390,GM,GM,CLP protease P4,none,0.136,292
+AT5G39990,GM,GM,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.143,447
+AT3G25530,GM,GM,glyoxylate reductase 1,none,0.14,289
+AT1G14830,GM,GM,DYNAMIN-like 1C,none,0.139,614
+AT3G22320,GM,GM,Eukaryotic rpb5 RNA polymerase subunit family protein,none,0.146,205
+AT5G48810,GM,GM,cytochrome B5 isoform D,none,0.143,140
+AT3G51840,GM,GM,acyl-CoA oxidase 4,none,0.143,436
+AT1G09795,GM,GM,ATP phosphoribosyl transferase 2,none,0.147,413
+AT3G03690,GM,GM,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.138,378
+AT3G26900,GM,GM,shikimate kinase like 1,none,0.145,280
+AT5G65940,GM,GM,beta-hydroxyisobutyryl-CoA hydrolase 1,none,0.148,378
+AT5G57280,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.144,289
+AT5G57655,GM,GM,xylose isomerase family protein,none,0.146,477
+AT1G68990,GM,GM,male gametophyte defective 3,none,0.142,983
+AT1G53850,GM,GM,20S proteasome alpha subunit E1,none,0.15,237
+AT3G17940,GM,GM,Galactose mutarotase-like superfamily protein,none,0.147,341
+AT1G01510,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.143,636
+AT1G69770,GM,GM,chromomethylase 3,none,0.146,839
+AT1G12000,GM,GM,Phosphofructokinase family protein,none,0.151,566
+AT1G01800,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.148,295
+AT1G65650,GM,GM,"Peptidase C12, ubiquitin carboxyl-terminal hydrolase 1",none,0.154,330
+AT2G39550,GM,GM,Prenyltransferase family protein,none,0.145,375
+AT4G29680,GM,GM,Alkaline-phosphatase-like family protein,none,0.153,496
+AT4G30310,GM,GM,FGGY family of carbohydrate kinase,none,0.163,579
+AT3G10840,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.161,466
+AT3G18630,GM,GM,uracil dna glycosylase,none,0.153,330
+AT3G58140,GM,GM,phenylalanyl-tRNA synthetase class IIc family protein,none,0.151,429
+AT3G57080,GM,GM,Eukaryotic rpb5 RNA polymerase subunit family protein,none,0.152,222
+AT5G35790,GM,GM,glucose-6-phosphate dehydrogenase 1,none,0.16,576
+AT4G27700,GM,GM,Rhodanese/Cell cycle control phosphatase superfamily protein,none,0.153,224
+AT5G51110,GM,GM,Transcriptional coactivator/pterin dehydratase,none,0.167,220
+AT2G32720,GM,GM,cytochrome B5 isoform B,none,0.151,134
+AT5G08300,GM,GM,"Succinyl-CoA ligase, alpha subunit",none,0.158,347
+AT1G06680,GM,GM,photosystem II subunit P-1,none,0.157,263
+AT2G22480,GM,GM,phosphofructokinase 5,none,0.167,537
+AT3G15850,GM,GM,fatty acid desaturase 5,none,0.157,371
+AT5G03455,GM,GM,Rhodanese/Cell cycle control phosphatase superfamily protein,none,0.158,146
+AT3G51260,GM,GM,20S proteasome  alpha subunit PAD1,none,0.157,250
+AT5G53560,GM,GM,cytochrome B5 isoform E,none,0.153,134
+AT2G27490,GM,GM,dephospho-CoA kinase family,none,0.163,232
+AT5G01310,GM,GM,APRATAXIN-like,none,0.163,912
+AT3G22942,GM,GM,G-protein gamma subunit 2,none,0.208,100
+AT2G16510,GM,GM,"ATPase, F0/V0 complex, subunit C protein",none,0.164,164
+AT5G26830,GM,GM,Threonyl-tRNA synthetase,none,0.162,709
+AT1G06550,GM,GM,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,none,0.16,387
+AT3G15730,GM,GM,phospholipase D alpha 1,none,0.159,810
+AT4G11175,GM,GM,"Nucleic acid-binding, OB-fold-like protein",none,0.163,141
+AT3G52880,GM,GM,monodehydroascorbate reductase 1,none,0.165,466
+AT4G16210,GM,GM,enoyl-CoA hydratase/isomerase A,none,0.164,265
+AT4G30580,GM,GM,Phospholipid/glycerol acyltransferase family protein,none,0.174,356
+AT2G37585,GM,GM,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.166,384
+AT1G05350,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.166,431
+AT1G68000,GM,GM,phosphatidylinositol synthase 1,none,0.166,227
+AT5G51100,GM,GM,Fe superoxide dismutase 2,none,0.168,305
+AT4G20850,GM,GM,tripeptidyl peptidase ii,none,0.165,1380
+AT5G20320,GM,GM,dicer-like 4,none,0.18,1702
+AT4G22756,GM,GM,sterol C4-methyl oxidase 1-2,none,0.174,299
+AT3G16980,GM,GM,RNA polymerases M/15 Kd subunit,none,0.166,114
+AT5G38830,GM,GM,"Cysteinyl-tRNA synthetase, class Ia family protein",none,0.16,511
+AT5G04040,GM,GM,Patatin-like phospholipase family protein,none,0.173,825
+AT3G04120,GM,GM,glyceraldehyde-3-phosphate dehydrogenase C subunit 1,none,0.168,338
+AT3G44620,GM,GM,protein tyrosine phosphatases;protein tyrosine phosphatases,none,0.17,262
+AT3G22880,GM,GM,DNA repair (Rad51) family protein,none,0.172,344
+AT3G48330,GM,GM,protein-l-isoaspartate methyltransferase 1,none,0.216,230
+AT5G66020,GM,GM,Phosphoinositide phosphatase family protein,none,0.183,593
+AT3G46100,GM,GM,Histidyl-tRNA synthetase 1,none,0.177,486
+AT5G57160,GM,GM,DNA ligase IV,none,0.175,1219
+AT1G20270,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.176,287
+AT1G68720,GM,GM,tRNA arginine adenosine deaminase,none,0.176,1307
+AT4G19710,GM,GM,aspartate kinase-homoserine dehydrogenase ii,none,0.173,916
+AT1G47420,GM,GM,succinate dehydrogenase 5,none,0.178,257
+AT3G02630,GM,GM,Plant stearoyl-acyl-carrier-protein desaturase family protein,none,0.173,396
+AT3G29320,GM,GM,"Glycosyl transferase, family 35",none,0.18,962
+AT2G46820,GM,GM,photosystem I P subunit,none,0.176,174
+AT2G26300,GM,GM,G protein alpha subunit 1,none,0.185,383
+AT1G34120,GM,GM,inositol polyphosphate 5-phosphatase I,none,0.179,590
+AT1G02170,GM,GM,metacaspase 1,none,0.186,367
+AT1G11860,GM,GM,Glycine cleavage T-protein family,none,0.187,408
+AT1G06900,GM,GM,Insulinase (Peptidase family M16) family protein,none,0.181,1024
+AT1G62830,GM,GM,LSD1-like 1,none,0.173,844
+AT5G16715,GM,GM,ATP binding;valine-tRNA ligases;aminoacyl-tRNA ligases;nucleotide binding;ATP binding;aminoacyl-tRNA ligases,none,0.187,974
+AT1G65440,GM,GM,global transcription factor group B1,none,0.182,1647
+AT5G49460,GM,GM,ATP citrate lyase subunit B 2,none,0.183,608
+AT3G57140,GM,GM,sugar-dependent 1-like,none,0.182,801
+AT1G79500,GM,GM,Aldolase-type TIM barrel family protein,none,0.183,336
+AT4G10100,GM,GM,"co-factor for nitrate, reductase and xanthine dehydrogenase 7",none,0.188,96
+AT3G26380,GM,GM,Melibiase family protein,none,0.18,647
+AT3G16480,GM,GM,mitochondrial processing peptidase alpha subunit,none,0.18,499
+AT1G08490,GM,GM,chloroplastic NIFS-like cysteine desulfurase,none,0.189,463
+AT2G22570,GM,GM,nicotinamidase 1,none,0.18,244
+AT4G32700,GM,GM,helicases;ATP-dependent helicases;nucleic acid binding;ATP binding;DNA-directed DNA polymerases;DNA binding,none,0.188,2154
+AT4G17300,GM,GM,Class II aminoacyl-tRNA and biotin synthetases superfamily protein,none,0.188,567
+AT5G46340,GM,GM,O-acetyltransferase family protein,none,0.182,540
+AT4G37040,GM,GM,methionine aminopeptidase 1D,none,0.192,350
+AT4G38220,GM,GM,Peptidase M20/M25/M40 family protein,none,0.193,433
+AT4G34720,GM,GM,"ATPase, F0/V0 complex, subunit C protein",none,0.179,164
+AT5G60790,GM,GM,ABC transporter family protein,none,0.183,595
+AT3G28480,GM,GM,Oxoglutarate/iron-dependent oxygenase,none,0.195,324
+AT4G03280,GM,GM,photosynthetic electron transfer C,none,0.198,229
+AT2G43420,GM,GM,3-beta hydroxysteroid dehydrogenase/isomerase family protein,none,0.194,561
+AT5G15380,GM,GM,domains rearranged methylase 1,none,0.197,624
+AT3G49360,GM,GM,6-phosphogluconolactonase 2,none,0.195,259
+AT1G70730,GM,GM,Phosphoglucomutase/phosphomannomutase family protein,none,0.197,662
+AT5G66570,GM,GM,PS II oxygen-evolving complex 1,none,0.207,332
+AT1G56560,GM,GM,Plant neutral invertase family protein,none,0.205,616
+AT4G36760,GM,GM,aminopeptidase P1,none,0.196,645
+AT3G54090,GM,GM,fructokinase-like 1,none,0.207,471
+AT1G69830,GM,GM,alpha-amylase-like 3,none,0.2,887
+AT3G21640,GM,GM,FKBP-type peptidyl-prolyl cis-trans isomerase family protein,none,0.206,365
+AT3G10620,GM,GM,nudix hydrolase homolog 26,none,0.206,216
+AT1G47250,GM,GM,20S proteasome alpha subunit F2,none,0.2,277
+AT1G76550,GM,GM,Phosphofructokinase family protein,none,0.209,617
+AT3G25860,GM,GM,2-oxoacid dehydrogenases acyltransferase family protein,none,0.211,480
+AT1G54940,GM,GM,plant glycogenin-like starch initiation protein 4,none,0.205,557
+AT1G12230,GM,GM,Aldolase superfamily protein,none,0.208,427
+AT3G51830,GM,GM,SAC domain-containing protein 8,none,0.205,588
+AT4G20070,GM,GM,allantoate amidohydrolase,none,0.214,525
+AT1G03520,GM,GM,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.203,447
+AT2G47170,GM,GM,Ras-related small GTP-binding family protein,none,0.23,181
+AT5G54080,GM,GM,"homogentisate 1,2-dioxygenase",none,0.221,461
+AT1G10630,GM,GM,ADP-ribosylation factor A1F,none,0.226,181
+AT5G20080,GM,GM,FAD/NAD(P)-binding oxidoreductase,none,0.204,328
+AT1G07910,GM,GM,RNAligase,none,0.211,1104
+AT1G11840,GM,GM,glyoxalase I homolog,none,0.203,322
+AT3G10390,GM,GM,Flavin containing amine oxidoreductase family protein,none,0.215,884
+AT2G29980,GM,GM,fatty acid desaturase 3,none,0.218,386
+AT5G64350,GM,GM,FK506-binding protein 12,none,0.226,112
+AT2G26800,GM,GM,Aldolase superfamily protein,none,0.21,468
+AT3G22960,GM,GM,Pyruvate kinase family protein,none,0.211,596
+AT1G71070,GM,GM,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.21,395
+AT2G39140,GM,GM,pseudouridine synthase family protein,none,0.211,410
+AT4G33910,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.22,288
+AT5G64740,GM,GM,cellulose synthase 6,none,0.214,1084
+AT4G33330,GM,GM,plant glycogenin-like starch initiation protein 3,none,0.219,626
+AT1G13700,GM,GM,6-phosphogluconolactonase 1,none,0.224,268
+AT5G14620,GM,GM,domains rearranged methyltransferase 2,none,0.222,626
+AT1G34430,GM,GM,2-oxoacid dehydrogenases acyltransferase family protein,none,0.223,465
+AT2G30570,GM,GM,photosystem II reaction center W,none,0.226,133
+AT1G70490,GM,GM,Ras-related small GTP-binding family protein,none,0.245,181
+AT2G04700,GM,GM,ferredoxin thioredoxin reductase catalytic beta chain family protein,none,0.229,146
+AT4G09510,GM,GM,cytosolic invertase 2,none,0.23,558
+AT1G47290,GM,GM,3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 1,none,0.214,439
+AT1G73680,GM,GM,alpha dioxygenase,none,0.22,640
+AT1G32440,GM,GM,plastidial pyruvate kinase 3,none,0.225,571
+AT5G53340,GM,GM,Galactosyltransferase family protein,none,0.231,338
+AT3G01480,GM,GM,cyclophilin 38,none,0.23,437
+AT1G68560,GM,GM,alpha-xylosidase 1,none,0.232,915
+AT5G66360,GM,GM,Ribosomal RNA adenine dimethylase family protein,none,0.231,380
+AT2G26230,GM,GM,"uricase / urate oxidase / nodulin 35, putative",none,0.232,309
+AT5G61580,GM,GM,phosphofructokinase 4,none,0.226,530
+AT3G55400,GM,GM,methionyl-tRNA synthetase / methionine--tRNA ligase / MetRS (cpMetRS),none,0.239,616
+AT2G34980,GM,GM,phosphatidylinositolglycan synthase family protein,none,0.229,303
+AT4G28750,GM,GM,Photosystem I reaction centre subunit IV / PsaE protein,none,0.234,143
+AT2G44180,GM,GM,methionine aminopeptidase 2A,none,0.227,441
+AT5G13520,GM,GM,peptidase M1 family protein,none,0.232,616
+AT1G58080,GM,GM,ATP phosphoribosyl transferase 1,none,0.235,411
+AT5G13110,GM,GM,glucose-6-phosphate dehydrogenase 2,none,0.239,596
+AT3G17240,GM,GM,lipoamide dehydrogenase 2,none,0.223,507
+AT4G04955,GM,GM,allantoinase,none,0.237,506
+AT3G54010,GM,GM,FKBP-type peptidyl-prolyl cis-trans isomerase family protein,none,0.238,635
+AT2G28560,GM,GM,DNA repair (Rad51) family protein,none,0.234,371
+AT1G11750,GM,GM,CLP protease proteolytic subunit 6,none,0.23,289
+AT5G66140,GM,GM,proteasome alpha subunit D2,none,0.236,250
+AT1G69200,GM,GM,fructokinase-like 2,none,0.239,616
+AT2G39780,GM,GM,ribonuclease 2,none,0.239,259
+AT2G43760,GM,GM,molybdopterin biosynthesis MoaE family protein,none,0.237,198
+AT1G75230,GM,GM,DNA glycosylase superfamily protein,none,0.233,394
+AT4G26770,GM,GM,Phosphatidate cytidylyltransferase family protein,none,0.239,471
+AT4G15940,GM,GM,Fumarylacetoacetate (FAA) hydrolase family,none,0.251,222
+AT1G67740,GM,GM,photosystem II BY,none,0.251,189
+AT3G44600,GM,GM,cyclophilin71,none,0.243,631
+AT3G02040,GM,GM,senescence-related gene 3,none,0.246,361
+AT1G05620,GM,GM,uridine-ribohydrolase  2,none,0.244,322
+AT5G65090,GM,GM,DNAse I-like superfamily protein,none,0.252,529
+AT1G23190,GM,GM,Phosphoglucomutase/phosphomannomutase family protein,none,0.236,583
+AT1G04420,GM,GM,NAD(P)-linked oxidoreductase superfamily protein,none,0.254,412
+AT4G27600,GM,GM,pfkB-like carbohydrate kinase family protein,none,0.245,471
+AT1G20950,GM,GM,Phosphofructokinase family protein,none,0.245,614
+AT4G29220,GM,GM,phosphofructokinase 1,none,0.25,473
+AT4G32120,GM,GM,Galactosyltransferase family protein,none,0.258,345
+AT4G14070,GM,GM,acyl-activating enzyme 15,none,0.246,727
+AT2G46505,GM,GM,succinate dehydrogenase subunit 4,none,0.247,151
+AT2G31955,GM,GM,cofactor of nitrate reductase and xanthine dehydrogenase 2,none,0.255,390
+AT3G55650,GM,GM,Pyruvate kinase family protein,none,0.279,510
+AT5G64040,GM,GM,"photosystem I reaction center subunit PSI-N, chloroplast, putative / PSI-N, putative (PSAN)",none,0.26,181
+AT5G57450,GM,GM,homolog of X-ray repair cross complementing 3 (XRCC3),none,0.249,304
+AT1G16470,GM,GM,proteasome subunit PAB1,none,0.267,235
+AT3G11170,GM,GM,fatty acid desaturase 7,none,0.269,446
+AT4G26300,GM,GM,"Arginyl-tRNA synthetase, class Ic",none,0.266,642
+AT1G50360,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.272,1153
+AT3G26340,GM,GM,N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein,none,0.265,273
+AT5G62575,GM,GM,unknown,none,0.249,100
+AT1G79530,GM,GM,glyceraldehyde-3-phosphate dehydrogenase of plastid 1,none,0.265,422
+AT4G32410,GM,GM,cellulose synthase 1,none,0.255,1081
+AT5G49720,GM,GM,glycosyl hydrolase 9A1,none,0.259,621
+AT1G20010,GM,GM,tubulin beta-5 chain,none,0.267,449
+AT3G06300,GM,GM,P4H isoform 2,none,0.267,299
+AT5G49160,GM,GM,methyltransferase 1,none,0.259,1534
+AT3G26650,GM,GM,glyceraldehyde 3-phosphate dehydrogenase A subunit,none,0.263,396
+AT5G65110,GM,GM,acyl-CoA oxidase 2,none,0.26,692
+ATCG00670,GM,GM,plastid-encoded CLP P,none,0.288,196
+AT3G11750,GM,GM,Dihydroneopterin aldolase,none,0.271,146
+AT3G56070,GM,GM,rotamase cyclophilin 2,none,0.281,176
+AT5G49190,GM,GM,sucrose synthase 2,none,0.265,807
+AT1G07745,GM,GM,homolog of RAD51 D,none,0.261,322
+AT3G63400,GM,GM,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,none,0.286,570
+AT1G32380,GM,GM,phosphoribosyl pyrophosphate (PRPP) synthase 2,none,0.287,400
+AT1G66730,GM,GM,DNA LIGASE 6,none,0.262,1396
+AT1G03090,GM,GM,"methylcrotonyl-CoA carboxylase alpha chain, mitochondrial / 3-methylcrotonyl-CoA carboxylase 1 (MCCA)",none,0.274,734
+AT5G58670,GM,GM,phospholipase C1,none,0.28,561
+AT5G22510,GM,GM,alkaline/neutral invertase,none,0.278,617
+AT3G25220,GM,GM,FK506-binding protein 15 kD-1,none,0.285,153
+AT4G05190,GM,GM,kinesin 5,none,0.279,790
+AT4G04040,GM,GM,Phosphofructokinase family protein,none,0.271,569
+AT5G43280,GM,GM,"delta(3,5),delta(2,4)-dienoyl-CoA isomerase 1",none,0.269,278
+AT1G26810,GM,GM,galactosyltransferase1,none,0.309,643
+AT5G46180,GM,GM,ornithine-delta-aminotransferase,none,0.28,475
+AT1G24280,GM,GM,glucose-6-phosphate dehydrogenase 3,none,0.278,599
+AT5G19220,GM,GM,ADP glucose pyrophosphorylase large subunit 1,none,0.272,522
+AT1G08990,GM,GM,plant glycogenin-like starch initiation protein 5,none,0.283,566
+AT1G09130,GM,GM,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,none,0.274,370
+AT3G10740,GM,GM,alpha-L-arabinofuranosidase 1,none,0.279,678
+AT3G13682,GM,GM,LSD1-like2,none,0.283,746
+AT4G30490,GM,GM,AFG1-like ATPase family protein,none,0.285,497
+AT2G47320,GM,GM,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,none,0.311,230
+AT4G13610,GM,GM,DNA (cytosine-5-)-methyltransferase family protein,none,0.292,1404
+ATCG00140,GM,GM,ATP synthase subunit C family protein,none,0.296,81
+AT3G56310,GM,GM,Melibiase family protein,none,0.284,437
+AT3G60190,GM,GM,DYNAMIN-like 1E,none,0.283,624
+AT1G65820,GM,GM,"microsomal glutathione s-transferase, putative",none,0.286,194
+AT3G54490,GM,GM,"RNA polymerase II fifth largest subunit, E",none,0.292,233
+AT1G12900,GM,GM,glyceraldehyde 3-phosphate dehydrogenase A subunit 2,none,0.285,399
+AT5G44340,GM,GM,tubulin beta chain 4,none,0.28,444
+AT1G80740,GM,GM,chromomethylase 1,none,0.29,791
+AT1G18270,GM,GM,ketose-bisphosphate aldolase class-II family protein,none,0.288,1393
+AT4G26270,GM,GM,phosphofructokinase 3,none,0.285,489
+AT5G14180,GM,GM,Myzus persicae-induced lipase 1,none,0.278,418
+AT4G25570,GM,GM,Cytochrome b561/ferric reductase transmembrane protein family,none,0.297,239
+AT3G24360,GM,GM,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,none,0.29,418
+AT4G10320,GM,GM,"tRNA synthetase class I (I, L, M and V) family protein",none,0.311,1190
+AT3G62290,GM,GM,ADP-ribosylation factor A1E,none,0.313,181
+AT1G18370,GM,GM,ATP binding microtubule motor family protein,none,0.3,974
+AT1G08680,GM,GM,ARF GAP-like zinc finger-containing protein ZIGA4,none,0.308,651
+AT3G23920,GM,GM,beta-amylase 1,none,0.291,575
+AT3G01500,GM,GM,carbonic anhydrase 1,none,0.306,347
+AT2G41700,GM,GM,ATP-binding cassette A1,none,0.303,1882
+AT5G47810,GM,GM,phosphofructokinase 2,none,0.301,444
+AT5G18900,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.299,298
+AT4G27180,GM,GM,kinesin 2,none,0.308,745
+AT4G18030,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.298,621
+AT1G30110,GM,GM,nudix hydrolase homolog 25,none,0.299,175
+AT1G65520,GM,GM,"delta(3), delta(2)-enoyl CoA isomerase 1",none,0.292,240
+AT4G20890,GM,GM,tubulin beta-9 chain,none,0.307,444
+AT1G10700,GM,GM,phosphoribosyl pyrophosphate (PRPP) synthase 3,none,0.308,411
+AT5G19740,GM,GM,Peptidase M28 family protein,none,0.315,681
+AT4G19020,GM,GM,chromomethylase 2,none,0.332,1295
+AT2G41340,GM,GM,"RNA polymerase II fifth largest subunit, D",none,0.309,218
+AT4G23500,GM,GM,Pectin lyase-like superfamily protein,none,0.338,495
+AT3G47000,GM,GM,Glycosyl hydrolase family protein,none,0.311,608
+AT2G43080,GM,GM,P4H isoform 1,none,0.306,283
+AT3G18660,GM,GM,plant glycogenin-like starch initiation protein 1,none,0.32,659
+AT5G58170,GM,GM,SHV3-like 5,none,0.298,750
+AT3G25230,GM,GM,rotamase FKBP 1,none,0.313,562
+AT5G20950,GM,GM,Glycosyl hydrolase family protein,none,0.331,624
+AT5G23630,GM,GM,phosphate deficiency response 2,none,0.327,1179
+AT5G28050,GM,GM,Cytidine/deoxycytidylate deaminase family protein,none,0.306,204
+AT4G24810,GM,GM,Protein kinase superfamily protein,none,0.323,481
+AT5G24090,GM,GM,chitinase A,none,0.33,302
+AT5G48580,GM,GM,FK506- and rapamycin-binding protein 15 kD-2,none,0.314,163
+AT5G16230,GM,GM,Plant stearoyl-acyl-carrier-protein desaturase family protein,none,0.31,401
+AT1G65590,GM,GM,beta-hexosaminidase 3,none,0.322,535
+AT5G14740,GM,GM,carbonic anhydrase 2,none,0.321,331
+AT1G17290,GM,GM,alanine aminotransferas,none,0.332,543
+AT2G26260,GM,GM,3beta-hydroxysteroid-dehydrogenase/decarboxylase isoform 2,none,0.324,564
+AT4G25340,GM,GM,FK506 BINDING PROTEIN 53,none,0.336,477
+AT1G18130,GM,GM,Class II aaRS and biotin synthetases superfamily protein,none,0.339,165
+AT4G17050,GM,GM,ureidoglycine aminohydrolase,none,0.359,298
+AT5G63680,GM,GM,Pyruvate kinase family protein,none,0.34,510
+AT3G43190,GM,GM,sucrose synthase 4,none,0.328,808
+AT5G08370,GM,GM,alpha-galactosidase 2,none,0.337,396
+AT1G09420,GM,GM,glucose-6-phosphate dehydrogenase 4,none,0.334,635
+AT1G20810,GM,GM,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.334,232
+AT1G53720,GM,GM,cyclophilin 59,none,0.339,506
+AT5G58050,GM,GM,SHV3-like 4,none,0.325,753
+AT3G56350,GM,GM,Iron/manganese superoxide dismutase family protein,none,0.336,241
+AT5G02500,GM,GM,heat shock cognate protein 70-1,none,0.345,651
+AT4G21280,GM,GM,photosystem II subunit QA,none,0.332,224
+AT3G45040,GM,GM,phosphatidate cytidylyltransferase family protein,none,0.336,569
+AT2G39480,GM,GM,P-glycoprotein 6,none,0.342,1407
+AT2G44810,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.343,357
+AT2G35650,GM,GM,cellulose synthase like,none,0.347,556
+AT4G34870,GM,GM,rotamase cyclophilin 5,none,0.352,172
+AT1G45130,GM,GM,beta-galactosidase 5,none,0.345,732
+AT1G60440,GM,GM,pantothenate kinase 1,none,0.362,383
+AT2G36580,GM,GM,Pyruvate kinase family protein,none,0.359,527
+AT1G05900,GM,GM,endonuclease III 2,none,0.357,386
+AT2G21590,GM,GM,Glucose-1-phosphate adenylyltransferase family protein,none,0.366,523
+AT5G27320,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.365,344
+AT5G04120,GM,GM,Phosphoglycerate mutase family protein,none,0.363,238
+AT5G47435,GM,GM,"formyltetrahydrofolate deformylase, putative",none,0.364,323
+AT1G32930,GM,GM,Galactosyltransferase family protein,none,0.362,399
+AT1G49670,GM,GM,ARP protein (REF),none,0.353,652
+AT4G33150,GM,GM,lysine-ketoglutarate reductase/saccharopine dehydrogenase bifunctional enzyme,none,0.38,1064
+AT1G78240,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.368,684
+AT5G15860,GM,GM,prenylcysteine methylesterase,none,0.373,427
+AT4G37910,GM,GM,mitochondrial heat shock protein 70-1,none,0.377,682
+AT4G35090,GM,GM,catalase 2,none,0.373,492
+AT1G63640,GM,GM,P-loop nucleoside triphosphate hydrolases superfamily protein with CH (Calponin Homology) domain,none,0.377,1071
+AT1G71990,GM,GM,fucosyltransferase 13,none,0.374,401
+AT1G68010,GM,GM,hydroxypyruvate reductase,none,0.37,387
+AT5G16240,GM,GM,Plant stearoyl-acyl-carrier-protein desaturase family protein,none,0.372,394
+AT4G33360,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.379,344
+AT4G22260,GM,GM,Alternative oxidase family protein,none,0.37,351
+AT4G39210,GM,GM,Glucose-1-phosphate adenylyltransferase family protein,none,0.387,521
+AT4G09990,GM,GM,Protein of unknownown function (DUF579),none,0.39,290
+AT5G39890,GM,GM,Protein of unknownown function (DUF1637),none,0.379,276
+AT5G05460,GM,GM,Glycosyl hydrolase family 85,none,0.385,680
+AT5G56350,GM,GM,Pyruvate kinase family protein,none,0.388,498
+AT1G75680,GM,GM,glycosyl hydrolase 9B7,none,0.394,525
+AT4G26690,GM,GM,PLC-like phosphodiesterase family protein,none,0.388,759
+AT4G24040,GM,GM,trehalase 1,none,0.395,626
+AT3G62030,GM,GM,rotamase CYP 4,none,0.389,313
+AT1G80560,GM,GM,isopropylmalate dehydrogenase 2,none,0.39,405
+AT5G24400,GM,GM,NagB/RpiA/CoA transferase-like superfamily protein,none,0.396,325
+AT4G34180,GM,GM,Cyclase family protein,none,0.395,255
+AT5G50240,GM,GM,protein-l-isoaspartate methyltransferase 2,none,0.405,309
+AT5G44790,GM,GM,copper-exporting ATPase / responsive-to-antagonist 1 / copper-transporting ATPase (RAN1),none,0.403,1001
+AT4G25700,GM,GM,beta-hydroxylase 1,none,0.407,310
+AT1G58370,GM,GM,glycosyl hydrolase family 10 protein / carbohydrate-binding domain-containing protein,none,0.404,917
+AT4G11850,GM,GM,phospholipase D gamma 1,none,0.417,858
+AT5G37680,GM,GM,ADP-ribosylation factor-like A1A,none,0.439,184
+AT5G44030,GM,GM,cellulose synthase A4,none,0.417,1049
+AT3G02875,GM,GM,Peptidase M20/M25/M40 family protein,none,0.427,442
+AT2G29550,GM,GM,tubulin beta-7 chain,none,0.421,449
+AT1G55020,GM,GM,lipoxygenase 1,none,0.418,859
+AT1G20620,GM,GM,catalase 3,none,0.415,492
+AT2G43560,GM,GM,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.448,223
+AT5G15120,GM,GM,Protein of unknownown function (DUF1637),none,0.433,293
+AT3G54920,GM,GM,Pectin lyase-like superfamily protein,none,0.43,501
+AT1G23490,GM,GM,ADP-ribosylation factor 1,none,0.435,181
+AT5G18660,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.429,417
+AT1G76160,GM,GM,SKU5 similar 5,none,0.43,541
+AT3G20420,GM,GM,RNAse THREE-like protein 2,none,0.432,391
+AT2G18960,GM,GM,H(+)-ATPase 1,none,0.443,949
+AT5G05200,GM,GM,Protein kinase superfamily protein,none,0.44,540
+AT1G64660,GM,GM,methionine gamma-lyase,none,0.455,441
+AT2G45400,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.444,364
+AT3G48090,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.467,623
+AT4G22530,GM,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.463,261
+AT5G02270,GM,GM,non-intrinsic ABC protein 9,none,0.46,354
+AT4G14440,GM,GM,3-hydroxyacyl-CoA dehydratase 1,none,0.47,238
+AT2G17720,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.472,291
+AT3G48990,GM,GM,AMP-dependent synthetase and ligase family protein,none,0.477,514
+AT4G25110,GM,GM,metacaspase 2,none,0.469,418
+AT4G30190,GM,GM,H(+)-ATPase 2,none,0.483,981
+AT2G28620,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.491,1042
+AT5G48880,GM,GM,peroxisomal 3-keto-acyl-CoA thiolase 2,none,0.494,457
+AT4G16660,GM,GM,heat shock protein 70 (Hsp 70) family protein,none,0.508,867
+AT5G19440,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.528,326
+AT1G37130,GM,GM,nitrate reductase 2,none,0.525,917
+AT3G17790,GM,GM,purple acid phosphatase 17,none,0.53,338
+AT4G29700,GM,GM,Alkaline-phosphatase-like family protein,none,0.547,461
+AT3G47950,GM,GM,H(+)-ATPase 4,none,0.55,960
+AT1G08830,GM,GM,copper/zinc superoxide dismutase 1,none,0.548,152
+AT3G09440,GM,GM,Heat shock protein 70 (Hsp 70) family protein,none,0.586,649
+AT2G37760,GM,GM,NAD(P)-linked oxidoreductase superfamily protein,none,0.719,311
+AT5G14460,GM,unknown,Pseudouridine synthase family protein,none,0.04,540
+AT3G10630,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.046,487
+AT1G66530,GM,unknown,"Arginyl-tRNA synthetase, class Ic",none,0.058,590
+AT4G31790,GM,unknown,Tetrapyrrole (Corrin/Porphyrin) Methylases,none,0.075,277
+AT4G14570,GM,unknown,acylaminoacyl-peptidase-related,none,0.079,764
+AT5G65860,GM,unknown,ankyrin repeat family protein,none,0.091,346
+AT5G19830,GM,unknown,Peptidyl-tRNA hydrolase family protein,none,0.09,219
+AT4G19210,GM,unknown,RNAse l inhibitor protein 2,none,0.099,605
+AT4G04880,GM,unknown,adenosine/AMP deaminase family protein,none,0.102,355
+AT3G45100,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.102,447
+AT3G06930,GM,unknown,protein arginine methyltransferase 4B,none,0.102,535
+AT1G04870,GM,unknown,protein arginine methyltransferase 10,none,0.107,383
+AT3G07020,GM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.104,637
+AT4G31210,GM,unknown,"DNA topoisomerase, type IA, core",none,0.108,1284
+AT3G14075,GM,unknown,"Mono-/di-acylglycerol lipase, N-terminal;Lipase, class 3",none,0.113,642
+AT4G18270,GM,unknown,translocase 11,none,0.112,480
+AT3G01660,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.113,273
+AT3G20650,GM,unknown,mRNA capping enzyme family protein,none,0.112,370
+AT3G57170,GM,unknown,N-acetylglucosaminyl transferase component family protein / Gpi1 family protein,none,0.12,560
+AT3G56300,GM,unknown,"Cysteinyl-tRNA synthetase, class Ia family protein",none,0.132,489
+AT1G19480,GM,unknown,DNA glycosylase superfamily protein,none,0.128,382
+AT5G66060,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.141,289
+AT3G50880,GM,unknown,DNA glycosylase superfamily protein,none,0.136,273
+AT1G05790,GM,unknown,lipase class 3 family protein,none,0.139,687
+AT1G80950,GM,unknown,Phospholipid/glycerol acyltransferase family protein,none,0.143,398
+AT4G29510,GM,unknown,arginine methyltransferase 11,none,0.142,390
+AT3G13640,GM,unknown,RNAse l inhibitor protein 1,none,0.153,603
+AT5G26600,GM,unknown,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.154,475
+AT4G15930,GM,unknown,Dynein light chain type 1 family protein,none,0.162,123
+AT1G48430,GM,unknown,Dihydroxyacetone kinase,none,0.156,593
+AT2G36200,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.164,1040
+AT1G61700,GM,unknown,RNA polymerases N / 8 kDa subunit,none,0.16,71
+AT3G61680,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.208,649
+AT4G12740,GM,unknown,HhH-GPD base excision DNA repair family protein,none,0.165,630
+AT1G71340,GM,unknown,PLC-like phosphodiesterases superfamily protein,none,0.16,328
+AT3G12270,GM,unknown,protein arginine methyltransferase 3,none,0.17,601
+AT3G14790,GM,unknown,rhamnose biosynthesis 3,none,0.192,664
+AT2G19670,GM,unknown,protein arginine methyltransferase 1A,none,0.175,366
+AT3G49050,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.18,477
+AT5G53770,GM,unknown,Nucleotidyltransferase family protein,none,0.185,530
+AT5G16140,GM,unknown,Peptidyl-tRNA hydrolase family protein,none,0.176,240
+AT3G63240,GM,unknown,DNAse I-like superfamily protein,none,0.2,547
+AT4G32420,GM,unknown,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,none,0.203,837
+AT5G38290,GM,unknown,Peptidyl-tRNA hydrolase family protein,none,0.194,250
+AT4G16800,GM,unknown,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,none,0.199,301
+AT3G47800,GM,unknown,Galactose mutarotase-like superfamily protein,none,0.196,358
+AT5G49020,GM,unknown,protein arginine methyltransferase 4A,none,0.229,528
+AT5G25480,GM,unknown,DNA methyltransferase-2,none,0.216,383
+AT2G32090,GM,unknown,Lactoylglutathione lyase / glyoxalase I family protein,none,0.209,135
+AT4G04670,GM,unknown,Met-10+ like family protein / kelch repeat-containing protein,none,0.204,995
+AT3G05120,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.241,345
+AT3G17770,GM,unknown,Dihydroxyacetone kinase,none,0.224,595
+AT4G00500,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.22,460
+AT3G14360,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.224,518
+AT5G43300,GM,unknown,PLC-like phosphodiesterases superfamily protein,none,0.256,370
+AT1G05610,GM,unknown,ADP-glucose pyrophosphorylase small subunit 2,none,0.238,476
+AT5G04980,GM,unknown,DNAse I-like superfamily protein,none,0.238,466
+AT5G15140,GM,unknown,Galactose mutarotase-like superfamily protein,none,0.244,490
+AT3G02280,GM,unknown,Flavodoxin family protein,none,0.238,623
+AT5G57980,GM,unknown,"RNA polymerase II fifth largest subunit, C",none,0.25,210
+AT5G10880,GM,unknown,tRNA synthetase-related / tRNA ligase-related,none,0.256,309
+AT4G00740,GM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.248,600
+AT2G22610,GM,unknown,Di-glucose binding protein with Kinesin motor domain,none,0.248,1083
+AT3G25740,GM,unknown,methionine aminopeptidase 1C,none,0.251,344
+AT1G17960,GM,unknown,Threonyl-tRNA synthetase,none,0.257,458
+AT3G57470,GM,unknown,Insulinase (Peptidase family M16) family protein,none,0.236,891
+AT1G49250,GM,unknown,ATP-dependent DNA ligase,none,0.269,657
+AT3G24340,GM,unknown,chromatin remodeling 40,none,0.262,1132
+AT2G21380,GM,unknown,Kinesin motor family protein,none,0.265,1058
+AT2G41790,GM,unknown,Insulinase (Peptidase family M16) family protein,none,0.267,970
+AT1G59540,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.27,823
+AT1G23460,GM,unknown,Pectin lyase-like superfamily protein,none,0.294,460
+AT5G19720,GM,unknown,"Ribosomal protein L25/Gln-tRNA synthetase, anti-codon-binding domain",none,0.282,170
+AT3G20520,GM,unknown,SHV3-like 3,none,0.297,729
+AT5G17060,GM,unknown,ADP-ribosylation factor B1B,none,0.301,192
+AT4G25290,GM,unknown,DNA photolyases;DNA photolyases,none,0.334,692
+AT2G19490,GM,unknown,recA DNA recombination family protein,none,0.315,430
+AT3G12340,GM,unknown,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.327,499
+AT1G71170,GM,unknown,6-phosphogluconate dehydrogenase family protein,none,0.324,299
+AT1G73655,GM,unknown,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.309,234
+AT5G57815,GM,unknown,"Cytochrome c oxidase, subunit Vib family protein",none,0.314,78
+AT5G61540,GM,unknown,N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein,none,0.331,359
+AT4G19830,GM,unknown,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.338,229
+AT4G03340,GM,unknown,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.356,448
+AT5G45020,GM,unknown,Glutathione S-transferase family protein,none,0.345,325
+AT3G47010,GM,unknown,Glycosyl hydrolase family protein,none,0.364,609
+AT2G23400,GM,unknown,Undecaprenyl pyrophosphate synthetase family protein,none,0.383,253
+AT3G59710,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.385,302
+AT5G18640,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.397,357
+AT5G41080,GM,unknown,PLC-like phosphodiesterases superfamily protein,none,0.4,374
+AT4G15417,GM,unknown,RNAse II-like 1,none,0.406,264
+AT5G18630,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.403,358
+AT4G27480,GM,unknown,"Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein",none,0.412,421
+AT3G28490,GM,unknown,Oxoglutarate/iron-dependent oxygenase,none,0.434,288
+AT3G55520,GM,unknown,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.453,190
+AT4G35820,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.483,272
+AT1G02310,GM,unknown,Glycosyl hydrolase superfamily protein,none,0.471,411
+AT1G02660,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.468,713
+AT4G26390,GM,unknown,Pyruvate kinase family protein,none,0.481,497
+AT1G06310,GM,unknown,acyl-CoA oxidase 6,none,0.483,675
+AT5G02780,GM,unknown,glutathione transferase lambda 1,none,0.482,237
+AT1G72990,GM,unknown,beta-galactosidase 17,none,0.49,697
+AT3G49160,GM,unknown,pyruvate kinase family protein,none,0.509,710
+AT3G04050,GM,unknown,Pyruvate kinase family protein,none,0.537,510
+AT5G63990,GM,unknown,Inositol monophosphatase family protein,none,0.553,357
+AT3G49680,SM,SM,branched-chain aminotransferase 3,none,0.173,413
+AT3G59050,SM,SM,polyamine oxidase 3,none,0.188,488
+AT5G42150,SM,SM,Glutathione S-transferase family protein,none,0.19,315
+AT1G65980,SM,SM,thioredoxin-dependent peroxidase 1,none,0.194,162
+AT4G24520,SM,SM,P450 reductase 1,none,0.209,692
+AT2G36290,SM,SM,alpha/beta-Hydrolases superfamily protein,none,0.215,364
+AT4G30210,SM,SM,P450 reductase 2,none,0.244,712
+AT5G65780,SM,SM,branched-chain amino acid aminotransferase 5 / branched-chain amino acid transaminase 5 (BCAT5),none,0.276,1018
+AT5G03630,SM,SM,Pyridine nucleotide-disulphide oxidoreductase family protein,none,0.277,435
+AT1G21440,SM,SM,Phosphoenolpyruvate carboxylase family protein,none,0.268,336
+AT4G36360,SM,SM,beta-galactosidase 3,none,0.289,856
+AT2G02400,SM,SM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.303,318
+AT1G03980,SM,SM,phytochelatin synthase 2,none,0.289,452
+AT4G02520,SM,SM,glutathione S-transferase PHI 2,none,0.338,212
+AT1G10060,SM,SM,branched-chain amino acid transaminase 1,none,0.324,384
+AT3G54660,SM,SM,glutathione reductase,none,0.32,565
+AT4G34850,SM,SM,Chalcone and stilbene synthase family protein,none,0.37,392
+AT1G65840,SM,SM,polyamine oxidase 4,none,0.388,497
+AT1G10070,SM,SM,branched-chain amino acid transaminase 2,none,0.382,388
+AT4G04610,SM,SM,APS reductase 1,none,0.39,465
+AT3G19450,SM,SM,GroES-like zinc-binding alcohol dehydrogenase family protein,none,0.392,365
+AT5G57350,SM,SM,H(+)-ATPase 3,none,0.403,949
+AT2G28190,SM,SM,copper/zinc superoxide dismutase 2,none,0.44,216
+AT5G44020,SM,SM,"HAD superfamily, subfamily IIIB acid phosphatase ",none,0.472,272
+AT5G41210,SM,SM,glutathione S-transferase THETA 1,none,0.505,245
+AT2G47730,SM,SM,glutathione S-transferase phi 8,none,0.501,263
+AT4G38540,SM,SM,FAD/NAD(P)-binding oxidoreductase family protein,none,0.554,407
+AT4G34230,SM,SM,cinnamyl alcohol dehydrogenase 5,none,0.57,357
+AT4G27260,SM,SM,Auxin-responsive GH3 family protein,none,0.604,612
+AT2G02930,SM,SM,glutathione S-transferase F3,none,0.714,212
+AT2G34660,SM,SM,multidrug resistance-associated protein 2,none,0.751,1623
+AT1G30400,SM,SM,multidrug resistance-associated protein 1,none,0.791,1622
+AT5G16970,SM,SM,alkenal reductase,none,0.825,345
+AT5G44000,SM,unknown,Glutathione S-transferase family protein,none,0.205,399
+AT3G47730,SM,unknown,ATP-binding cassette A2,none,0.338,983
+AT5G58490,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.356,324
+AT1G08940,SM,unknown,Phosphoglycerate mutase family protein,none,0.399,281
+AT2G02380,SM,unknown,glutathione S-transferase (class zeta) 2,none,0.462,223
+AT5G02790,SM,unknown,Glutathione S-transferase family protein,none,0.473,235
+AT5G41240,SM,unknown,glutathione S-transferase THETA 2,none,0.579,591
+AT2G33600,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.678,321
+AT4G00490,GM,GM,beta-amylase 2,none,0.104,542
+AT4G33010,GM,GM,glycine decarboxylase P-protein 1,none,0.151,1037
+AT1G27480,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.193,432
+AT1G11720,GM,GM,starch synthase 3,none,0.205,1094
+AT1G23740,GM,GM,"Oxidoreductase, zinc-binding dehydrogenase family protein",none,0.204,386
+AT4G35020,GM,GM,RAC-like 3,none,0.236,198
+AT1G18170,GM,GM,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.225,247
+AT3G49870,GM,GM,ADP-ribosylation factor-like A1C,none,0.25,184
+AT3G15520,GM,GM,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,none,0.226,466
+AT1G75840,GM,GM,RAC-like GTP binding protein 5,none,0.254,196
+AT5G35590,GM,GM,proteasome alpha subunit A1,none,0.26,246
+AT5G05580,GM,GM,fatty acid desaturase 8,none,0.275,435
+AT3G20540,GM,GM,polymerase gamma 1,none,0.279,1049
+AT2G29650,GM,GM,phosphate transporter 4;1,none,0.256,512
+AT4G35250,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.253,395
+AT1G16300,GM,GM,glyceraldehyde-3-phosphate dehydrogenase of plastid 2,none,0.287,420
+AT4G18780,GM,GM,cellulose synthase family protein,none,0.284,985
+AT5G48545,GM,GM,histidine triad nucleotide-binding 3,none,0.303,197
+AT5G13410,GM,GM,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.297,256
+AT3G02610,GM,GM,Plant stearoyl-acyl-carrier-protein desaturase family protein,none,0.319,413
+AT5G04885,GM,GM,Glycosyl hydrolase family protein,none,0.324,665
+AT1G20090,GM,GM,RHO-related protein from plants 2,none,0.319,195
+AT5G66450,GM,GM,Phosphatidic acid phosphatase (PAP2) family protein,none,0.322,286
+AT2G01900,GM,GM,DNAse I-like superfamily protein,none,0.305,417
+AT1G45201,GM,GM,triacylglycerol lipase-like 1,none,0.332,479
+AT3G62110,GM,GM,Pectin lyase-like superfamily protein,none,0.316,471
+AT5G61730,GM,GM,ABC2 homolog 11,none,0.343,940
+AT3G10060,GM,GM,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.344,230
+AT3G14890,GM,GM,phosphoesterase,none,0.331,694
+AT1G11475,GM,GM,RNA polymerases N / 8 kDa subunit,none,0.344,71
+AT3G57790,GM,GM,Pectin lyase-like superfamily protein,none,0.322,490
+AT2G05840,GM,GM,20S proteasome subunit PAA2,none,0.335,246
+AT5G56660,GM,GM,IAA-leucine resistant (ILR)-like 2,none,0.358,439
+AT3G29090,GM,GM,pectin methylesterase 31,none,0.328,317
+AT1G30600,GM,GM,Subtilase family protein,none,0.333,832
+AT3G03330,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.352,328
+AT1G28110,GM,GM,serine carboxypeptidase-like 45,none,0.349,461
+AT3G09840,GM,GM,cell division cycle 48,none,0.366,809
+AT4G30810,GM,GM,serine carboxypeptidase-like 29,none,0.367,479
+AT4G14680,GM,GM,Pseudouridine synthase/archaeosine transglycosylase-like family protein,none,0.382,465
+AT2G05920,GM,GM,Subtilase family protein,none,0.353,754
+AT4G25240,GM,GM,SKU5 similar 1,none,0.362,589
+AT4G36530,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.37,378
+AT1G44350,GM,GM,IAA-leucine resistant (ILR)-like gene 6,none,0.367,464
+AT5G14930,GM,GM,senescence-associated gene 101,none,0.358,537
+AT2G35390,GM,GM,Phosphoribosyltransferase family protein,none,0.386,403
+AT2G27600,GM,GM,AAA-type ATPase family protein,none,0.382,435
+AT1G76450,GM,GM,Photosystem II reaction center PsbP family protein,none,0.387,247
+AT4G12420,GM,GM,Cupredoxin superfamily protein,none,0.376,587
+AT5G67360,GM,GM,Subtilase family protein,none,0.39,757
+AT3G28860,GM,GM,ATP binding cassette subfamily B19,none,0.385,1252
+AT4G00230,GM,GM,xylem serine peptidase 1,none,0.399,749
+AT3G09900,GM,GM,RAB GTPase homolog E1E,none,0.393,218
+AT4G22010,GM,GM,SKU5  similar 4,none,0.387,541
+AT3G63480,GM,GM,ATP binding microtubule motor family protein,none,0.383,469
+AT4G17360,GM,GM,Formyl transferase,none,0.395,328
+AT4G02280,GM,GM,sucrose synthase 3,none,0.393,809
+AT1G13060,GM,GM,20S proteasome beta subunit E1,none,0.404,298
+AT2G21280,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.405,347
+AT1G11755,GM,GM,Undecaprenyl pyrophosphate synthetase family protein,none,0.404,254
+AT4G39710,GM,GM,FK506-binding protein 16-2,none,0.404,217
+AT4G10120,GM,GM,Sucrose-phosphate synthase family protein,none,0.402,1050
+AT3G08900,GM,GM,reversibly glycosylated polypeptide 3,none,0.4,362
+AT1G31180,GM,GM,isopropylmalate dehydrogenase 3,none,0.426,404
+AT3G46060,GM,GM,RAB GTPase homolog 8A,none,0.419,216
+AT5G42240,GM,GM,serine carboxypeptidase-like 42,none,0.413,473
+AT3G51420,GM,GM,strictosidine synthase-like 4,none,0.425,370
+AT1G15000,GM,GM,serine carboxypeptidase-like 50,none,0.413,444
+AT4G13300,GM,GM,terpenoid synthase 13,Terpene_synth,0.421,554
+AT4G26555,GM,GM,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.425,207
+AT2G35780,GM,GM,serine carboxypeptidase-like 26,none,0.413,452
+AT5G09730,GM,GM,beta-xylosidase 3,none,0.42,773
+AT1G79440,GM,GM,aldehyde dehydrogenase 5F1,none,0.428,528
+AT5G02370,GM,GM,ATP binding microtubule motor family protein,none,0.418,628
+AT3G16140,GM,GM,photosystem I subunit H-1,none,0.431,145
+AT4G26740,GM,GM,seed gene 1,none,0.441,245
+AT4G36380,GM,GM,Cytochrome P450 superfamily protein,p450,0.435,524
+AT5G45680,GM,GM,FK506-binding protein 13,none,0.436,208
+AT3G10410,GM,GM,SERINE CARBOXYPEPTIDASE-LIKE 49,none,0.436,516
+AT4G01750,GM,GM,rhamnogalacturonan xylosyltransferase 2,none,0.451,367
+AT3G43920,GM,GM,dicer-like 3,none,0.44,1580
+AT5G28540,GM,GM,heat shock protein 70 (Hsp 70) family protein,none,0.431,669
+AT5G23210,GM,GM,serine carboxypeptidase-like 34,none,0.449,499
+AT4G17530,GM,GM,RAB GTPase homolog 1C,none,0.473,202
+AT3G25820,GM,GM,"terpene synthase-like sequence-1,8-cineole",Terpene_synth,0.449,600
+AT1G51760,GM,GM,peptidase M20/M25/M40 family protein,none,0.47,440
+AT4G30610,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.453,465
+AT4G27030,GM,GM,fatty acid desaturase A,none,0.464,323
+AT3G12800,GM,GM,short-chain dehydrogenase-reductase B,none,0.48,298
+AT4G01770,GM,GM,rhamnogalacturonan xylosyltransferase 1,none,0.472,361
+AT5G50600,GM,GM,hydroxysteroid dehydrogenase 1,none,0.493,349
+AT1G66970,GM,GM,SHV3-like 2,none,0.495,785
+AT2G06850,GM,GM,xyloglucan endotransglucosylase/hydrolase 4,none,0.48,296
+AT2G14920,GM,GM,sulfotransferase 4A,none,0.5,333
+AT4G26330,GM,GM,Subtilisin-like serine endopeptidase family protein,none,0.53,746
+AT5G58270,GM,GM,ABC transporter of the mitochondrion 3,none,0.522,728
+AT4G21270,GM,GM,kinesin 1,none,0.535,793
+AT5G52570,GM,GM,beta-carotene hydroxylase 2,none,0.52,303
+AT1G19670,GM,GM,chlorophyllase 1,none,0.525,324
+AT1G20160,GM,GM,Subtilisin-like serine endopeptidase family protein,none,0.546,769
+AT4G15210,GM,GM,beta-amylase 5,none,0.541,498
+AT1G62340,GM,GM,PA-domain containing subtilase family protein,none,0.56,832
+AT5G36150,GM,GM,putative pentacyclic triterpene synthase 3,none,0.55,760
+AT5G45970,GM,GM,RAC-like 2,none,0.541,201
+AT3G03530,GM,GM,non-specific phospholipase C4,none,0.548,538
+AT1G74070,GM,GM,Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein,none,0.558,317
+AT5G14670,GM,GM,ADP-ribosylation factor A1B,none,0.56,188
+AT4G14330,GM,GM,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.566,869
+AT5G59190,GM,GM,subtilase family protein,none,0.576,693
+AT1G04040,GM,GM,"HAD superfamily, subfamily IIIB acid phosphatase ",none,0.563,271
+AT4G14140,GM,GM,DNA methyltransferase 2,none,0.549,1545
+AT1G04110,GM,GM,Subtilase family protein,none,0.581,775
+AT1G73010,GM,GM,phosphate starvation-induced gene 2,none,0.583,295
+AT5G20830,GM,GM,sucrose synthase 1,none,0.595,808
+AT5G59810,GM,GM,Subtilase family protein,none,0.604,778
+AT2G01630,GM,GM,O-Glycosyl hydrolases family 17 protein,none,0.599,501
+AT4G13280,GM,GM,terpenoid synthase 12,Terpene_synth,0.589,524
+AT2G39850,GM,GM,Subtilisin-like serine endopeptidase family protein,none,0.597,775
+AT1G73640,GM,GM,RAB GTPase homolog A6A,none,0.606,233
+AT5G17420,GM,GM,Cellulose synthase family protein,none,0.617,1026
+AT3G15720,GM,GM,Pectin lyase-like superfamily protein,none,0.619,456
+AT4G29360,GM,GM,O-Glycosyl hydrolases family 17 protein,none,0.598,534
+AT3G47050,GM,GM,Glycosyl hydrolase family protein,none,0.619,612
+AT1G28130,GM,GM,Auxin-responsive GH3 family protein,none,0.627,609
+AT5G51750,GM,GM,subtilase 1.3,none,0.618,780
+AT3G07970,GM,GM,Pectin lyase-like superfamily protein,none,0.647,439
+AT1G01900,GM,GM,subtilase family protein,none,0.642,774
+AT3G26610,GM,GM,Pectin lyase-like superfamily protein,none,0.648,470
+AT1G15520,GM,GM,pleiotropic drug resistance 12,none,0.641,1423
+AT5G67090,GM,GM,Subtilisin-like serine endopeptidase family protein,none,0.647,736
+AT1G15550,GM,GM,gibberellin 3-oxidase 1,none,0.657,358
+AT3G14310,GM,GM,pectin methylesterase 3,none,0.653,592
+AT5G47200,GM,GM,RAB GTPase homolog 1A,none,0.646,202
+AT1G61680,GM,GM,terpene synthase 14,Terpene_synth,0.664,569
+AT3G16850,GM,GM,Pectin lyase-like superfamily protein,none,0.671,455
+AT4G21630,GM,GM,Subtilase family protein,none,0.664,772
+AT3G16370,GM,GM,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.673,353
+AT5G03260,GM,GM,laccase 11,none,0.671,557
+AT4G21323,GM,GM,Subtilase family protein,none,0.677,803
+AT5G59090,GM,GM,subtilase 4.12,none,0.663,736
+AT1G19570,GM,GM,dehydroascorbate reductase,none,0.667,213
+AT1G17060,GM,GM,cytochrome p450 72c1,p450,0.697,476
+AT3G49860,GM,GM,ADP-ribosylation factor-like A1B,none,0.674,176
+AT3G21090,GM,GM,ABC-2 type transporter family protein,none,0.673,691
+AT1G32960,GM,GM,Subtilase family protein,none,0.674,777
+AT4G39890,GM,GM,RAB GTPase homolog H1C,none,0.677,214
+AT5G55590,GM,GM,Pectin lyase-like superfamily protein,none,0.698,380
+AT4G21650,GM,GM,Subtilase family protein,none,0.68,766
+AT3G12580,GM,GM,heat shock protein 70,none,0.683,650
+AT2G41850,GM,GM,polygalacturonase abscission zone A. thaliana,none,0.693,433
+AT3G57510,GM,GM,Pectin lyase-like superfamily protein,none,0.689,431
+AT4G12910,GM,GM,serine carboxypeptidase-like 20,none,0.707,497
+AT2G33160,GM,GM,glycoside hydrolase family 28 protein / polygalacturonase (pectinase) family protein,none,0.706,664
+AT5G21105,GM,GM,Plant L-ascorbate oxidase,none,0.704,588
+AT1G59870,GM,GM,ABC-2 and Plant PDR ABC-type transporter family protein,none,0.706,1469
+AT1G15210,GM,GM,pleiotropic drug resistance 7,none,0.699,1442
+AT5G13320,GM,GM,Auxin-responsive GH3 family protein,none,0.709,575
+AT1G04680,GM,GM,Pectin lyase-like superfamily protein,none,0.717,431
+AT2G26710,GM,GM,Cytochrome P450 superfamily protein,p450,0.728,520
+AT5G48570,GM,GM,FKBP-type peptidyl-prolyl cis-trans isomerase family protein,none,0.725,578
+AT5G21100,GM,GM,Plant L-ascorbate oxidase,none,0.733,573
+AT3G14067,GM,GM,Subtilase family protein,none,0.73,777
+AT1G65310,GM,GM,xyloglucan endotransglucosylase/hydrolase 17,none,0.742,282
+AT1G63710,GM,GM,"cytochrome P450, family 86, subfamily A, polypeptide 7",p450,0.739,523
+AT1G07440,GM,GM,NAD(P)-binding Rossmann-fold superfamily protein,none,0.741,266
+AT5G57540,GM,GM,xyloglucan endotransglucosylase/hydrolase 13,none,0.736,284
+AT2G33530,GM,GM,serine carboxypeptidase-like 46,none,0.741,465
+AT5G48400,GM,GM,Glutamate receptor family protein,none,0.755,867
+AT1G11530,GM,GM,C-terminal cysteine residue is changed to a serine 1,none,0.748,118
+AT1G32940,GM,GM,Subtilase family protein,none,0.743,774
+AT3G03540,GM,GM,non-specific phospholipase C5,none,0.74,521
+AT5G57530,GM,GM,xyloglucan endotransglucosylase/hydrolase 12,none,0.767,285
+AT1G65570,GM,GM,Pectin lyase-like superfamily protein,none,0.779,397
+AT4G21200,GM,GM,gibberellin 2-oxidase 8,none,0.777,338
+AT5G42180,GM,GM,Peroxidase superfamily protein,none,0.779,317
+AT5G51810,GM,GM,gibberellin 20 oxidase 2,none,0.787,378
+AT4G34890,GM,GM,xanthine dehydrogenase 1,none,0.788,1361
+AT4G25420,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.794,377
+AT2G34555,GM,GM,gibberellin 2-oxidase 3,none,0.814,335
+AT3G63010,GM,GM,alpha/beta-Hydrolases superfamily protein,none,0.822,358
+AT1G11580,GM,GM,methylesterase PCR A,none,0.824,557
+AT1G06290,GM,GM,acyl-CoA oxidase 3,none,0.83,675
+AT3G57010,GM,GM,Calcium-dependent phosphotriesterase superfamily protein,none,0.844,376
+AT4G15400,GM,GM,HXXXD-type acyl-transferase family protein,none,0.838,435
+AT4G30280,GM,GM,xyloglucan endotransglucosylase/hydrolase 18,none,0.832,282
+AT1G80340,GM,GM,gibberellin 3-oxidase 2,none,0.836,347
+AT3G07830,GM,GM,Pectin lyase-like superfamily protein,none,0.856,397
+AT1G30040,GM,GM,gibberellin 2-oxidase,none,0.833,341
+AT1G50960,GM,GM,gibberellin 2-oxidase 7,none,0.832,336
+AT1G49660,GM,GM,carboxyesterase 5,none,0.849,319
+AT1G78440,GM,GM,Arabidopsis thaliana gibberellin 2-oxidase 1,none,0.867,329
+AT1G47990,GM,GM,gibberellin 2-oxidase 4,none,0.861,321
+AT3G57240,GM,GM,"beta-1,3-glucanase 3",none,0.861,341
+AT1G05260,GM,GM,Peroxidase superfamily protein,none,0.866,326
+AT4G30290,GM,GM,xyloglucan endotransglucosylase/hydrolase 19,none,0.881,277
+AT3G50990,GM,GM,Peroxidase superfamily protein,none,0.891,344
+AT5G07200,GM,GM,gibberellin 20-oxidase 3,none,0.9,380
+AT1G02400,GM,GM,gibberellin 2-oxidase 6,none,0.907,329
+AT1G53940,GM,GM,GDSL-motif lipase 2,none,0.91,436
+AT5G20400,GM,GM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.929,348
+AT3G57260,GM,GM,"beta-1,3-glucanase 2",none,0.947,339
+AT3G56540,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.219,264
+AT5G42930,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.248,467
+AT5G49215,GM,unknown,Pectin lyase-like superfamily protein,none,0.248,449
+AT1G66520,GM,unknown,"formyltransferase, putative",none,0.22,355
+AT3G46850,GM,unknown,Subtilase family protein,none,0.263,736
+AT1G19170,GM,unknown,Pectin lyase-like superfamily protein,none,0.244,506
+AT3G52010,GM,unknown,serine carboxypeptidase-like 37,none,0.266,487
+AT2G27920,GM,unknown,serine carboxypeptidase-like 51,none,0.266,461
+AT2G19170,GM,unknown,subtilisin-like serine protease 3,none,0.273,815
+AT3G52020,GM,unknown,serine carboxypeptidase-like 39,none,0.286,501
+AT1G72250,GM,unknown,Di-glucose binding protein with Kinesin motor domain,none,0.281,1203
+AT3G42950,GM,unknown,Pectin lyase-like superfamily protein,none,0.287,484
+AT1G16720,GM,unknown,high chlorophyll fluorescence phenotype 173,none,0.275,598
+AT1G29870,GM,unknown,"tRNA synthetase class II (G, H, P and S) family protein",none,0.291,463
+AT5G44530,GM,unknown,Subtilase family protein,none,0.305,840
+AT3G18500,GM,unknown,DNAse I-like superfamily protein,none,0.314,449
+AT5G23600,GM,unknown,"RNA 2'-phosphotransferase, Tpt1 / KptA family",none,0.343,212
+AT1G05820,GM,unknown,SIGNAL PEPTIDE PEPTIDASE-LIKE 5,none,0.333,536
+AT3G46840,GM,unknown,Subtilase family protein,none,0.34,738
+AT3G52000,GM,unknown,serine carboxypeptidase-like 36,none,0.358,482
+AT4G35810,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.359,290
+AT3G55810,GM,unknown,Pyruvate kinase family protein,none,0.359,492
+AT3G01260,GM,unknown,Galactose mutarotase-like superfamily protein,none,0.364,426
+AT3G48080,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.37,629
+AT4G08160,GM,unknown,glycosyl hydrolase family 10 protein / carbohydrate-binding domain-containing protein,none,0.375,752
+AT5G08260,GM,unknown,serine carboxypeptidase-like 35,none,0.373,480
+AT3G14240,GM,unknown,Subtilase family protein,none,0.365,775
+AT2G28420,GM,unknown,Lactoylglutathione lyase / glyoxalase I family protein,none,0.376,184
+AT4G29690,GM,unknown,Alkaline-phosphatase-like family protein,none,0.384,457
+AT3G20150,GM,unknown,Kinesin motor family protein,none,0.387,1114
+AT4G20430,GM,unknown,Subtilase family protein,none,0.395,856
+AT1G56630,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.394,485
+AT1G50140,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.392,1003
+AT5G35930,GM,unknown,AMP-dependent synthetase and ligase family protein,none,0.397,1040
+AT1G10640,GM,unknown,Pectin lyase-like superfamily protein,none,0.399,532
+AT3G06770,GM,unknown,Pectin lyase-like superfamily protein,none,0.4,446
+AT4G21640,GM,unknown,Subtilase family protein,none,0.402,733
+AT2G45330,GM,unknown,"RNA 2'-phosphotransferase, Tpt1 / KptA family",none,0.409,289
+AT2G23410,GM,unknown,cis-prenyltransferase,none,0.42,303
+AT3G14040,GM,unknown,Pectin lyase-like superfamily protein,none,0.409,445
+AT1G02460,GM,unknown,Pectin lyase-like superfamily protein,none,0.428,491
+AT3G02110,GM,unknown,serine carboxypeptidase-like 25,none,0.413,473
+AT4G08990,GM,unknown,DNA (cytosine-5-)-methyltransferase family protein,none,0.442,1512
+AT5G39970,GM,unknown,catalytics,none,0.44,690
+AT4G23820,GM,unknown,Pectin lyase-like superfamily protein,none,0.429,444
+AT5G62350,GM,unknown,Plant invertase/pectin methylesterase inhibitor superfamily protein,none,0.438,202
+AT1G02790,GM,unknown,polygalacturonase 4,none,0.443,422
+AT3G02620,GM,unknown,Plant stearoyl-acyl-carrier-protein desaturase family protein,none,0.442,403
+AT2G29360,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.464,271
+AT5G59120,GM,unknown,subtilase 4.13,none,0.467,732
+AT4G20760,GM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.479,298
+AT5G41870,GM,unknown,Pectin lyase-like superfamily protein,none,0.47,449
+ATMG00410,GM,unknown,ATPase subunit 6-1,none,0.457,385
+AT3G44510,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.479,325
+AT4G29270,GM,unknown,"HAD superfamily, subfamily IIIB acid phosphatase ",none,0.491,256
+AT3G10310,GM,unknown,P-loop nucleoside triphosphate hydrolases superfamily protein with CH (Calponin Homology) domain,none,0.512,922
+AT3G45010,GM,unknown,serine carboxypeptidase-like 48,none,0.519,510
+AT4G10530,GM,unknown,Subtilase family protein,none,0.518,747
+AT4G02480,GM,unknown,AAA-type ATPase family protein,none,0.52,1265
+AT5G01190,GM,unknown,laccase 10,none,0.533,558
+AT4G10520,GM,unknown,Subtilase family protein,none,0.523,756
+AT4G33440,GM,unknown,Pectin lyase-like superfamily protein,none,0.533,475
+AT5G58840,GM,unknown,Subtilase family protein,none,0.549,713
+AT5G20940,GM,unknown,Glycosyl hydrolase family protein,none,0.556,626
+AT1G54790,GM,unknown,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.542,408
+AT3G07990,GM,unknown,serine carboxypeptidase-like 27,none,0.578,459
+AT3G44050,GM,unknown,P-loop containing nucleoside triphosphate hydrolases superfamily protein,none,0.564,1263
+AT5G58830,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.575,701
+AT4G15040,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.566,687
+AT3G47400,GM,unknown,Plant invertase/pectin methylesterase inhibitor superfamily,none,0.59,594
+AT3G59850,GM,unknown,Pectin lyase-like superfamily protein,none,0.575,388
+AT5G05420,GM,unknown,FKBP-like peptidyl-prolyl cis-trans isomerase family protein,none,0.59,143
+AT1G32950,GM,unknown,Subtilase family protein,none,0.586,773
+AT1G08310,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.589,318
+AT4G39830,GM,unknown,Cupredoxin superfamily protein,none,0.608,582
+AT5G45640,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.588,754
+AT5G45650,GM,unknown,subtilase family protein,none,0.611,791
+AT5G11940,GM,unknown,Subtilase family protein,none,0.606,762
+AT4G28780,GM,unknown,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.604,367
+AT3G62710,GM,unknown,Glycosyl hydrolase family protein,none,0.602,650
+AT1G66220,GM,unknown,Subtilase family protein,none,0.617,753
+AT5G03620,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.628,766
+AT4G10550,GM,unknown,Subtilase family protein,none,0.635,794
+AT1G20150,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.622,780
+AT4G21326,GM,unknown,subtilase 3.12,none,0.635,754
+AT5G59130,GM,unknown,Subtilase family protein,none,0.632,732
+AT1G66210,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.627,759
+AT5G42230,GM,unknown,serine carboxypeptidase-like 41,none,0.633,469
+AT1G43780,GM,unknown,serine carboxypeptidase-like 44,none,0.624,479
+AT4G18180,GM,unknown,Pectin lyase-like superfamily protein,none,0.635,414
+AT4G15100,GM,unknown,serine carboxypeptidase-like 30,none,0.636,488
+AT1G70500,GM,unknown,Pectin lyase-like superfamily protein,none,0.644,468
+AT5G59100,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.652,741
+AT4G10510,GM,unknown,Subtilase family protein,none,0.641,765
+AT3G17180,GM,unknown,serine carboxypeptidase-like 33,none,0.662,478
+AT1G56710,GM,unknown,Pectin lyase-like superfamily protein,none,0.661,434
+AT3G61490,GM,unknown,Pectin lyase-like superfamily protein,none,0.658,476
+AT4G10540,GM,unknown,Subtilase family protein,none,0.669,775
+AT3G47040,GM,unknown,Glycosyl hydrolase family protein,none,0.654,644
+AT5G58820,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.666,703
+AT2G24000,GM,unknown,serine carboxypeptidase-like 22,none,0.67,464
+AT5G39910,GM,unknown,Pectin lyase-like superfamily protein,none,0.669,373
+AT2G12480,GM,unknown,serine carboxypeptidase-like 43,none,0.668,443
+AT2G24010,GM,unknown,serine carboxypeptidase-like 23,none,0.659,440
+AT1G11080,GM,unknown,serine carboxypeptidase-like 31,none,0.679,495
+AT2G23900,GM,unknown,Pectin lyase-like superfamily protein,none,0.68,477
+AT4G01890,GM,unknown,Pectin lyase-like superfamily protein,none,0.692,468
+AT3G48950,GM,unknown,Pectin lyase-like superfamily protein,none,0.678,469
+AT1G78400,GM,unknown,Pectin lyase-like superfamily protein,none,0.701,404
+AT4G32370,GM,unknown,Pectin lyase-like superfamily protein,none,0.712,342
+AT4G32380,GM,unknown,Pectin lyase-like superfamily protein,none,0.712,354
+AT3G10720,GM,unknown,Plant invertase/pectin methylesterase inhibitor superfamily,none,0.698,619
+AT5G48140,GM,unknown,Pectin lyase-like superfamily protein,none,0.731,395
+AT1G48100,GM,unknown,Pectin lyase-like superfamily protein,none,0.705,475
+AT5G47500,GM,unknown,Pectin lyase-like superfamily protein,none,0.709,362
+AT1G32970,GM,unknown,Subtilisin-like serine endopeptidase family protein,none,0.707,734
+AT5G27530,GM,unknown,Pectin lyase-like superfamily protein,none,0.717,458
+AT5G14650,GM,unknown,Pectin lyase-like superfamily protein,none,0.728,435
+AT3G52820,GM,unknown,purple acid phosphatase 22,none,0.711,434
+AT4G10020,GM,unknown,hydroxysteroid dehydrogenase 5,none,0.702,389
+AT5G22980,GM,unknown,serine carboxypeptidase-like 47,none,0.721,505
+AT1G60590,GM,unknown,Pectin lyase-like superfamily protein,none,0.724,540
+AT3G47380,GM,unknown,Plant invertase/pectin methylesterase inhibitor superfamily protein,none,0.729,202
+AT5G17200,GM,unknown,Pectin lyase-like superfamily protein,none,0.735,421
+AT3G17720,GM,unknown,Pyridoxal phosphate (PLP)-dependent transferases superfamily protein,none,0.726,194
+AT2G05850,GM,unknown,serine carboxypeptidase-like 38,none,0.717,487
+AT3G25420,GM,unknown,serine carboxypeptidase-like 21,none,0.738,505
+AT4G35670,GM,unknown,Pectin lyase-like superfamily protein,none,0.74,394
+AT2G26620,GM,unknown,Pectin lyase-like superfamily protein,none,0.748,402
+AT2G43890,GM,unknown,Pectin lyase-like superfamily protein,none,0.744,392
+AT3G07850,GM,unknown,Pectin lyase-like superfamily protein,none,0.726,444
+AT2G35770,GM,unknown,serine carboxypeptidase-like 28,none,0.742,462
+AT5G22960,GM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.757,190
+AT3G63470,GM,unknown,serine carboxypeptidase-like 40,none,0.732,502
+AT5G51500,GM,unknown,Plant invertase/pectin methylesterase inhibitor superfamily,none,0.755,540
+AT4G13760,GM,unknown,Pectin lyase-like superfamily protein,none,0.774,404
+AT3G28200,GM,unknown,Peroxidase superfamily protein,none,0.757,316
+AT1G61130,GM,unknown,serine carboxypeptidase-like 32,none,0.775,463
+AT1G43080,GM,unknown,Pectin lyase-like superfamily protein,none,0.764,404
+AT1G43090,GM,unknown,Pectin lyase-like superfamily protein,none,0.764,444
+AT5G44840,GM,unknown,Pectin lyase-like superfamily protein,none,0.779,381
+AT1G43100,GM,unknown,Pectin lyase-like superfamily protein,none,0.785,444
+AT2G40310,GM,unknown,Pectin lyase-like superfamily protein,none,0.799,404
+AT1G17150,GM,unknown,Pectin lyase-like superfamily protein,none,0.805,402
+AT2G43870,GM,unknown,Pectin lyase-like superfamily protein,none,0.792,384
+AT2G03760,GM,unknown,sulphotransferase 12,none,0.805,326
+AT3G07840,GM,unknown,Pectin lyase-like superfamily protein,none,0.804,401
+AT1G44090,GM,unknown,gibberellin 20-oxidase 5,none,0.799,385
+AT1G80140,GM,unknown,Pectin lyase-like superfamily protein,none,0.813,336
+AT2G15460,GM,unknown,Pectin lyase-like superfamily protein,none,0.783,402
+AT2G15470,GM,unknown,Pectin lyase-like superfamily protein,none,0.783,404
+AT5G07080,GM,unknown,HXXXD-type acyl-transferase family protein,none,0.82,450
+AT2G43880,GM,unknown,Pectin lyase-like superfamily protein,none,0.829,394
+AT3G19000,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.843,352
+AT3G07820,GM,unknown,Pectin lyase-like superfamily protein,none,0.832,391
+AT2G15450,GM,unknown,Pectin lyase-like superfamily protein,none,0.841,404
+AT2G43860,GM,unknown,Pectin lyase-like superfamily protein,none,0.864,405
+AT5G44830,GM,unknown,Pectin lyase-like superfamily protein,none,0.861,332
+AT4G32375,GM,unknown,Pectin lyase-like superfamily protein,none,0.88,486
+AT1G05650,GM,unknown,Pectin lyase-like superfamily protein,none,0.867,394
+AT5G20550,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.907,349
+AT1G05660,GM,unknown,Pectin lyase-like superfamily protein,none,0.903,394
+AT1G17010,GM,unknown,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein,none,0.913,361
+AT1G60980,GM,unknown,gibberellin 20-oxidase 4,none,0.917,376
+AT2G45570,GM,unknown,"cytochrome P450, family 76, subfamily C, polypeptide 2",p450,0.94,512
+AT4G39970,SM,SM,Haloacid dehalogenase-like hydrolase (HAD) superfamily protein,none,0.188,316
+AT5G48100,SM,SM,Laccase/Diphenol oxidase family protein,none,0.302,565
+AT1G02050,SM,SM,Chalcone and stilbene synthase family protein,none,0.447,395
+AT1G05250,SM,SM,Peroxidase superfamily protein,none,0.454,325
+AT1G47600,SM,SM,beta glucosidase 34,none,0.535,511
+AT2G30490,SM,SM,cinnamate-4-hydroxylase,p450,0.558,505
+AT2G40890,SM,SM,"cytochrome P450, family 98, subfamily A, polypeptide 3",p450,0.577,508
+AT4G39940,SM,SM,APS-kinase 2,none,0.618,293
+AT1G67830,SM,SM,alpha-fucosidase 1,none,0.643,372
+AT3G47780,SM,SM,ABC2 homolog 6,none,0.645,935
+AT1G17260,SM,SM,autoinhibited H(+)-ATPase isoform 10,none,0.667,947
+AT3G43800,SM,SM,glutathione S-transferase tau 27,none,0.721,227
+AT2G41480,SM,SM,Peroxidase superfamily protein,none,0.713,341
+AT3G16340,SM,SM,pleiotropic drug resistance 1,none,0.731,1416
+AT5G66390,SM,SM,Peroxidase superfamily protein,none,0.762,336
+AT1G02930,SM,SM,glutathione S-transferase 6,none,0.784,208
+AT5G16980,SM,SM,Zinc-binding dehydrogenase family protein,none,0.818,305
+AT1G02940,SM,SM,glutathione S-transferase (class phi) 5,none,0.821,256
+AT5G17220,SM,SM,glutathione S-transferase phi 12,none,0.855,214
+AT1G02920,SM,SM,glutathione S-transferase 7,none,0.851,209
+AT4G20860,SM,SM,FAD-binding Berberine family protein,none,0.859,530
+AT1G17190,SM,SM,glutathione S-transferase tau 26,none,0.882,220
+AT1G69920,SM,SM,glutathione S-transferase TAU 12,none,0.877,254
+AT1G75900,SM,SM,GDSL-like Lipase/Acylhydrolase superfamily protein,none,0.878,364
+AT5G64120,SM,SM,Peroxidase superfamily protein,none,0.886,328
+AT4G01070,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.897,480
+AT1G27140,SM,SM,glutathione S-transferase tau 14,none,0.909,243
+AT1G10370,SM,SM,Glutathione S-transferase family protein,none,0.904,227
+AT1G05680,SM,SM,Uridine diphosphate glycosyltransferase 74E2,none,0.913,453
+AT2G29420,SM,SM,glutathione S-transferase tau 7,none,0.92,227
+AT2G29440,SM,SM,glutathione S-transferase tau 6,none,0.92,223
+AT1G17180,SM,SM,glutathione S-transferase TAU 25,none,0.935,221
+AT2G29450,SM,SM,glutathione S-transferase tau  5,none,0.937,224
+AT1G27130,SM,SM,glutathione S-transferase tau 13,none,0.943,227
+AT2G30140,SM,SM,UDP-Glycosyltransferase superfamily protein,none,0.948,455
+AT1G31710,SM,unknown,Copper amine oxidase family protein,none,0.405,681
+AT1G09490,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.465,322
+AT1G09480,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.513,369
+AT2G41380,SM,unknown,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein,none,0.514,269
+AT1G28680,SM,unknown,HXXXD-type acyl-transferase family protein,none,0.516,451
+AT4G21960,SM,unknown,Peroxidase superfamily protein,none,0.564,330
+AT2G46650,SM,unknown,cytochrome B5 isoform C,none,0.646,132
+AT1G53680,SM,unknown,glutathione S-transferase TAU 28,none,0.667,224
+AT1G02950,SM,unknown,glutathione S-transferase F4,none,0.675,245
+AT5G14700,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.709,368
+AT3G62760,SM,unknown,Glutathione S-transferase family protein,none,0.712,219
+AT1G66800,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.735,319
+AT1G76470,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.751,325
+AT1G49860,SM,unknown,glutathione S-transferase (class phi) 14,none,0.777,254
+AT5G41220,SM,unknown,glutathione S-transferase THETA 3,none,0.758,590
+AT1G30700,SM,unknown,FAD-binding Berberine family protein,none,0.785,527
+AT4G37800,SM,unknown,xyloglucan endotransglucosylase/hydrolase 7,none,0.796,293
+AT4G33420,SM,unknown,Peroxidase superfamily protein,none,0.803,325
+AT1G68620,SM,unknown,alpha/beta-Hydrolases superfamily protein,none,0.804,336
+AT1G78360,SM,unknown,glutathione S-transferase TAU 21,none,0.823,222
+AT1G09510,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.839,322
+AT1G74590,SM,unknown,glutathione S-transferase TAU 10,none,0.856,232
+AT1G09500,SM,unknown,NAD(P)-binding Rossmann-fold superfamily protein,none,0.888,325
+AT1G78340,SM,unknown,glutathione S-transferase TAU 22,none,0.884,218
+AT5G62480,SM,unknown,glutathione S-transferase tau 9,none,0.886,240
+AT2G29480,SM,unknown,glutathione S-transferase tau 2,none,0.919,225
+AT1G78320,SM,unknown,glutathione S-transferase TAU 23,none,0.917,220
+AT1G59670,SM,unknown,glutathione S-transferase TAU 15,none,0.921,233
+AT2G29460,SM,unknown,glutathione S-transferase tau 4,none,0.915,224
+AT1G59700,SM,unknown,glutathione S-transferase TAU 16,none,0.921,234
+AT2G31790,SM,unknown,UDP-Glycosyltransferase superfamily protein,none,0.94,457
+AT4G39490,GM,unknown,"cytochrome P450, family 96, subfamily A, polypeptide 10",p450,0.813,519

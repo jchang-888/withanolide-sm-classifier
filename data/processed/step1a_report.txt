@@ -1,0 +1,8 @@
+Moore S1 rows: 4944
+TAIR10 proteins: 27416
+Union labels in S1: {'unknown': 2304, 'GM': 2212, 'SM': 410, nan: 18}
+Labeled genes with no TAIR10 sequence: 0 []
+Final training set: {'GM': 2212, 'SM': 410}
+Strict labels within final set: {'GM': 1617, 'unknown': 809, 'SM': 196}
+P450s (family == p450) by label: {'SM': 87, 'GM': 51}
+Protein length median SM / GM: 448.0 / 439.0

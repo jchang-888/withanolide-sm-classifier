@@ -1,0 +1,5 @@
+Label set A: {'GM': 2212, 'SM': 410}
+Label set B: {'GM': 2223, 'SM': 410}  (added 11 sterol genes as GM)
+Proteins with features: 2678  (train B 2633 + test 45)
+Proteins with non-standard letters (X, U, etc., dropped before counting): 1
+Feature sets: aac 20, dpc 400, physchem 6
