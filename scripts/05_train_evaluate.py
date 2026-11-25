@@ -27,30 +27,14 @@ Run from the repo root:  python scripts/05_train_evaluate.py
 from pathlib import Path
 import numpy as np
 import pandas as pd
-import torch
-from torch import nn
-from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score, average_precision_score
+from models import load_feature_sets, logreg, mlp
 
 ROOT = Path(__file__).resolve().parent.parent
 PROC = ROOT / "data/processed"
 SEED = 0
-
-
-def load_features(names):
-    blocks = []
-    for n in names:
-        z = np.load(PROC / f"features_{n}.npz", allow_pickle=False)
-        blocks.append(pd.DataFrame(z["X"], index=z["ids"]))
-    return pd.concat(blocks, axis=1)
-
-
-FEATURE_SETS = {"seqcomp": ["aac", "dpc", "physchem"]}
-if (PROC / "features_esm2.npz").exists():
-    FEATURE_SETS["esm2"] = ["esm2"]
-FEATS = {k: load_features(v) for k, v in FEATURE_SETS.items()}
+FEATS = load_feature_sets()
 
 folds_all = pd.read_csv(PROC / "folds.csv").set_index("gene")
 hits = pd.read_csv(PROC / "train_vs_train_hits.csv.gz")
@@ -69,46 +53,6 @@ def nearest_nbr(tr, te, k=5):
     h = h.sort_values("bitscore", ascending=False).groupby("query").head(k)
     score = h.groupby("query").apply(lambda d: np.average(d.y, weights=d.bitscore), include_groups=False)
     return te.index.map(score).fillna(tr.y.mean()).values
-
-
-def logreg(Xtr, ytr, Xte):
-    sc = StandardScaler().fit(Xtr)
-    m = LogisticRegression(C=0.1, class_weight="balanced", max_iter=3000)
-    m.fit(sc.transform(Xtr), ytr)
-    return m.predict_proba(sc.transform(Xte))[:, 1]
-
-
-class MLP(nn.Module):
-    def __init__(self, d):
-        super().__init__()
-        self.net = nn.Sequential(nn.Linear(d, 128), nn.ReLU(), nn.Dropout(0.3),
-                                 nn.Linear(128, 32), nn.ReLU(), nn.Dropout(0.3),
-                                 nn.Linear(32, 1))
-
-    def forward(self, x):
-        return self.net(x).squeeze(-1)
-
-
-def mlp(Xtr, ytr, Xte, epochs=60):
-    torch.manual_seed(SEED)
-    sc = StandardScaler().fit(Xtr)
-    xtr = torch.tensor(sc.transform(Xtr), dtype=torch.float32)
-    ytr_t = torch.tensor(ytr, dtype=torch.float32)
-    xte = torch.tensor(sc.transform(Xte), dtype=torch.float32)
-    model = MLP(xtr.shape[1])
-    pos_weight = torch.tensor((ytr == 0).sum() / max((ytr == 1).sum(), 1), dtype=torch.float32)
-    loss_fn = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
-    opt = torch.optim.Adam(model.parameters(), lr=1e-3, weight_decay=1e-4)
-    g = torch.Generator().manual_seed(SEED)
-    for _ in range(epochs):
-        model.train()
-        for idx in torch.randperm(len(xtr), generator=g).split(64):
-            opt.zero_grad()
-            loss_fn(model(xtr[idx]), ytr_t[idx]).backward()
-            opt.step()
-    model.eval()
-    with torch.no_grad():
-        return torch.sigmoid(model(xte)).numpy()
 
 
 # ------------------------------------------------------------------ run

@@ -18,9 +18,27 @@ Cluster gene IDs were copied from the authors' code: [erinreynolds/withania_somn
 
 ```
 pip install -r requirements.txt
-python scripts/01_build_training_set.py
-python scripts/02_build_test_set.py
+python scripts/01_build_training_set.py   # Step 1a training set
+python scripts/02_build_test_set.py       # Step 1b ashwagandha test set
+python scripts/03_build_features.py       # Step 2 label sets A/B + features
+python scripts/03b_esm_embeddings.py      # Step 2b ESM-2 embeddings (optional, downloads model)
+python scripts/04_homology_split.py       # Step 3 homology-aware folds (~6 min)
+python scripts/05_train_evaluate.py       # Steps 4-5 baselines + models, cross-validated
+python scripts/06_score_test_set.py       # Step 6 score ashwagandha proteins + figures
 ```
+
+## Results so far (composition features, label set A)
+
+| | Cross-validation, family split (AuROC) | Ashwagandha test (AuROC, 95% CI) |
+|---|---|---|
+| Nearest neighbor | 0.58 | 0.85 [0.73-0.96] |
+| Logistic regression | 0.60 | 0.71 [0.55-0.85] |
+| Neural network (PyTorch MLP) | 0.65 | 0.80 [0.65-0.92] |
+
+- Random splits inflate scores a lot (nearest neighbor 0.94 random vs 0.58 family split)
+- CYP88 enzymes score as specialized. 24ISO, CYP749B2 and SDH2 score as general metabolism
+- Test set is 45 proteins (11 tested enzymes), so results are descriptive
+- See `notes/` for each step and `figures/` for plots
 
 ## Outputs (`data/processed/`)
 

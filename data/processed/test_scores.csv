@@ -1,0 +1,451 @@
+protein,gene,name,group,y,label_set,method,score,closest_arabidopsis,closest_identity,closest_label,closest_description
+g3303.t1_1,g3303,CYP87G1,tested SM,1,A,nearest_nbr,1.0,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,A,nearest_nbr,0.6592920353982301,AT4G20860,0.051,SM,FAD-binding Berberine family protein
+g3305.t1_1,g3305,SULF,cluster SM,1,A,nearest_nbr,1.0,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,A,nearest_nbr,0.0,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,A,nearest_nbr,0.7955587392550143,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,A,nearest_nbr,0.3919442292796282,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,A,nearest_nbr,0.5623224431818182,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,A,nearest_nbr,0.408464897547867,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,A,nearest_nbr,0.21416234887737476,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,A,nearest_nbr,1.0,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,A,nearest_nbr,1.0,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,A,nearest_nbr,0.5,AT3G47930,0.053,GM,"L-galactono-1,4-lactone dehydrogenase"
+g3314.t1_1,g3314,SDH2,tested SM,1,A,nearest_nbr,0.1947737068965517,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,A,nearest_nbr,0.40926381740881634,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,A,nearest_nbr,0.5635653409090909,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,A,nearest_nbr,1.0,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,A,nearest_nbr,0.0,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,A,nearest_nbr,1.0,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,A,nearest_nbr,0.0,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,A,nearest_nbr,0.0,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,A,nearest_nbr,0.5864441330105745,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,A,nearest_nbr,0.8764874846122281,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,A,nearest_nbr,1.0,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,A,nearest_nbr,1.0,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,A,nearest_nbr,0.3957623509369676,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,A,nearest_nbr,0.3969727804629865,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,A,nearest_nbr,0.878588773032424,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,A,nearest_nbr,0.8754887218045113,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,A,nearest_nbr,0.777262180974478,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,A,nearest_nbr,0.2706405035172158,AT1G73600,0.127,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT1G64970,0.184,GM,gamma-tocopherol methyltransferase
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT4G22756,0.726,GM,sterol C4-methyl oxidase 1-2
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT4G22756,0.405,GM,sterol C4-methyl oxidase 1-2
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,A,nearest_nbr,0.19727560204329844,AT5G04660,0.15,GM,"cytochrome P450, family 77, subfamily A, polypeptide 4"
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,A,nearest_nbr,0.15636918382913806,,,,
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT1G69640,0.127,GM,sphingoid base hydroxylase 1
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,A,nearest_nbr,0.15636918382913806,,,,
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,A,nearest_nbr,0.6527777777777778,AT1G30700,0.066,SM,FAD-binding Berberine family protein
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,A,nearest_nbr,0.3900255754475703,AT3G52970,0.095,GM,"cytochrome P450, family 76, subfamily G, polypeptide 1"
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,A,nearest_nbr,0.13716876859855462,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,A,nearest_nbr,0.0,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,A,nearest_nbr,0.12517043905099537,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,A,nearest_nbr,0.3325169801462905,AT3G45130,0.635,GM,lanosterol synthase 1
+g3303.t1_1,g3303,CYP87G1,tested SM,1,A,unfamiliarity,0.531,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,A,unfamiliarity,0.949,AT4G20860,0.051,SM,FAD-binding Berberine family protein
+g3305.t1_1,g3305,SULF,cluster SM,1,A,unfamiliarity,0.565,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,A,unfamiliarity,0.6579999999999999,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,A,unfamiliarity,0.837,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,A,unfamiliarity,0.677,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,A,unfamiliarity,0.6910000000000001,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,A,unfamiliarity,0.8240000000000001,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,A,unfamiliarity,0.744,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,A,unfamiliarity,0.542,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,A,unfamiliarity,0.542,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,A,unfamiliarity,0.947,AT3G47930,0.053,GM,"L-galactono-1,4-lactone dehydrogenase"
+g3314.t1_1,g3314,SDH2,tested SM,1,A,unfamiliarity,0.685,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,A,unfamiliarity,0.8240000000000001,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,A,unfamiliarity,0.6910000000000001,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,A,unfamiliarity,0.5860000000000001,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,A,unfamiliarity,0.651,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,A,unfamiliarity,0.627,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,A,unfamiliarity,0.65,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,A,unfamiliarity,0.65,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,A,unfamiliarity,0.742,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,A,unfamiliarity,0.619,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,A,unfamiliarity,0.622,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,A,unfamiliarity,0.622,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,A,unfamiliarity,0.737,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,A,unfamiliarity,0.744,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,A,unfamiliarity,0.5900000000000001,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,A,unfamiliarity,0.609,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,A,unfamiliarity,0.605,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,A,unfamiliarity,0.873,AT1G73600,0.127,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,A,unfamiliarity,0.8160000000000001,AT1G64970,0.184,GM,gamma-tocopherol methyltransferase
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,A,unfamiliarity,0.274,AT4G22756,0.726,GM,sterol C4-methyl oxidase 1-2
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,A,unfamiliarity,0.595,AT4G22756,0.405,GM,sterol C4-methyl oxidase 1-2
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,A,unfamiliarity,0.85,AT5G04660,0.15,GM,"cytochrome P450, family 77, subfamily A, polypeptide 4"
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,A,unfamiliarity,1.0,,,,
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,A,unfamiliarity,0.873,AT1G69640,0.127,GM,sphingoid base hydroxylase 1
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,A,unfamiliarity,1.0,,,,
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,A,unfamiliarity,0.9339999999999999,AT1G30700,0.066,SM,FAD-binding Berberine family protein
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,A,unfamiliarity,0.905,AT3G52970,0.095,GM,"cytochrome P450, family 76, subfamily G, polypeptide 1"
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,A,unfamiliarity,0.633,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,A,unfamiliarity,0.254,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,A,unfamiliarity,0.383,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,A,unfamiliarity,0.32999999999999996,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,A,unfamiliarity,0.383,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,A,unfamiliarity,0.365,AT3G45130,0.635,GM,lanosterol synthase 1
+g3303.t1_1,g3303,CYP87G1,tested SM,1,A,logreg_seqcomp,0.7734265108371755,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,A,logreg_seqcomp,0.05371119289626982,AT4G20860,0.051,SM,FAD-binding Berberine family protein
+g3305.t1_1,g3305,SULF,cluster SM,1,A,logreg_seqcomp,0.04760105012458159,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,A,logreg_seqcomp,0.28210332453419373,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,A,logreg_seqcomp,0.9643371591742904,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,A,logreg_seqcomp,0.0002448931757449169,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,A,logreg_seqcomp,0.9835480878799193,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,A,logreg_seqcomp,0.9650257313603647,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,A,logreg_seqcomp,0.9764329458904505,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,A,logreg_seqcomp,0.7246375542109676,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,A,logreg_seqcomp,0.6364420376342742,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,A,logreg_seqcomp,0.036326565194341714,AT3G47930,0.053,GM,"L-galactono-1,4-lactone dehydrogenase"
+g3314.t1_1,g3314,SDH2,tested SM,1,A,logreg_seqcomp,0.001167795329400415,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,A,logreg_seqcomp,0.9538316647794638,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,A,logreg_seqcomp,0.9971857659444249,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,A,logreg_seqcomp,0.01626691876581687,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,A,logreg_seqcomp,0.2417538604688084,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,A,logreg_seqcomp,0.9999751547757988,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,A,logreg_seqcomp,0.35074541355269756,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,A,logreg_seqcomp,0.2878963343596069,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,A,logreg_seqcomp,0.9993929877808023,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,A,logreg_seqcomp,0.9996618810222917,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,A,logreg_seqcomp,0.9993324646882441,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,A,logreg_seqcomp,0.9993324646882441,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,A,logreg_seqcomp,0.9948323434489127,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,A,logreg_seqcomp,0.999095482274923,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,A,logreg_seqcomp,0.9771676069514726,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,A,logreg_seqcomp,0.957626367724471,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,A,logreg_seqcomp,0.7583117971550312,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,A,logreg_seqcomp,0.001562566413408702,AT1G73600,0.127,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,A,logreg_seqcomp,0.028180280015709387,AT1G64970,0.184,GM,gamma-tocopherol methyltransferase
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,A,logreg_seqcomp,0.0032202294453178414,AT4G22756,0.726,GM,sterol C4-methyl oxidase 1-2
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,A,logreg_seqcomp,0.8709406411000101,AT4G22756,0.405,GM,sterol C4-methyl oxidase 1-2
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,A,logreg_seqcomp,0.08593048005713953,AT5G04660,0.15,GM,"cytochrome P450, family 77, subfamily A, polypeptide 4"
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,A,logreg_seqcomp,0.7501169705221205,,,,
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,A,logreg_seqcomp,0.00020378978224930188,AT1G69640,0.127,GM,sphingoid base hydroxylase 1
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,A,logreg_seqcomp,0.3191136705903921,,,,
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,A,logreg_seqcomp,0.07900267293917689,AT1G30700,0.066,SM,FAD-binding Berberine family protein
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,A,logreg_seqcomp,0.5111681580078673,AT3G52970,0.095,GM,"cytochrome P450, family 76, subfamily G, polypeptide 1"
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,A,logreg_seqcomp,0.9611446363575573,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,A,logreg_seqcomp,0.14067159829494388,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,A,logreg_seqcomp,0.7162610422515671,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,A,logreg_seqcomp,0.7971827435662543,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,A,logreg_seqcomp,0.8677544485476624,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,A,logreg_seqcomp,0.7168254663709459,AT3G45130,0.635,GM,lanosterol synthase 1
+g3303.t1_1,g3303,CYP87G1,tested SM,1,A,mlp_seqcomp,0.6124733686447144,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,A,mlp_seqcomp,0.08363162726163864,AT4G20860,0.051,SM,FAD-binding Berberine family protein
+g3305.t1_1,g3305,SULF,cluster SM,1,A,mlp_seqcomp,8.385432010982186e-05,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,A,mlp_seqcomp,0.24226602911949158,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,A,mlp_seqcomp,0.9986404180526733,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,A,mlp_seqcomp,4.093770542825878e-14,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,A,mlp_seqcomp,0.775973379611969,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,A,mlp_seqcomp,0.9968360662460327,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,A,mlp_seqcomp,0.9965585470199585,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,A,mlp_seqcomp,0.4880141317844391,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,A,mlp_seqcomp,0.1644877940416336,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,A,mlp_seqcomp,0.218069389462471,AT3G47930,0.053,GM,"L-galactono-1,4-lactone dehydrogenase"
+g3314.t1_1,g3314,SDH2,tested SM,1,A,mlp_seqcomp,1.0177122339305456e-10,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,A,mlp_seqcomp,0.9902868270874023,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,A,mlp_seqcomp,0.9839199185371399,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,A,mlp_seqcomp,0.00022241112310439348,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,A,mlp_seqcomp,0.22131085395812988,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,A,mlp_seqcomp,0.9999667406082153,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,A,mlp_seqcomp,0.4467693269252777,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,A,mlp_seqcomp,0.3216974437236786,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,A,mlp_seqcomp,0.9999281764030457,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,A,mlp_seqcomp,0.9979769587516785,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,A,mlp_seqcomp,0.9991354942321777,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,A,mlp_seqcomp,0.9991354942321777,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,A,mlp_seqcomp,0.9972184896469116,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,A,mlp_seqcomp,0.9999048113822937,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,A,mlp_seqcomp,0.6909140348434448,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,A,mlp_seqcomp,0.7729107141494751,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,A,mlp_seqcomp,0.0058541130274534225,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,A,mlp_seqcomp,0.00021694791212212294,AT1G73600,0.127,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,A,mlp_seqcomp,0.00020089466124773026,AT1G64970,0.184,GM,gamma-tocopherol methyltransferase
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,A,mlp_seqcomp,1.1368949515144777e-07,AT4G22756,0.726,GM,sterol C4-methyl oxidase 1-2
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,A,mlp_seqcomp,5.968456207483541e-06,AT4G22756,0.405,GM,sterol C4-methyl oxidase 1-2
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,A,mlp_seqcomp,0.02027682401239872,AT5G04660,0.15,GM,"cytochrome P450, family 77, subfamily A, polypeptide 4"
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,A,mlp_seqcomp,0.001271755201742053,,,,
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,A,mlp_seqcomp,3.7150707510313907e-10,AT1G69640,0.127,GM,sphingoid base hydroxylase 1
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,A,mlp_seqcomp,2.9838785849278793e-05,,,,
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,A,mlp_seqcomp,0.05861305072903633,AT1G30700,0.066,SM,FAD-binding Berberine family protein
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,A,mlp_seqcomp,0.016109082847833633,AT3G52970,0.095,GM,"cytochrome P450, family 76, subfamily G, polypeptide 1"
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,A,mlp_seqcomp,0.5452052354812622,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,A,mlp_seqcomp,0.008678527548909187,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,A,mlp_seqcomp,0.001119360444135964,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,A,mlp_seqcomp,0.4032685160636902,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,A,mlp_seqcomp,0.6774023771286011,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,A,mlp_seqcomp,0.6215349435806274,AT3G45130,0.635,GM,lanosterol synthase 1
+g3303.t1_1,g3303,CYP87G1,tested SM,1,A,mlp_seqcomp_seed_sd,0.31096208095550537,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,A,mlp_seqcomp_seed_sd,0.15869486331939697,AT4G20860,0.051,SM,FAD-binding Berberine family protein
+g3305.t1_1,g3305,SULF,cluster SM,1,A,mlp_seqcomp_seed_sd,0.00013817951548844576,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,A,mlp_seqcomp_seed_sd,0.3809226155281067,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,A,mlp_seqcomp_seed_sd,0.002564243972301483,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,A,mlp_seqcomp_seed_sd,5.877005967384191e-14,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,A,mlp_seqcomp_seed_sd,0.374750018119812,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,A,mlp_seqcomp_seed_sd,0.003733136225491762,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,A,mlp_seqcomp_seed_sd,0.0023022687528282404,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,A,mlp_seqcomp_seed_sd,0.2637555003166199,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,A,mlp_seqcomp_seed_sd,0.1340695172548294,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,A,mlp_seqcomp_seed_sd,0.391085684299469,AT3G47930,0.053,GM,"L-galactono-1,4-lactone dehydrogenase"
+g3314.t1_1,g3314,SDH2,tested SM,1,A,mlp_seqcomp_seed_sd,2.0312858339810447e-10,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,A,mlp_seqcomp_seed_sd,0.014996640384197235,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,A,mlp_seqcomp_seed_sd,0.02728566899895668,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,A,mlp_seqcomp_seed_sd,0.00033277925103902817,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,A,mlp_seqcomp_seed_sd,0.3908335268497467,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,A,mlp_seqcomp_seed_sd,4.0176113543566316e-05,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,A,mlp_seqcomp_seed_sd,0.3898119330406189,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,A,mlp_seqcomp_seed_sd,0.39778897166252136,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,A,mlp_seqcomp_seed_sd,2.8809077775804326e-05,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,A,mlp_seqcomp_seed_sd,0.0037519296165555716,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,A,mlp_seqcomp_seed_sd,0.0010267699835821986,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,A,mlp_seqcomp_seed_sd,0.0010267699835821986,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,A,mlp_seqcomp_seed_sd,0.004544336348772049,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,A,mlp_seqcomp_seed_sd,5.182150562177412e-05,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,A,mlp_seqcomp_seed_sd,0.3489961326122284,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,A,mlp_seqcomp_seed_sd,0.26780402660369873,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,A,mlp_seqcomp_seed_sd,0.008332382887601852,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.00027638382744044065,AT1G73600,0.127,GM,S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.0003814069787040353,AT1G64970,0.184,GM,gamma-tocopherol methyltransferase
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,2.2689440015710716e-07,AT4G22756,0.726,GM,sterol C4-methyl oxidase 1-2
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,1.0555938388279174e-05,AT4G22756,0.405,GM,sterol C4-methyl oxidase 1-2
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.023392152041196823,AT5G04660,0.15,GM,"cytochrome P450, family 77, subfamily A, polypeptide 4"
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.0015035810647532344,,,,
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,7.430141502062781e-10,AT1G69640,0.127,GM,sphingoid base hydroxylase 1
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,5.696048174286261e-05,,,,
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.07462207973003387,AT1G30700,0.066,SM,FAD-binding Berberine family protein
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.010356948710978031,AT3G52970,0.095,GM,"cytochrome P450, family 76, subfamily G, polypeptide 1"
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.42276763916015625,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.005118217319250107,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.0007377365254797041,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.4834943115711212,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.3760290741920471,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,A,mlp_seqcomp_seed_sd,0.45285430550575256,AT3G45130,0.635,GM,lanosterol synthase 1
+g3303.t1_1,g3303,CYP87G1,tested SM,1,B,nearest_nbr,1.0,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,B,nearest_nbr,0.028362044351384792,AT3G19820,0.738,GM,added: DWF1 (core sterol pathway)
+g3305.t1_1,g3305,SULF,cluster SM,1,B,nearest_nbr,1.0,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,B,nearest_nbr,0.0,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,B,nearest_nbr,0.7955587392550143,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,B,nearest_nbr,0.3919442292796282,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,B,nearest_nbr,0.5623224431818182,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,B,nearest_nbr,0.408464897547867,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,B,nearest_nbr,0.21416234887737476,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,B,nearest_nbr,1.0,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,B,nearest_nbr,1.0,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,B,nearest_nbr,0.01600077579519007,AT3G19820,0.74,GM,added: DWF1 (core sterol pathway)
+g3314.t1_1,g3314,SDH2,tested SM,1,B,nearest_nbr,0.1947737068965517,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,B,nearest_nbr,0.40926381740881634,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,B,nearest_nbr,0.5635653409090909,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,B,nearest_nbr,1.0,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,B,nearest_nbr,0.0,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,B,nearest_nbr,1.0,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,B,nearest_nbr,0.0,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,B,nearest_nbr,0.0,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,B,nearest_nbr,0.5864441330105745,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,B,nearest_nbr,0.8764874846122281,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,B,nearest_nbr,1.0,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,B,nearest_nbr,1.0,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,B,nearest_nbr,0.3957623509369676,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,B,nearest_nbr,0.3969727804629865,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,B,nearest_nbr,0.878588773032424,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,B,nearest_nbr,0.8754887218045113,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,B,nearest_nbr,0.777262180974478,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT5G13710,0.768,GM,added: SMT1 (core sterol pathway)
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT1G20330,0.82,GM,added: SMT2 (core sterol pathway)
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT4G12110,0.705,GM,added: SMO1-1 (core sterol pathway)
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT1G07420,0.853,GM,added: SMO2-1 (core sterol pathway)
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,B,nearest_nbr,0.0644264378773435,AT1G11680,0.811,GM,added: CYP51G1 (core sterol pathway)
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT1G20050,0.643,GM,added: HYD1 (core sterol pathway)
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT3G02580,0.771,GM,added: DWF7 (core sterol pathway)
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT1G50430,0.822,GM,added: DWF5 (core sterol pathway)
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,B,nearest_nbr,0.029843976777939037,AT3G19820,0.781,GM,added: DWF1 (core sterol pathway)
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,B,nearest_nbr,0.1284480943356496,AT2G34500,0.606,GM,added: CYP710A1 (core sterol pathway)
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,B,nearest_nbr,0.13716876859855462,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,B,nearest_nbr,0.0,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,B,nearest_nbr,0.12517043905099537,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,B,nearest_nbr,0.22419145329252985,AT2G07050,0.794,GM,added: CAS1 (core sterol pathway)
+g3303.t1_1,g3303,CYP87G1,tested SM,1,B,unfamiliarity,0.531,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,B,unfamiliarity,0.262,AT3G19820,0.738,GM,added: DWF1 (core sterol pathway)
+g3305.t1_1,g3305,SULF,cluster SM,1,B,unfamiliarity,0.565,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,B,unfamiliarity,0.6579999999999999,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,B,unfamiliarity,0.837,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,B,unfamiliarity,0.677,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,B,unfamiliarity,0.6910000000000001,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,B,unfamiliarity,0.8240000000000001,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,B,unfamiliarity,0.744,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,B,unfamiliarity,0.542,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,B,unfamiliarity,0.542,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,B,unfamiliarity,0.26,AT3G19820,0.74,GM,added: DWF1 (core sterol pathway)
+g3314.t1_1,g3314,SDH2,tested SM,1,B,unfamiliarity,0.685,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,B,unfamiliarity,0.8240000000000001,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,B,unfamiliarity,0.6910000000000001,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,B,unfamiliarity,0.5860000000000001,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,B,unfamiliarity,0.651,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,B,unfamiliarity,0.627,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,B,unfamiliarity,0.65,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,B,unfamiliarity,0.65,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,B,unfamiliarity,0.742,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,B,unfamiliarity,0.619,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,B,unfamiliarity,0.622,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,B,unfamiliarity,0.622,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,B,unfamiliarity,0.737,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,B,unfamiliarity,0.744,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,B,unfamiliarity,0.5900000000000001,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,B,unfamiliarity,0.609,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,B,unfamiliarity,0.605,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,B,unfamiliarity,0.23199999999999998,AT5G13710,0.768,GM,added: SMT1 (core sterol pathway)
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,B,unfamiliarity,0.18000000000000005,AT1G20330,0.82,GM,added: SMT2 (core sterol pathway)
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,B,unfamiliarity,0.29500000000000004,AT4G12110,0.705,GM,added: SMO1-1 (core sterol pathway)
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,B,unfamiliarity,0.14700000000000002,AT1G07420,0.853,GM,added: SMO2-1 (core sterol pathway)
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,B,unfamiliarity,0.18899999999999995,AT1G11680,0.811,GM,added: CYP51G1 (core sterol pathway)
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,B,unfamiliarity,0.357,AT1G20050,0.643,GM,added: HYD1 (core sterol pathway)
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,B,unfamiliarity,0.22899999999999998,AT3G02580,0.771,GM,added: DWF7 (core sterol pathway)
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,B,unfamiliarity,0.17800000000000005,AT1G50430,0.822,GM,added: DWF5 (core sterol pathway)
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,B,unfamiliarity,0.21899999999999997,AT3G19820,0.781,GM,added: DWF1 (core sterol pathway)
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,B,unfamiliarity,0.394,AT2G34500,0.606,GM,added: CYP710A1 (core sterol pathway)
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,B,unfamiliarity,0.633,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,B,unfamiliarity,0.254,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,B,unfamiliarity,0.383,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,B,unfamiliarity,0.32999999999999996,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,B,unfamiliarity,0.383,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,B,unfamiliarity,0.20599999999999996,AT2G07050,0.794,GM,added: CAS1 (core sterol pathway)
+g3303.t1_1,g3303,CYP87G1,tested SM,1,B,logreg_seqcomp,0.7776655543954432,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,B,logreg_seqcomp,0.04993698150641397,AT3G19820,0.738,GM,added: DWF1 (core sterol pathway)
+g3305.t1_1,g3305,SULF,cluster SM,1,B,logreg_seqcomp,0.04994056951174288,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,B,logreg_seqcomp,0.2517784335936322,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,B,logreg_seqcomp,0.9655673499261171,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,B,logreg_seqcomp,0.0002617184709642484,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,B,logreg_seqcomp,0.9840090272420365,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,B,logreg_seqcomp,0.965689711315863,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,B,logreg_seqcomp,0.9764555540127318,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,B,logreg_seqcomp,0.7230228705055105,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,B,logreg_seqcomp,0.6286075799170979,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,B,logreg_seqcomp,0.034510209441499934,AT3G19820,0.74,GM,added: DWF1 (core sterol pathway)
+g3314.t1_1,g3314,SDH2,tested SM,1,B,logreg_seqcomp,0.0012577162950971664,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,B,logreg_seqcomp,0.9544881903674141,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,B,logreg_seqcomp,0.9972258862614409,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,B,logreg_seqcomp,0.018561334007219727,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,B,logreg_seqcomp,0.22705905755338496,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,B,logreg_seqcomp,0.9999748272971676,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,B,logreg_seqcomp,0.33269342166830396,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,B,logreg_seqcomp,0.2714021816110664,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,B,logreg_seqcomp,0.9994130377881423,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,B,logreg_seqcomp,0.9996492257354946,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,B,logreg_seqcomp,0.999289467312645,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,B,logreg_seqcomp,0.999289467312645,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,B,logreg_seqcomp,0.9948385818691798,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,B,logreg_seqcomp,0.9991245718586602,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,B,logreg_seqcomp,0.9760439509971716,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,B,logreg_seqcomp,0.9546487144846086,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,B,logreg_seqcomp,0.7613043968840703,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,B,logreg_seqcomp,0.0015158793906410069,AT5G13710,0.768,GM,added: SMT1 (core sterol pathway)
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,B,logreg_seqcomp,0.028220575286815847,AT1G20330,0.82,GM,added: SMT2 (core sterol pathway)
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,B,logreg_seqcomp,0.002348115171513874,AT4G12110,0.705,GM,added: SMO1-1 (core sterol pathway)
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,B,logreg_seqcomp,0.7372284407154817,AT1G07420,0.853,GM,added: SMO2-1 (core sterol pathway)
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,B,logreg_seqcomp,0.07181706130264504,AT1G11680,0.811,GM,added: CYP51G1 (core sterol pathway)
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,B,logreg_seqcomp,0.7072803514046254,AT1G20050,0.643,GM,added: HYD1 (core sterol pathway)
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,B,logreg_seqcomp,0.00013712658391035816,AT3G02580,0.771,GM,added: DWF7 (core sterol pathway)
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,B,logreg_seqcomp,0.22094281660021353,AT1G50430,0.822,GM,added: DWF5 (core sterol pathway)
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,B,logreg_seqcomp,0.06558145830936098,AT3G19820,0.781,GM,added: DWF1 (core sterol pathway)
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,B,logreg_seqcomp,0.47419754241487305,AT2G34500,0.606,GM,added: CYP710A1 (core sterol pathway)
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,B,logreg_seqcomp,0.9631555671327502,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,B,logreg_seqcomp,0.13202320985124036,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,B,logreg_seqcomp,0.7165161974559479,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,B,logreg_seqcomp,0.7909676618072027,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,B,logreg_seqcomp,0.8722825024796415,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,B,logreg_seqcomp,0.6677820489871293,AT2G07050,0.794,GM,added: CAS1 (core sterol pathway)
+g3303.t1_1,g3303,CYP87G1,tested SM,1,B,mlp_seqcomp,0.4064908027648926,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,B,mlp_seqcomp,0.00012091492681065574,AT3G19820,0.738,GM,added: DWF1 (core sterol pathway)
+g3305.t1_1,g3305,SULF,cluster SM,1,B,mlp_seqcomp,0.014058830216526985,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,B,mlp_seqcomp,0.17393848299980164,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,B,mlp_seqcomp,0.9998418688774109,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,B,mlp_seqcomp,1.4622434800536446e-14,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,B,mlp_seqcomp,0.7630589604377747,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,B,mlp_seqcomp,0.99969482421875,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,B,mlp_seqcomp,0.999971866607666,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,B,mlp_seqcomp,0.36816734075546265,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,B,mlp_seqcomp,0.12858901917934418,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,B,mlp_seqcomp,0.0036862411070615053,AT3G19820,0.74,GM,added: DWF1 (core sterol pathway)
+g3314.t1_1,g3314,SDH2,tested SM,1,B,mlp_seqcomp,1.369520729460616e-11,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,B,mlp_seqcomp,0.9992868304252625,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,B,mlp_seqcomp,0.997756838798523,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,B,mlp_seqcomp,0.0061020986177027225,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,B,mlp_seqcomp,0.02009621262550354,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,B,mlp_seqcomp,0.9999759793281555,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,B,mlp_seqcomp,0.15976622700691223,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,B,mlp_seqcomp,0.06748528778553009,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,B,mlp_seqcomp,0.9997482299804688,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,B,mlp_seqcomp,0.9980438947677612,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,B,mlp_seqcomp,0.9991315603256226,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,B,mlp_seqcomp,0.9991315603256226,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,B,mlp_seqcomp,0.9995983242988586,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,B,mlp_seqcomp,0.9997550249099731,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,B,mlp_seqcomp,0.7576484680175781,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,B,mlp_seqcomp,0.9724637866020203,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,B,mlp_seqcomp,0.21075578033924103,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,B,mlp_seqcomp,2.6022786187240854e-05,AT5G13710,0.768,GM,added: SMT1 (core sterol pathway)
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,B,mlp_seqcomp,3.913807631761301e-06,AT1G20330,0.82,GM,added: SMT2 (core sterol pathway)
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,B,mlp_seqcomp,1.9314402521786178e-08,AT4G12110,0.705,GM,added: SMO1-1 (core sterol pathway)
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,B,mlp_seqcomp,7.557006028946489e-05,AT1G07420,0.853,GM,added: SMO2-1 (core sterol pathway)
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,B,mlp_seqcomp,0.0026458606589585543,AT1G11680,0.811,GM,added: CYP51G1 (core sterol pathway)
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,B,mlp_seqcomp,0.0025337007828056812,AT1G20050,0.643,GM,added: HYD1 (core sterol pathway)
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,B,mlp_seqcomp,1.4984801594009056e-12,AT3G02580,0.771,GM,added: DWF7 (core sterol pathway)
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,B,mlp_seqcomp,2.0840981960645877e-05,AT1G50430,0.822,GM,added: DWF5 (core sterol pathway)
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,B,mlp_seqcomp,9.846188186202198e-05,AT3G19820,0.781,GM,added: DWF1 (core sterol pathway)
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,B,mlp_seqcomp,0.057684727013111115,AT2G34500,0.606,GM,added: CYP710A1 (core sterol pathway)
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,B,mlp_seqcomp,0.7120426893234253,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,B,mlp_seqcomp,0.0059577994979918,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,B,mlp_seqcomp,0.005523175001144409,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,B,mlp_seqcomp,0.4287835955619812,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,B,mlp_seqcomp,0.7499390840530396,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,B,mlp_seqcomp,0.20905892550945282,AT2G07050,0.794,GM,added: CAS1 (core sterol pathway)
+g3303.t1_1,g3303,CYP87G1,tested SM,1,B,mlp_seqcomp_seed_sd,0.30287623405456543,AT1G12740,0.469,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3304.t1_1,g3304,24ISO,cluster SM,1,B,mlp_seqcomp_seed_sd,0.0001452499709557742,AT3G19820,0.738,GM,added: DWF1 (core sterol pathway)
+g3305.t1_1,g3305,SULF,cluster SM,1,B,mlp_seqcomp_seed_sd,0.028105076402425766,AT1G74100,0.435,SM,sulfotransferase 16
+g3306.t1_1,g3306,CYP749B2,cluster SM,1,B,mlp_seqcomp_seed_sd,0.18635106086730957,AT2G26710,0.342,GM,Cytochrome P450 superfamily protein
+FUN_112423.t1_1,FUN_112423,CYP88C10,cluster SM,1,B,mlp_seqcomp_seed_sd,0.0002936367236543447,AT5G36110,0.163,SM,"cytochrome P450, family 716, subfamily A, polypeptide 1"
+g3307.t1_1,g3307,SDH1,cluster SM,1,B,mlp_seqcomp_seed_sd,2.8106194739749464e-14,AT4G05530,0.323,GM,indole-3-butyric acid response 1
+g3308.t1_1,g3308,AT,cluster SM,1,B,mlp_seqcomp_seed_sd,0.37983015179634094,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3310.t1_1,g3310,CYP88C7,tested SM,1,B,mlp_seqcomp_seed_sd,0.0002990703214891255,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3311.t1_1,g3311,CYP88C10,tested SM,1,B,mlp_seqcomp_seed_sd,1.671746031206567e-05,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g3312b.t1_1,g3312b,CYP87G1,tested SM,1,B,mlp_seqcomp_seed_sd,0.27323105931282043,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3312.t1_1,g3312,CYP87G1,tested SM,1,B,mlp_seqcomp_seed_sd,0.19335100054740906,AT1G12740,0.458,SM,"cytochrome P450, family 87, subfamily A, polypeptide 2"
+g3313.t1_1,g3313,24ISO,tested SM,1,B,mlp_seqcomp_seed_sd,0.006103713996708393,AT3G19820,0.74,GM,added: DWF1 (core sterol pathway)
+g3314.t1_1,g3314,SDH2,tested SM,1,B,mlp_seqcomp_seed_sd,2.7070783115146213e-11,AT4G05530,0.315,GM,indole-3-butyric acid response 1
+g3315.t1_1,g3315,CYP88C7,tested SM,1,B,mlp_seqcomp_seed_sd,0.0008853118633851409,AT1G55940,0.176,SM,"cytochrome P450, family 708, subfamily A, polypeptide 1"
+g3318.t1_1,g3318,AT,cluster SM,1,B,mlp_seqcomp_seed_sd,0.002866454655304551,AT4G15400,0.309,GM,HXXXD-type acyl-transferase family protein
+g3320.t1_1,g3320,SULF1,tested SM,1,B,mlp_seqcomp_seed_sd,0.010640973225235939,AT1G74100,0.414,SM,sulfotransferase 16
+g18181.t1_1,g18181,CYP749B2,cluster SM,1,B,mlp_seqcomp_seed_sd,0.030948756262660027,AT2G26710,0.349,GM,Cytochrome P450 superfamily protein
+g18182.t1_1,g18182,OGD7,cluster SM,1,B,mlp_seqcomp_seed_sd,3.984106660936959e-05,AT4G03070,0.373,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18183.t1_1,g18183,CYP749B2,tested SM,1,B,mlp_seqcomp_seed_sd,0.17741771042346954,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18184.t1_1,g18184,CYP749B2,cluster SM,1,B,mlp_seqcomp_seed_sd,0.10573604702949524,AT2G26710,0.35,GM,Cytochrome P450 superfamily protein
+g18185.t1_1,g18185,CYP88C8,cluster SM,1,B,mlp_seqcomp_seed_sd,0.0002618536236695945,AT5G05690,0.258,GM,Cytochrome P450 superfamily protein
+g18187.t1_1,g18187,OGD6,cluster SM,1,B,mlp_seqcomp_seed_sd,0.003873121226206422,AT4G03070,0.381,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18188.t1_1,g18188,OGD5,cluster SM,1,B,mlp_seqcomp_seed_sd,0.001541740377433598,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18189.t1_1,g18189,OGD4,cluster SM,1,B,mlp_seqcomp_seed_sd,0.001541740377433598,AT4G03070,0.378,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18191.t1_1,g18191,CYP88C7,tested SM,1,B,mlp_seqcomp_seed_sd,0.00047551922034472227,AT4G36380,0.263,GM,Cytochrome P450 superfamily protein
+g18192.t1_1,g18192,CYP88C8,cluster SM,1,B,mlp_seqcomp_seed_sd,0.0002682976773940027,AT5G05690,0.256,GM,Cytochrome P450 superfamily protein
+g18193.t1_1,g18193,OGD3,cluster SM,1,B,mlp_seqcomp_seed_sd,0.3352372348308563,AT4G03070,0.41,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18194.t1_1,g18194,OGD2,cluster SM,1,B,mlp_seqcomp_seed_sd,0.040558163076639175,AT4G03070,0.391,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g18195.t1_1,g18195,OGD1,cluster SM,1,B,mlp_seqcomp_seed_sd,0.3641723394393921,AT4G03070,0.395,SM,2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+g9417.t1_1,g9417,SMT1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,2.5829174774116836e-05,AT5G13710,0.768,GM,added: SMT1 (core sterol pathway)
+g23189.t1_1,g23189,SMT2 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,4.364331744000083e-06,AT1G20330,0.82,GM,added: SMT2 (core sterol pathway)
+g17977.t2_1,g17977,SMO1-1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,1.5740138081810073e-08,AT4G12110,0.705,GM,added: SMO1-1 (core sterol pathway)
+g29221.t1_1,g29221,SMO2-1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.00012611584679689258,AT1G07420,0.853,GM,added: SMO2-1 (core sterol pathway)
+g10833.t1_1,g10833,CYP51G1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.0039627328515052795,AT1G11680,0.811,GM,added: CYP51G1 (core sterol pathway)
+g29106.t1_1,g29106,HYD1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.0034476222936064005,AT1G20050,0.643,GM,added: HYD1 (core sterol pathway)
+g14187.t1_1,g14187,DWF7 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,2.165413681698425e-12,AT3G02580,0.771,GM,added: DWF7 (core sterol pathway)
+g9305.t1_1,g9305,DWF5 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,3.259566074120812e-05,AT1G50430,0.822,GM,added: DWF5 (core sterol pathway)
+g13055.t1_1,g13055,DWF1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,8.359349158126861e-05,AT3G19820,0.781,GM,added: DWF1 (core sterol pathway)
+g9126.t1_1,g9126,CYP710A1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.06376290321350098,AT2G34500,0.606,GM,added: CYP710A1 (core sterol pathway)
+g14244.t1_1,g14244,DWF4/CYP90B1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.26938724517822266,AT3G50660,0.367,GM,Cytochrome P450 superfamily protein
+g34782.t1_1,g34782,CPD/CYP90A1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.008108871057629585,AT5G05690,0.746,GM,Cytochrome P450 superfamily protein
+g17619.t1_1,g17619,CYP90D1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.00624513253569603,AT3G13730,0.617,GM,"cytochrome P450, family 90, subfamily D, polypeptide 1"
+g8645.t1_1,g8645,BR6OX1/CYP85A1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.3908140957355499,AT5G38970,0.67,GM,brassinosteroid-6-oxidase 1
+g14303.t1_1,g14303,ROT3/CYP90C1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.3610020875930786,AT4G36380,0.617,GM,Cytochrome P450 superfamily protein
+g34305.t1_1,g34305,CAS1 ortholog,sterol GM,0,B,mlp_seqcomp_seed_sd,0.3127550184726715,AT2G07050,0.794,GM,added: CAS1 (core sterol pathway)
